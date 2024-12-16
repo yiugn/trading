@@ -13,36 +13,126 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#welcome-to-stackedit">Welcome to StackEdit!</a></li>
-<li><a href="#files">Files</a>
+<li><a href="#자산-배분-투자-입문">자산 배분 투자 입문</a>
 <ul>
-<li><a href="#create-files-and-folders">Create files and folders</a></li>
-<li><a href="#switch-to-another-file">Switch to another file</a></li>
-<li><a href="#rename-a-file">Rename a file</a></li>
-<li><a href="#delete-a-file">Delete a file</a></li>
-<li><a href="#export-a-file">Export a file</a></li>
+<li><a href="#자산-배분-전략의-개요">자산 배분 전략의 개요</a></li>
+<li><a href="#왜-자산-배분-전략인가">왜 자산 배분 전략인가?</a></li>
+<li><a href="#결론-및-요약">결론 및 요약</a></li>
 </ul>
 </li>
-<li><a href="#synchronization">Synchronization</a>
+<li><a href="#자산-배분-투자를-위한-기초-지식">자산 배분 투자를 위한 기초 지식</a>
 <ul>
-<li><a href="#open-a-file">Open a file</a></li>
-<li><a href="#save-a-file">Save a file</a></li>
-<li><a href="#synchronize-a-file">Synchronize a file</a></li>
-<li><a href="#manage-file-synchronization">Manage file synchronization</a></li>
+<li><a href="#최대낙폭-mdd">최대낙폭 (MDD)</a></li>
+<li><a href="#연복리수익률-cagr">연복리수익률 (CAGR)</a></li>
+<li><a href="#샤프지수-sharpe-ratio">샤프지수 (Sharpe Ratio)</a></li>
+<li><a href="#명목수익-실질수익-초과수익">명목수익, 실질수익, 초과수익</a></li>
+<li><a href="#자산군-asset-class">자산군 (Asset Class)</a></li>
+<li><a href="#유니버스-universe">유니버스 (Universe)</a></li>
+<li><a href="#리밸런싱-rebalancing">리밸런싱 (Rebalancing)</a></li>
+<li><a href="#etf-exchange-traded-funds">ETF (Exchange Traded Funds)</a></li>
 </ul>
 </li>
-<li><a href="#publication">Publication</a>
+<li><a href="#복리-효과의-이해">복리 효과의 이해</a>
 <ul>
-<li><a href="#publish-a-file">Publish a File</a></li>
-<li><a href="#update-a-publication">Update a publication</a></li>
-<li><a href="#manage-file-publication">Manage file publication</a></li>
+<li><a href="#주식-투자에서-성공하는-이유--망하는-이유">주식 투자에서 성공하는 이유 / 망하는 이유</a></li>
+<li><a href="#주가는-복리로-움직인다">주가는 복리로 움직인다</a></li>
+<li><a href="#복리의-특성">복리의 특성</a></li>
+<li><a href="#결론-및-요약-1">결론 및 요약</a></li>
+<li><a href="#손익-비대칭의-원리">손익 비대칭의 원리</a></li>
+<li><a href="#변동성-손실">변동성 손실</a></li>
+<li><a href="#기하평균의-중요성">기하평균의 중요성</a></li>
+<li><a href="#결론-및-요약-2">결론 및 요약</a></li>
 </ul>
 </li>
-<li><a href="#markdown-extensions">Markdown extensions</a>
+<li><a href="#자산-배분-투자의-핵심-원리---종목-분산">자산 배분 투자의 핵심 원리 - 종목 분산</a>
 <ul>
-<li><a href="#smartypants">SmartyPants</a></li>
-<li><a href="#katex">KaTeX</a></li>
-<li><a href="#uml-diagrams">UML diagrams</a></li>
+<li><a href="#어떤-주식을-고를-것인가">어떤 주식을 고를 것인가?</a></li>
+<li><a href="#손실은-줄이고-수익은-높이는-분산-투자의-마법">손실은 줄이고 수익은 높이는 분산 투자의 마법</a></li>
+<li><a href="#완벽한-분산-투자-수단---etf">완벽한 분산 투자 수단 - ETF</a></li>
+<li><a href="#결론-및-요약-3">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---자산군-분산">자산 배분 투자의 핵심 원리 - 자산군 분산</a>
+<ul>
+<li><a href="#주식-종목-분산의-한계">주식 종목 분산의 한계</a></li>
+<li><a href="#자산군-분산의-필요성">자산군 분산의 필요성</a></li>
+<li><a href="#자산군-분산에서-현금의-중요성">자산군 분산에서 현금의 중요성</a></li>
+<li><a href="#결론-및-요약-4">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---장기적-우상향-자산에-투자">자산 배분 투자의 핵심 원리 - 장기적 우상향 자산에 투자</a>
+<ul>
+<li><a href="#장기적인-우상향의-의미">장기적인 우상향의 의미</a></li>
+<li><a href="#장기적으로-우상향하는-자산에-분산투자">장기적으로 우상향하는 자산에 분산투자</a></li>
+<li><a href="#최악의-분산-투자란">최악의 분산 투자란?</a></li>
+<li><a href="#결론-및-요약-5">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---리밸런싱-효과">자산 배분 투자의 핵심 원리 - 리밸런싱 효과</a>
+<ul>
+<li><a href="#포트폴리오-리밸런싱이란">포트폴리오 리밸런싱이란?</a></li>
+<li><a href="#포트폴리오-리밸런싱의-방법">포트폴리오 리밸런싱의 방법</a></li>
+<li><a href="#포트폴리오-리밸런싱의-효과---추가-수익-발생">포트폴리오 리밸런싱의 효과 - 추가 수익 발생</a></li>
+<li><a href="#포트폴리오-리밸런싱에-대한-대가들의-의견">포트폴리오 리밸런싱에 대한 대가들의 의견</a></li>
+<li><a href="#결론-및-요약-6">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---추세-추종-1">자산 배분 투자의 핵심 원리 - 추세 추종 (1)</a>
+<ul>
+<li><a href="#추세-추종이란">추세 추종이란?</a></li>
+<li><a href="#추세-추종의-원리">추세 추종의 원리</a></li>
+<li><a href="#추세-추종-매매-전략의-설정">추세 추종 매매 전략의 설정</a></li>
+<li><a href="#추세-추종-매매-전략-백테스트">추세 추종 매매 전략 백테스트</a></li>
+<li><a href="#추세-추종-전략이-강력한-수익을-주는-이유">추세 추종 전략이 강력한 수익을 주는 이유</a></li>
+<li><a href="#추세-추종의-강점과-역추세의-위험성">추세 추종의 강점과 역추세의 위험성</a></li>
+<li><a href="#장기-투자를-추세-추종으로-해야-하는-이유">장기 투자를 추세 추종으로 해야 하는 이유</a></li>
+<li><a href="#결론-및-요약-7">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---추세-추종-2">자산 배분 투자의 핵심 원리 - 추세 추종 (2)</a>
+<ul>
+<li><a href="#추세-판단의-핵심-지표---월간-모멘텀">추세 판단의 핵심 지표 - 월간 모멘텀</a></li>
+<li><a href="#모멘텀-전략의-종류---상대-모멘텀--절대-모멘텀">모멘텀 전략의 종류 - 상대 모멘텀 / 절대 모멘텀</a></li>
+<li><a href="#모멘텀-전략의-이론적-배경">모멘텀 전략의 이론적 배경</a></li>
+<li><a href="#상대-모멘텀-전략의-성과">상대 모멘텀 전략의 성과</a></li>
+<li><a href="#결론-및-요약-8">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---추세-추종-3">자산 배분 투자의 핵심 원리 - 추세 추종 (3)</a>
+<ul>
+<li><a href="#절대-모멘텀">절대 모멘텀</a></li>
+<li><a href="#절대-모멘텀-전략의-이론적-근거">절대 모멘텀 전략의 이론적 근거</a></li>
+<li><a href="#평균-모멘텀-스코어-ams--average-momentum-score-전략">평균 모멘텀 스코어 (AMS = Average Momentum Score) 전략</a></li>
+<li><a href="#결론-및-요약-9">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---추세-추종-4">자산 배분 투자의 핵심 원리 - 추세 추종 (4)</a>
+<ul>
+<li><a href="#듀얼-모멘텀">듀얼 모멘텀</a></li>
+<li><a href="#듀얼-모멘텀의-이론적-배경">듀얼 모멘텀의 이론적 배경</a></li>
+<li><a href="#결론-및-요약-10">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-투자의-핵심-원리---변동성-조절">자산 배분 투자의 핵심 원리 - 변동성 조절</a>
+<ul>
+<li><a href="#자산-배분의-문제점---서로-다른-변동성">자산 배분의 문제점 - 서로 다른 변동성</a></li>
+<li><a href="#변동성-역가중-전략">변동성 역가중 전략</a></li>
+<li><a href="#변동성을-구하는-방법">변동성을 구하는 방법</a></li>
+<li><a href="#변동성-역가중-전략의-성과">변동성 역가중 전략의 성과</a></li>
+<li><a href="#변동성-역가중-전략의-장점과-한계점">변동성 역가중 전략의 장점과 한계점</a></li>
+<li><a href="#결론-및-요약-11">결론 및 요약</a></li>
+</ul>
+</li>
+<li><a href="#자산-배분-전략의-종류">자산 배분 전략의 종류</a>
+<ul>
+<li><a href="#정적-자산-배분-전략">정적 자산 배분 전략</a></li>
+<li><a href="#정적-자산-배분-전략의-장점">정적 자산 배분 전략의 장점</a></li>
+<li><a href="#정적-자산-배분-전략의-단점">정적 자산 배분 전략의 단점</a></li>
+<li><a href="#동적-자산-배분-전략">동적 자산 배분 전략</a></li>
+<li><a href="#동적-자산-배분-전략의-장점">동적 자산 배분 전략의 장점</a></li>
+<li><a href="#동적-자산-배분-전략의-단점">동적 자산 배분 전략의 단점</a></li>
+<li><a href="#어떤-전략을-선택할-것인가">어떤 전략을 선택할 것인가?</a></li>
+<li><a href="#결론-및-요약-12">결론 및 요약</a></li>
 </ul>
 </li>
 </ul>
@@ -51,114 +141,1182 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
-<p>Hi! I’m your first Markdown file in <strong>StackEdit</strong>. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the <strong>file explorer</strong> on the left corner of the navigation bar.</p>
-<h1 id="files">Files</h1>
-<p>StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible <strong>offline!</strong></p>
-<h2 id="create-files-and-folders">Create files and folders</h2>
-<p>The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the <strong>New file</strong> button in the file explorer. You can also create folders by clicking the <strong>New folder</strong> button.</p>
-<h2 id="switch-to-another-file">Switch to another file</h2>
-<p>All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.</p>
-<h2 id="rename-a-file">Rename a file</h2>
-<p>You can rename the current file by clicking the file name in the navigation bar or by clicking the <strong>Rename</strong> button in the file explorer.</p>
-<h2 id="delete-a-file">Delete a file</h2>
-<p>You can delete the current file by clicking the <strong>Remove</strong> button in the file explorer. The file will be moved into the <strong>Trash</strong> folder and automatically deleted after 7 days of inactivity.</p>
-<h2 id="export-a-file">Export a file</h2>
-<p>You can export the current file by clicking <strong>Export to disk</strong> in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.</p>
-<h1 id="synchronization">Synchronization</h1>
-<p>Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your <strong>Google Drive</strong>, your <strong>Dropbox</strong> and your <strong>GitHub</strong> accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow… The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.</p>
-<p>There are two types of synchronization and they can complement each other:</p>
+      <h1 id="자산-배분-투자-입문">자산 배분 투자 입문</h1>
+<h2 id="자산-배분-전략의-개요">자산 배분 전략의 개요</h2>
+<p><strong>자산 배분 전략은 개별 주식에만 투자하는 것이 아닌 상관성이 서로 낮은 자산군에 분산 투자하는 방법</strong>으로, 주요 투자 자산군은 주식, 채권, 부동산, 상품, 현금 등이며, <strong>ETF를 주요 투자 수단</strong>으로 이용합니다.</p>
+<p>자산 배분 전략은 <strong>장기 투자 전략</strong>으로서, 일반적으로 월 단위 이상의 장기적인 투자 시계열을 기본으로 하는데, 일반적으로 <strong>연 10% 내외의 안정적인 수익</strong>을 달성하는 것이 목표입니다.</p>
+<h2 id="왜-자산-배분-전략인가">왜 자산 배분 전략인가?</h2>
+<p>주식 퀀트 투자나 단기 트레이딩을 하면 연 20 ~ 50% 이상의 수익까지도 얻을 수 있는데, 왜 연 10% 밖에 안 되는 자산 배분 투자를 해야 하는 것일까요? 그 이유는 다음과 같습니다.</p>
+<h3 id="안정성">안정성</h3>
+<p><strong>자산 배분 투자는 서로 상관성이 낮은 (움직임이 반대인) 자산들에 분산 투자하기 때문에 시장 상황에 크게 흔들리지 않고 투자</strong>할 수 있습니다. 주식 시장이 폭락하는 경우, 주식에만 몰빵했다면 손실이 엄청나게 커지지만, 자산 배분 투자를 한 경우 <strong>손실을 1/2 ~ 1/3 이하로 줄일 수 있습니다</strong>.</p>
+<p>주식에만 100% 투자한 경우 2008년 금융위기나, 2020년 코로나 쇼크 같은 상황을 맞이하면 <strong>원금 대비 -50% 이상의 손실이 얼마든지 발생</strong>할 수 있습니다. 하지만, 자산 배분 투자를 하면 <strong>-10 ~ 20% 수준의 손실로 방어가 가능</strong>합니다.</p>
+<h3 id="유동성">유동성</h3>
+<p>높은 수익률을 기대할 수 있는 단기 트레이딩 전략은 <strong>유동성의 한계</strong>가 있습니다. 유동성에 한계가 있다는 말은 <strong>거액의 자금을 운용하기 어렵다는 말</strong>입니다.</p>
+<p>개인이 여러 전략에 분산투자한다면 수억 단위 정도까지는 충분히 트레이딩할 수 있지만, 수십억 단위가 넘어가면 원하는 가격에 충분한 물량을 매수하고 매도하기가 어려워지기 때문에 주식 종목에 짧은 타임 프레임으로 투자하기가 점점 어려워집니다.</p>
+<p>하지만, 자산 배분 전략의 경우, 투자 대상이 <strong>코스피나 S&amp;P500 지수, 장기 국채 같은 유동성이 어마어마한 자산</strong>이기 때문에 사실상 자산 배분 전략의 <strong>유동성에는 제한이 없다</strong>고 해도 과언이 아닙니다.</p>
+<p>따라서, 장기적으로 거액의 자금을 복리로 굴리기 위해서는 <strong>자산 배분 전략을 반드시 알고 있어야 하며, 투자 전략의 하나로 편입</strong>시켜야 합니다.</p>
+<h3 id="수익성">수익성</h3>
+<p>자산 배분 전략의 수익성은 자산 배분 전략의 종류, 그리고 공격성에 따라 편차가 있지만, 대략 <strong>CAGR (연평균 수익률) 5 ~ 15% / MDD (최대손실폭) -10 ~ -20% 정도</strong>로 볼 수 있습니다. 연평균 수익률이 10% 정도면 별것 아닌 것 같지만, <strong>유동성의 제한이 없는 수준에서 연복리 수익률 10%를 꾸준히 달성할 수 있으면 세계 최고 수준의 헤지 펀드의 레벨</strong>이라고 할 수 있습니다.</p>
+<p>실제로 세계적인 투자은행 크레디트 스위스가 1994년부터 운용해 온 자산배분 펀드의 연평균 수익률은 약 9.5%에 달하며, 같은 기간 동안 MSCI 전세계 주가지수의 연평균 수익률은 약 6.2%에 그쳤습니다.</p>
+<p>또한, 1986년 이후 30년 이상 장기 데이터를 살펴보면, 글로벌 주식과 미국 국채에 60:40으로 투자한 포트폴리오는 연 8.3%의 꾸준한 수익률을 기록했습니다.</p>
+<p><img src="https://i.imgur.com/rJYaIMV.png" alt=""></p>
+<p><strong>연 평균 10%를 복리로 계속 누적</strong>시킬 수 있다면 시간이 지남에 따라, 누적되는 수익의 규모도 <strong>기하급수적으로 늘어나게 됩니다.</strong> 위 차트는 연평균 수익률 8%, 10%, 12%를 30년간 꾸준히 달성했을 때의 누적 자산 규모로, <strong>8% 연복리 수익의 경우 초기에 1억을 투자 시 30년 후 10억으로 불어나고, 10%의 경우 17억, 12%의 경우 30억으로 불어나는 것</strong>을 확인할 수 있습니다.</p>
+<p>연 10% 수준의 수익률이 별것 아닌 것 같지만, 장기간 이런 수익률이 복리로 누적될 경우 <strong>이렇게 큰 규모로 자산이 불어나게 됩니다.</strong></p>
+<h3 id="수익의-지속성">수익의 지속성</h3>
+<p>단기 트레이딩 전략은 유동성에도 제한이 있고, 전략이 노출되면 알파(전략의 수익성)가 사라지기도 할 뿐만 아니라, 장기간 안정적으로 수익을 내는 전략을 정교하게 디자인하기가 쉽지도 않고 과최적화에 빠지기도 쉽습니다. 따라서, 수익을 지속시키기 위해서는 <strong>지속해서 전략을 유지/보수하고 개발해야 하는 애로점이 있습니다</strong>.</p>
+<p>하지만, 자산 배분 전략은 이런 트레이딩 전략과 비교한다면 <strong>로직이 지극히 단순할 뿐만 아니라, 자산 배분 전략의 기본 원리 자체는 매우 논리적이고 상식적</strong>이기 때문에, <strong>자산 배분 전략의 수익성이 장기적으로 훼손되기란 구조적으로 매우 어렵습니다</strong>.</p>
+<p>자산 배분 전략은 <strong>주식이나 채권 같이 현금 흐름을 지속적으로 창출하여 우상향하는 자산에 분산투자</strong>하는 것이기 때문에, 주식이나 채권이 장기적으로 우하향하는 일이 발생하지 않는 한 수익성이 훼손될 수는 없습니다.</p>
+<p>바꾸어 말하자면, <strong>자산 배분 전략의 장기적인 수익성이 훼손되거나 손실이 발생하기 위해서는 자본주의가 종말을 맞이해야만 가능합니다</strong>.</p>
+<p>자산 배분 전략에만 투자하는 것도 좋은 방법이지만, 소액으로 단기간 고수익을 얻을 수 있는 트레이딩 전략을 통해 자산을 불려 나가면서 어느 정도 규모가 커지면 자산 배분 전략에 비중을 싣거나, 아니면 단기 트레이딩 전략과 자산 배분 전략을 병행하는 것도 훌륭한 방법입니다.</p>
+<p>이런 관점에서 본다면, <strong>자산 배분 투자는 옵션이 아닌 필수</strong>라고 할 수 있습니다. 왜냐하면, 자산의 규모가 커지면 자산 배분 전략이 반드시 필요할 수밖에 없기 때문입니다.</p>
+<h2 id="결론-및-요약">결론 및 요약</h2>
 <ul>
-<li>
-<p>The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.</p>
-<blockquote>
-<p>To start syncing your workspace, just sign in with Google in the menu.</p>
-</blockquote>
-</li>
-<li>
-<p>The file synchronization will keep one file of the workspace synced with one or multiple files in <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong>.</p>
-<blockquote>
-<p>Before starting to sync files, you must link an account in the <strong>Synchronize</strong> sub-menu.</p>
-</blockquote>
-</li>
+<li><strong>자산 배분 전략은 여러 자산군에 분산투자하여 연 10% 내외의 복리 수익을 얻는 장기 투자 전략이다</strong>- <strong>자산 배분 전략은 단순하면서도 로버스트한 전략이다</strong></li>
+<li><strong>자산 배분 전략은 안정적이면서도 거액의 자금을 운용할 수 있으므로, 모든 투자자가 잘 알고 실천해야 한다.</strong></li>
 </ul>
-<h2 id="open-a-file">Open a file</h2>
-<p>You can open a file from <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Open from</strong>. Once opened in the workspace, any modification in the file will be automatically synced.</p>
-<h2 id="save-a-file">Save a file</h2>
-<p>You can save any file of the workspace to <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Save on</strong>. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.</p>
-<h2 id="synchronize-a-file">Synchronize a file</h2>
-<p>Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.</p>
-<p>If you just have modified your file and you want to force syncing, click the <strong>Synchronize now</strong> button in the navigation bar.</p>
-<blockquote>
-<p><strong>Note:</strong> The <strong>Synchronize now</strong> button is disabled if you have no file to synchronize.</p>
-</blockquote>
-<h2 id="manage-file-synchronization">Manage file synchronization</h2>
-<p>Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking <strong>File synchronization</strong> in the <strong>Synchronize</strong> sub-menu. This allows you to list and remove synchronized locations that are linked to your file.</p>
-<h1 id="publication">Publication</h1>
-<p>Publishing in StackEdit makes it simple for you to publish online your files. Once you’re happy with a file, you can publish it to different hosting platforms like <strong>Blogger</strong>, <strong>Dropbox</strong>, <strong>Gist</strong>, <strong>GitHub</strong>, <strong>Google Drive</strong>, <strong>WordPress</strong> and <strong>Zendesk</strong>. With <a href="http://handlebarsjs.com/">Handlebars templates</a>, you have full control over what you export.</p>
-<blockquote>
-<p>Before starting to publish, you must link an account in the <strong>Publish</strong> sub-menu.</p>
-</blockquote>
-<h2 id="publish-a-file">Publish a File</h2>
-<p>You can publish your file by opening the <strong>Publish</strong> sub-menu and by clicking <strong>Publish to</strong>. For some locations, you can choose between the following formats:</p>
+<p>그렇다면, 자산 배분 전략에 성공하기 위해서는 어떻게 해야 할까요? 수익이 잘 나는 자산 배분 전략부터 공부해야 할까요? 그렇지 않습니다. <strong>천리 길도 한 걸음부터</strong>라고, 전략에 들어가기에 앞서 <strong>자산 배분 투자의 기초 지식부터 탄탄히 쌓을 필요</strong>가 있습니다.</p>
+<h1 id="자산-배분-투자를-위한-기초-지식">자산 배분 투자를 위한 기초 지식</h1>
+<p>전문 용어는 최대한 사용하지 않으려고 노력했지만, 꼭 필요한 개념 몇 가지는 알아두어야 앞으로 펼쳐질 내용을 이해하기 쉽습니다. 본격적인 투자 전략을 배우기에 앞서 계속 등장할 <strong>핵심 용어</strong>들만 짚고 넘어가겠습니다.</p>
+<h2 id="최대낙폭-mdd">최대낙폭 (MDD)</h2>
+<p>투자에서 가장 중요한 것을 꼽으라고 하면 대부분 수익률을 이야기합니다. 하지만 이것 못지않게, 아니 오히려 더 중요한 것이 있습니다. 바로 <strong>최대 낙폭, 즉 MDD (Maximum Drawdown)의 최소화</strong>입니다.</p>
+<p><strong>MDD란 특정 투자 기간 동안 투자자가 겪을 수 있는 가장 큰 손실</strong>을 뜻하며, 아래와 같이 계산할 수 있습니다.</p>
 <ul>
-<li>Markdown: publish the Markdown text on a website that can interpret it (<strong>GitHub</strong> for instance),</li>
-<li>HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).</li>
+<li><strong>MDD = (최저점 / 전고점) - 1</strong></li>
 </ul>
-<h2 id="update-a-publication">Update a publication</h2>
-<p>After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the <strong>Publish now</strong> button in the navigation bar.</p>
-<blockquote>
-<p><strong>Note:</strong> The <strong>Publish now</strong> button is disabled if your file has not been published yet.</p>
-</blockquote>
-<h2 id="manage-file-publication">Manage file publication</h2>
-<p>Since one file can be published to multiple locations, you can list and manage publish locations by clicking <strong>File publication</strong> in the <strong>Publish</strong> sub-menu. This allows you to list and remove publication locations that are linked to your file.</p>
-<h1 id="markdown-extensions">Markdown extensions</h1>
-<p>StackEdit extends the standard Markdown syntax by adding extra <strong>Markdown extensions</strong>, providing you with some nice features.</p>
-<blockquote>
-<p><strong>ProTip:</strong> You can disable any <strong>Markdown extension</strong> in the <strong>File properties</strong> dialog.</p>
-</blockquote>
-<h2 id="smartypants">SmartyPants</h2>
-<p>SmartyPants converts ASCII punctuation characters into “smart” typographic punctuation HTML entities. For example:</p>
+<p>1985년부터 2024년까지의 코스피지수로 예를 들어보겠습니다. 코스피지수는 1994년 당시 최고점인 1,145.66포인트에 도달한 적이 있습니다. 하지만 1998년까지 이 최고점을 한 번도 갱신하지 못하고 최저 277.37 포인트까지 하락했습니다. 그렇다면 코스피지수의 MDD는 75.79%(277.37/1,145.66-1)로 계산됩니다.</p>
+<p><img src="https://i.imgur.com/XSDH1Nh.png" alt=""></p>
+<p>1985년부터 2024년까지 코스피지수에 계속 투자한 사람이 있다면 <strong>최악의 순간 75.79%의 손실을 경험</strong>했다는 뜻입니다. 세상에서 가장 불운한 사람은 1994년 코스피지수에 투자를 시작해서 1998년 75.79% 손해를 보고 판 투자자겠죠.</p>
+<p>우리가 그 불운한 사람이 되지 않는다는 보장이 없을 뿐만 아니라, 투자 기간 중에 심리적으로 <strong>이 정도 손실을 견딜 수 있는 사람은 사실상 없습니다.</strong> 따라서 <strong>MDD가 너무 큰 투자전략은 피하는 것이 자산 배분의 핵심입니다.</strong></p>
+<p>실제로 MDD를 최소화하는 것은 투자에서 매우 중요한 요소입니다. 이는 손실의 크기가 증가할수록 손실을 만회하기 위해 필요한 수익률이 기하급수적으로 증가하기 때문입니다.</p>
+<p>예를 들어, 투자금의 10%를 잃었다면 이를 회복하기 위해서는 11%의 수익이 필요하지만, 50%를 잃었다면 100%의 수익이 필요합니다. 즉, <strong>MDD가 클수록 손실을 만회하기가 점점 어려워지는 것이죠</strong>.</p>
+<p><strong>MDD는 투자에서 핵심적인 개념</strong>으로, 이 강의에서 계속 중요하게 다룹니다. 뒤에서 더 자세히 살펴보겠지만, MDD가 커질 경우 <strong>원금 복구가 매우 어렵고, 투자자가 심리적인 충격을 크게 받아서 정상적인 투자를 지속할 가능성이 낮아진다는 사실</strong>만 알고 넘어가겠습니다.</p>
+<h2 id="연복리수익률-cagr">연복리수익률 (CAGR)</h2>
+<p>우리가 투자를 하는 이유는 수익을 내기 위해서입니다. 따라서 <strong>연복리수익률 (Compound Annual Growth Rate), CAGR을 극대화하는 것이 무엇보다 중요</strong>합니다. 연복리수익률이란, 투자기간 동안 발생한 누적 수익률을 1년을 기준으로 환산하여 평균 낸 수치를 의미합니다.</p>
+<p>주가지수나 가격의 움직임은 단리가 아닌 복리로 움직이므로 <strong>연복리 수익률은 산술평균이 아닌 기하평균으로 계산</strong>해야 합니다. 예를 들어, 5년 동안 누적 수익률이 100%가 발생했다면, 연평균 수익률은 100% / 5 = 20%가 아니라, 2^(1/5) = 1.14, 즉 14% 로 계산됩니다.</p>
+<p><strong>복리란 원금의 이자에 또 이자가 붙어 금액이 점차 눈덩이처럼 불어나는 것</strong>을 의미합니다. 이때 등장하는 것이 '<strong>72의 법칙</strong>’입니다. <strong>72를 연복리수익률로 나누면 원금이 2배가 되는 데 걸리는 시간을 알 수 있다는 법칙</strong>입니다.</p>
+<p>연복리수익률 14%를 예로 들어보겠습니다. 72의 법칙으로 계산하면 원금이 2배가 되는 데 약 5년 (72 / 14=5.1)이 걸립니다. 그런데 복리를 이용하면 놀랍게도 <strong>원금 2배가 4배가 되고, 4배가 8배가 되고, 8배가 16배가 되고, 16배가 32배가 되는 기간이 5년으로 모두 같습니다</strong>.</p>
+<p>이처럼 복리를 이용하면 <strong>자산을 기하급수적으로 불릴 수 있습니다</strong>. 이래서 <strong>복리의 마법</strong>이라는 표현이 있습니다. 시작은 미약하지만, 끝은 창대하다는 욥기의 성경 구절이 바로 복리의 효과와도 비슷한 것 같습니다.</p>
+<h2 id="샤프지수-sharpe-ratio">샤프지수 (Sharpe Ratio)</h2>
+<p>사람은 리스크를 피하려는 경향이 있습니다. 투자자 A는 은행 예금에 가입했고, 투자자 B는 주식에 투자했다고 가정하겠습니다. 10년 후 둘의 수익률이 동일하게 10%라면, 여러분은 어느 방법을 선택하겠습니까?</p>
+<p>아마 많은 사람이 중간에 큰 손실 구간 없이 10%의 수익률을 달성한 A의 방법을 선호할 것입니다. 그 이유는, <strong>리스크 회피 성향</strong> 때문입니다.</p>
+<p>그렇다면 리스크는 어떻게 측정할 수 있을까요? 일반적으로 금융에서는 <strong>수익률의 변동성</strong>을 리스크로 정의합니다. 주식시장은 매일 가격이 움직이며 수익률이 플러스 수십 퍼센트에서 마이너스 수십 퍼센트를 왔다 갔다 하므로 <strong>변동성이 매우 높다</strong>고 할 수 있습니다.</p>
+<p>은행 예금의 경우에는 받을 이자와 원금이 확실하므로 <strong>변동성이 매우 낮습니다</strong>. 이런 이유로, 변동성이 높은 자산에 투자하는 투자자들은 스트레스에 시달리게 됩니다.</p>
+<p>이런 관점에서 본다면 투자자들에게 가장 좋은 시나리오는 <strong>수익률은 높은데, 수익률의 변동성은 낮은 상황</strong>일 것입니다. 즉, <strong>안정적으로 높은 수익률이 나는 투자 방법이 가장 이상적</strong>이지요.</p>
+<p>이런 관점에서 투자 전략의 성과를 판정하는 객관적인 지표로 <strong>샤프 지수 (Sharp Ratio)</strong> 라는 것을 많이 이용합니다. 샤프 지수의 정의는 아래와 같습니다.</p>
+<ul>
+<li><strong>샤프지수= (연 평균 복리 수익률 - 무위험 자산(현금) 수익률) / 수익률의 변동성</strong></li>
+</ul>
+<p>즉 샤프 지수는 복리 수익률에서 변동성(리스크) 없이 확보할 수 있는 현금 수익을 뺀 뒤 이를 변동성으로 나눕니다. 이 때문에 샤프지수를 <strong>리스크 조정 수익</strong>이라고 부르기도 합니다.</p>
+<p>샤프지수가 높다는 것은 리스크가 적다는 뜻이므로 스트레스가 덜하다는 뜻이기도 합니다. 이런 관점에서 <strong>샤프 지수는 여러 전략의 성과와 우월성을 비교하는 객관적인 지표로 가장 널리 이용</strong>되고 있습니다.</p>
+<p>실제로 세계 최대 자산운용사 블랙록(BlackRock)이 발표한 보고서에 따르면, <strong>1971년부터 2015년까지 45년의 기간 동안 전통적인 60/40 포트폴리오(주식 60% + 채권 40%)의 연평균 수익률은 9.5%인데 반해 변동성은 9.0%밖에 되지 않아 샤프지수가 0.74로 상당히 높은 수준</strong>을 기록했습니다. 이는 자산배분을 통해 안정적인 수익을 달성할 수 있음을 보여주는 사례라고 할 수 있겠습니다.</p>
+<h2 id="명목수익-실질수익-초과수익">명목수익, 실질수익, 초과수익</h2>
+<p>투자를 해서 발생한 수익은 크게 <strong>명목수익, 실질수익, 초과수익</strong>으로 구분할 수 있습니다. <strong>명목수익은 눈에 보이는 수익</strong>입니다. 1000만 원을 투자해서 일 년 만에 100만 원을 벌었다면 10%(100만원/1000만 원)의 명목수익을 달성한 것입니다.</p>
+<p><strong>실질수익은 명목수익에서 물가 상승을 제한 수익</strong>으로, 구매력이 어느 정도 상승했는지 측정하는 지표입니다. 조금 전 사례에서 일년 동안 물가 상승률이 3%였다면 실질수익은 7%(10%-3%)입니다. 구매력이 일 년 동안 7% 상승한 것이죠.</p>
+<p>초과수익은 두 가지로 구분할 수 있습니다. 첫 번째, <strong>리스크 없는 안전 수익 대비 초과수익</strong>을 의미하는 경우입니다. 이때 사례에서 일 년 예금 이자가 2%였다면 리스크를 부담하지 않고도 2%의 수익을 낼 수 있다는 뜻입니다. 이 경우 안전 수익 대비 초과수익은 8%(10%-2%)입니다.</p>
+<p><strong>초과수익이 벤치마크(비교 대상) 대비 초과수익을 의미하는 경우</strong>도 있습니다. 한국 대형주에 투자해서 10%의 수익을 냈다고 가정하겠습니다. 동일한 구간에 코스피가 6% 상승했다고 가정하면 벤치마크 대비 초과수익은 4%(10%-6%)입니다.</p>
+<p>다른 예시로 이 강의에 등장하는 '듀얼 모멘텀’이라는 전략에 투자해서 15%를 벌었다고 해보겠습니다. 동일한 구간에 벤치마크인 미국 주가지수 S&amp;P 500이 10% 상승했다고 가정하면 벤치마크 대비 초과수익은 5%(15%-10%) 입니다.</p>
+<p>명목수익, 실질수익, 초과수익의 개념은 투자 성과를 정확히 평가하고 비교하기 위해 반드시 알아둘 필요가 있습니다. <strong>명목수익이 높아 보여도 물가상승률을 고려한 실질수익은 그리 높지 않을 수 있고, 무위험 수익률이나 벤치마크 수익률과 비교했을 때 초과수익이 크지 않다면 투자의 의미가 없어질 수 있기 때문</strong>입니다.</p>
+<h2 id="자산군-asset-class">자산군 (Asset Class)</h2>
+<p>방금 전 우리는 <strong>투자에서 MDD의 최소화가 아주 중요한 요인</strong>이라고 확인했습니다. 그런데 <strong>주식에만 투자하면 큰 폭의 MDD를 피할 수 없습니다.</strong> 보통 5~10년에 한 번 주요 주가지수 전체가 손실이 50%가 넘는 소위 ‘반토막’ 상황이 발생하는데, 이 기간에는 어떤 종목을 사도 큰 손실을 피하기 어렵습니다.</p>
+<p>자산이 반토막이 되는 가슴 아픈 순간을 피하려면 자산의 일부를 <strong>주식이 아닌 다른 자산군에 투자하는 것이 최선의 방법</strong>입니다. 이렇게 여러 자산군에 투자 자금을 배분하는 행위가 앞서 설명했던 '<strong>자산 배분</strong>’입니다.</p>
+<p>이 강의에서는 자산 배분의 기초적인 이론부터 실제적인 전략까지 아주 상세히 다룰 예정인데, 그에 앞서 <strong>자산 배분에 이용되는 기본적인 자산의 종류와 특징</strong>에 대해 상식적으로 알아둘 필요가 있습니다.</p>
+<p>자산 배분에 이용되는 대표적인 자산군은 다음과 같습니다.</p>
+<ul>
+<li><strong>주식 : Stocks</strong></li>
+<li><strong>채권 : Bonds</strong>
+<ul>
+<li>국채 : Goverment Bonds, Treasury</li>
+<li>회사채 : Corporate Bond</li>
+<li>하이일드 채권 : High Yield Bond</li>
+</ul>
+</li>
+<li><strong>현금 : Cash</strong></li>
+<li><strong>금 : Gold</strong></li>
+<li><strong>원자재 (상품) : Commodities</strong></li>
+<li><strong>부동산 (리츠) : Real Estate (REITs)</strong></li>
+</ul>
+<p><strong>주식은 우리가 잘 알고 있는 가장 대표적인 자산군</strong>입니다. 주식은 자산 배분에 있어서도 가장 핵심적이고 중요한 자산으로 <strong>장기적인 관점에서 연복리 수익률도 가장 높지만, 그만큼 변동성도 가장 큰 위험자산</strong>이기도 합니다.</p>
+<p><strong>주식은 기업의 영업 활동에 의한 부가 가치 창출, 배당금 지급, 인플레이션 반영에 의한 요인들 때문에 지속적인 현금 흐름이 창출되어 장기적으로 우상향하는 자산</strong>입니다. 실제로 1926년부터 2019년까지 약 94년의 기간 동안 미국 주식시장(S&amp;P500 지수 기준)의 연평균 수익률은 약 10% 수준을 기록했습니다.</p>
+<p><strong>채권은 주식과는 달리 확정된 이자를 지급하는 증권</strong>으로, <strong>주식보다는 장기 수익률은 낮지만, 변동성은 훨씬 작은 특징이 있어 대표적인 안전 자산</strong>으로 분류됩니다.</p>
+<p>뿐만 아니라, <strong>일반적으로 주식과의 상관성이 낮아 주식이 약세를 보이는 구간에서 채권은 상대적으로 강세를 보이므로, 주식과 분산투자하면 주식에만 올인했을 때의 리스크를 현저히 줄여주는 훌륭한 분산 투자 수단</strong>입니다.</p>
+<p>채권 역시 이자라는 확정된 현금흐름이 있기 때문에 장기적으로 우상향하는 특징을 보이는 자산으로, 주식과 함께 <strong>자산 배분에 있어 필수적인 중요한 자산군</strong>입니다. 앞서 언급한 94년의 기간 동안 미국 장기 국채의 연평균 수익률은 약 5% 수준을 기록했습니다.</p>
+<p>채권군은 기준에 따라 상당히 다양하게 분류될 수 있습니다. <strong>채권의 만기에 따라 만기가 짧은(3년 이내) 단기 채권, 만기가 중간 정도(5~10년)인 중기 채권, 10년 이상인 장기 채권</strong>으로 분류할 수도 있고, <strong>채권의 기초 자산(어디에 투자하는지)에 따라 국채(국고채)와 회사채, 하이일드 채권 등으로도 분류</strong>할 수 있습니다.</p>
+<p>일반적으로 <strong>채권의 만기가 길수록 수익률도 크고 변동성도 큽니다.</strong> 그래서, 20년 이상의 장기 채권의 경우 거의 주식과 비슷한 수준의 수익률과 변동성을 보이기도 합니다. 하지만, <strong>만기가 짧아질수록 변동성도 줄고 수익률도 같이 줄어드는 특성을 보입니다.</strong></p>
+<p>그리고, <strong>투자하는 자산에 따라 분류하면, 정부가 발행한 채권을 국고채라고 하고, 기업이 발행한 채권을 회사채(우량 회사채), 그리고 회사가 발행한 채권이지만, 채권의 투기 등급이 높아 고위험 고수익을 기대할 수 있는 채권을 하이일드 채권</strong>이라고 합니다.</p>
+<p>일반적으로 채권이라고 하면 <strong>장기 국고채를 의미</strong>하고, 장기 국고채는 정부에서 이자 지급을 보증한 채권이므로 <strong>안정성이 매우 높고, 주식 시장과 상관관계나 낮아 훌륭한 분산 투자 수단</strong>이 됩니다.</p>
+<p>회사채는 주식과 채권의 중간적인 속성을 가지고 있고, 하이일드 채권은 성격상 주식쪽에 훨씬 가까운 성격을 가지게 됩니다. 이런 관점에서 <strong>채권에 분산투자를 할 때는 채권의 종류에 따른 이런 속성을 잘 파악해서, 투자 전략에 맞는 적절한 자산을 선택하는 것이 중요</strong>하겠습니다.</p>
+<p>다음으로 <strong>현금</strong>에 대해서 살펴보겠습니다. 우리가 일반적으로 현금이라고 하면 순수하게 원화나 달러 같은 현찰을 생각하기 쉽지만, <strong>자산 배분에 있어 현금 자산이라고 하면 일반적으로 3년 만기 이하의 국고채 (혹은 그보다 더 짧은 3개월 만기 국고채)를 의미</strong>합니다.</p>
+<p>즉, 자산 배분에 있어 현금이라는 자산은 순수한 현금이 아니라는 말이지요. <strong>3년 이하의 단기 국고채는 변동성이 매우 낮고, 정부가 지급을 보증한 채권이기 때문에 사실상 현금에 가까운 자산이므로 자산 배분 전략에서는 이를 현금으로 취급</strong>한다는 것 반드시 알아두시기 바랍니다.</p>
+<p><strong>현금은 그 자체로 강력한 수익을 내는 자산군은 아니지만, 변동성이 매우 낮기 때문에 모든 자산과 조합했을 때 상관성이 낮아 분산 투자 자산으로 매우 훌륭합니다 (Universal diversifier)</strong>. 또한, <strong>다른 자산에서 큰 손실이 발생했을 때 손실을 희석시켜 리스크를 줄여주는 방어형 자산이기 때문에 자산 배분 전략에서 매우 중요한 역할을 담당</strong>합니다.</p>
+<p><strong>금은 전통적으로 실물 화폐의 기능을 담당</strong>했던 자산으로, <strong>인플레이션 상황에서 인플레이션을 헤지</strong>하고, 다른 자산군들의 리스크가 증가할 때 상대적으로 가치가 올라가는 경우가 많고 상관성이 낮아 <strong>대표적인 안전 자산</strong>으로 분류됩니다. 하지만, 금은 장기적인 관점에서 주식과 채권과 같이 배당이나 이자 수익과 같은 현금 흐름은 없기 때문에 <strong>자산 배분에 있어서는 보조적인 기능을 담당</strong>합니다.</p>
+<p><strong>원자재는 상품</strong>이라고 불리기도 하며, <strong>금속, 농산물, 원유 등과 같이 각종 제품을 만드는데 사용되는 원료가 되는 자산군</strong>을 의미합니다. 주식이나 채권과 낮은 상관성을 보이며 <strong>인플레이션 상황에서 이를 헤지하는 역할을 담당</strong>합니다.</p>
+<p>하지만, 원자재 역시 금과 같이 현금 흐름은 없는 자산군이므로, 장기적으로 우상향하지는 않고 상승 구간은 짧지만 하락 기간은 길기 때문에 <strong>자산 배분에 있어 보조적으로 편입하는 것이 좋습니다.</strong></p>
+<p><strong>부동산 자산은 부동산 투자를 통한 임대 수익을 얻거나 부동산 인프라 자체에 투자하는 자산</strong>을 의미합니다. 부동산 자산군 역시 임대 수익을 통한 현금 흐름이 창출되는 자산이기는 하나, 주식과의 상관성이 상대적으로 높고, 수익률은 주식보다는 낮아 <strong>위험 자산쪽으로 분류</strong>할 수 있습니다.</p>
+<p>이처럼 다양한 자산군이 있는데요, 자산군의 속성을 보면 <strong>주식이나 국채, 금, 현금 같이 확실하게 위험 자산 혹은 안전 자산으로 구분하기 쉬운 자산이 있는 반면, 회사채, 하이일드 채권, 원자재 같은 자산군은 위험자산과 안전자산의 중간적인 속성을 가지고 있는 경우</strong>도 있습니다.</p>
+<p>이후의 강의에서 천천히 살펴보겠지만, <strong>자산 배분 투자를 할 때는 각 자산의 속성과 상관성 특징에 대해 잘 알고 투자하는 것이 매우 중요</strong>하므로, 지금 알아본 내용을 잘 숙지하시기 바라겠습니다.</p>
+<h2 id="유니버스-universe">유니버스 (Universe)</h2>
+<p>유니버스의 본래 뜻은 여러분도 아시는 것처럼, ‘<strong>우주</strong>’ 입니다. 모든 것을 다 포괄하는 넓은 범위를 의미하지요. <strong>투자에서도 유니버스라는 용어가 쓰이는데, 투자에서 쓰이는 유니버스는 투자의 대상이 되는 모든 종목이나 자산을 포함하는 커다란 집합</strong>을 의미합니다.</p>
+<p>비유로 하자면, 월드컵 축구 대표팀 엔트리에 26명이 포함되어 있다면 이 26명이 축구 대표팀 유니버스라고 할 수 있습니다. 하지만, 실제로 경기에서 뛰는 선수들은 11명이지요? 즉, 26명이라는 축구 대표팀 유니버스에서 11명을 게임마다 선발하여 교체 투입할 수 있지요.</p>
+<p><strong>자산 배분 투자에서도 유니버스가 존재합니다.</strong> 주식군에는 미국주식, 한국 주식, 전세계 주식 같은 투자 유니버스가 있을 수 있고, 채권군에도 단기 채권, 장기 채권, 회사채, 국채 등과 같이 유니버스를 구성할 수 있습니다.</p>
+<p><strong>자산 배분을 할 때 유니버스에 속한 모든 종목에 다 투자를 할 수도 있지만, 전략의 종류에 따라 유니버스 중 일부만을 취할 수도 있고, 유니버스에 속한 종목을 지속적으로 교체할 수도 있습니다.</strong> 마치 축구 대표팀 26명 유니버스에서 게임마다 서로 다른 선수들을 선발하여 출전시킬 수 있는 것과 동일한 원리이지요.</p>
+<h2 id="리밸런싱-rebalancing">리밸런싱 (Rebalancing)</h2>
+<p><strong>리밸런싱이란 주기적으로 실제 투자 비중을 목표 비중과 맞추는 것</strong>을 뜻합니다. 자산의 60%를 주식, 40%를 채권에 투자하는 자산배분의 비중을 유지하고 싶다고 생각해 봅시다. 시간이 지나면 주식이 계속 오르고 채권이 계속 떨어질 수도 있습니다. 물론 반대도 가능합니다.</p>
+<p>그러면 주식 비중이 80%, 채권 비중이 20%로 변할 수도 있겠죠. 이 경우 처음에 원했던 주식 60%, 채권 40%의 비중과 많이 달라지게 됩니다. 따라서 <strong>주식을 팔아 채권을 사서 다시 60/40의 비중을 맞추게 되는데 이 작업을 바로 리밸런싱</strong>이라고 합니다.</p>
+<p>리밸런싱은 투자 전략에 따라 다르게 적용되는데요, 방금 설명한 것처럼 <strong>정적으로(비율이 고정) 이루어질 수도 있고 동적으로(비율이 특정한 규칙에 따라 동적으로 바뀜) 이루어질 수도 있습니다.</strong></p>
+<p>여러 투자 자산으로 구성된 포트폴리오에서 동적으로 비중이 조절되는 경우에는 비중 뿐만 아니라 종목 교체도 발생할 수 있습니다. 예를 들어, A : B = 50 : 50 이었던 포트폴리오에서 B 종목이 빠지고 A : C = 50 : 50 으로 리밸런싱되는 경우에는 종목까지도 교체되는 것이지요.</p>
+<p>따라서, <strong>리밸런싱은 좁은 의미에서는 투자 자산의 비중이 변경되는 것이지만, 넓은 의미로는 비중 변경 뿐만 아니라 종목 교체까지 포함하는 개념</strong>으로 보시면 되겠습니다.</p>
+<p>리밸런싱의 장점은 <strong>실제 투자 비중이 다시 목표 비중과 일치하게 된다는 점</strong>이며, 경우에 따라 이 과정에서 <strong>추가적인 수익이 발생할 수 있습니다.</strong> 이를 리밸런싱 효과라고 하는데, 리밸런싱 효과에 대한 내용은 강의에서 자세히 다루겠습니다.</p>
+<p>리밸런싱의 단점은 <strong>이 과정에서 수수료 등 거래 비용이 발생한다는 점</strong>입니다. 따라서 리밸런싱을 너무 자주 하는 것은 좋지 않고 <strong>동적 자산 배분 전략에서는 1개월, 정적 자산 배분 전략에서는 6개월 또는 1년에 한 번만 리밸런싱하는 것이 좋습니다.</strong></p>
+<p>실제로 1988년부터 2017년까지 30년 동안 미국 주식(S&amp;P500)과 미국 중기국채에 60/40으로 투자하되, 1년에 한 번씩 리밸런싱을 한 포트폴리오는 연 9.8%의 수익률을 기록했습니다. 동일 기간 리밸런싱을 하지 않은 경우 수익률은 연 9.2%에 그쳤습니다. 이는 리밸런싱이 장기 수익률 제고에 긍정적으로 작용할 수 있음을 보여주는 연구결과입니다.</p>
+<h2 id="etf-exchange-traded-funds">ETF (Exchange Traded Funds)</h2>
+<p>본 강의에서 소개하는 모든 자산배분 및 마켓 타이밍 전략은 개별종목이 아니라 <strong>ETF (Exchange Traded Funds)를 사용</strong>합니다. ETF는 <strong>코스피 200, S&amp;P 500 등 특정 지수의 수익률을 복사할 수 있도록 설계된 주가지수 연동형 상품</strong>입니다.</p>
+<p>이렇게 단순하게 지수를 모방하는 상품인지라 지수 설계 후에는 인간의 주관이 개입할 여지가 없어서 대부분 <strong>ETF의 수수료는 매우 저렴한 수준(연 0.5% 이하)이라는 큰 장점</strong>이 있습니다. 또한 ETF는 인덱스 펀드와 달리 거래소에 상장되어 <strong>주식처럼 자유롭게 사고팔 수 있습니다.</strong></p>
+<p><strong>ETF는 ‘어떠한 공통점이 있는’ 투자 자산을 매입하는 것이 구조</strong>입니다. 초창기에는 '같은 나라의 주식’인 주가지수를 연동하는 상품들이 많았으나, 요즘은 채권, 금, 원자재 등 다른 자산군에 투자하는 ETF도 있습니다.</p>
+<p>또한, 주식 내에서도 특정한 산업(반도체 산업,바이오 산업), 지역(유럽 주식, 개발도상국 주식), 투자 스타일(최근 많이 오른 주식, 저평가된 주식)의 수익률을 추종하는 ETF도 생겼습니다. 지수의 수익과 손실을 극대화하는 레버리지 ETF, 지수와 정반대의 수익을 내는 인버스 ETF도 있습니다.</p>
+<p>본 강의에서는 <strong>분산투자의 위력을 심도 있게 다루는데, ETF는 한 개 종목만 사고팔아도 수십 개 또는 수백 개 종목에 분산투자를 한 효과</strong>가 있습니다. 예를 들면 코스피 200의 수익률을 복사하는 KODEX 200 ETF를 매수할 경우 대한민국 200개 대표 기업에 분산 투자하는 효과를 얻게 되는 것입니다.</p>
+<p>최근에는 <strong>전세계의 ETF에 실시간으로 투자할 수 있는 환경이 도래</strong>했습니다. 이런 관점에서, <strong>글로벌 투자, 특히 여러 자산군을 아우르는 투자는 매우 중요</strong>합니다. 한국 ETF 시장보다는 미국 시장에 훨씬 더 다양한 ETF가 상장되어 있어서 주로 <strong>미국 시장 ETF에 투자하는 것도 훌륭한 투자 전략</strong>입니다. 예를 들면 물가연동채, 신흥국 채권 등 일부 자산군은 한국 상장 ETF가 아직 없습니다.</p>
+<p><strong>글로벌 ETF에 투자해야 하는 이유가 하나 더 있습니다.</strong> 한국인인 우리는 한국 경제와 투자시장 노출 비중이 너무 큽니다. 한국인 투자자는 대부분 한국 땅의 부동산을 소유하고 있고, 주식도 거의 한국 주식에만 투자합니다. 그뿐만 아니라 급여 소득이나 사업 소득도 대부분 한국에서 발생합니다. 즉, <strong>대부분의 한국인 소득은 99% 이상이 한국에서 발생합니다.</strong></p>
+<p>이는 한국 경제가 휘청일 때 우리 삶의 근간도 크게 흔들릴 수 있음을 의미합니다. 특히 실직을 하거나 사업 수익이 급감하면 더욱더 그렇습니다. 따라서 <strong>해외 투자를 늘려서 한국 경제 노출 비중을 줄이는 것이 경제적 빈곤을 피하고 성공 투자를 하는데 매우 중요</strong>합니다.</p>
+<p>본 강의에서 등장하는 ETF는 다음과 같습니다. 각 ETF에는 티커가 부여되어 있는데, 이는 주식에 부여되는 특정 코드를 말합니다. 미국 주식의 경우 알파벳으로 이루어져 있으며, 예를 들어 S&amp;P 500의 티커는 SPY, 나스닥의 티커는 QQQ입니다. 티커를 검색하면 손쉽게 해당 ETF를 찾을 수 있습니다. 아래에는 주요한 자산군과 이에 해당하는 대표적인 ETF의 티커를 표로 정리하였습니다.</p>
 
 <table>
 <thead>
 <tr>
-<th></th>
-<th>ASCII</th>
-<th>HTML</th>
+<th>자산군</th>
+<th>영문</th>
+<th>티커</th>
+<th>한국 상장 ETF</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Single backticks</td>
-<td><code>'Isn't this fun?'</code></td>
-<td>‘Isn’t this fun?’</td>
+<td>글로벌 주식</td>
+<td>Global Stocks</td>
+<td>VT</td>
+<td>ARIRANG 글로벌 MSCI</td>
 </tr>
 <tr>
-<td>Quotes</td>
-<td><code>"Isn't this fun?"</code></td>
-<td>“Isn’t this fun?”</td>
+<td>미국 주식(S&amp;P 500)</td>
+<td>US Stocks(S&amp;P500)</td>
+<td>SPY</td>
+<td>KODEX 미국S&amp;P500선물(H)</td>
 </tr>
 <tr>
-<td>Dashes</td>
-<td><code>-- is en-dash, --- is em-dash</code></td>
-<td>– is en-dash, — is em-dash</td>
+<td>미국 주식(NASDAQ)</td>
+<td>US Stocks(NASDAQ)</td>
+<td>QQQ</td>
+<td>TIGER미국나스닥100</td>
+</tr>
+<tr>
+<td>미국 대형가치주</td>
+<td>US Large Cap Value</td>
+<td>IWD</td>
+<td></td>
+</tr>
+<tr>
+<td>미국 소형가치주</td>
+<td>US Small Cap Value</td>
+<td>IWN</td>
+<td></td>
+</tr>
+<tr>
+<td>미국 소형주</td>
+<td>US Small Cap Stocks</td>
+<td>WM</td>
+<td>KODEX 미국러셀 2000</td>
+</tr>
+<tr>
+<td>선진국 주식</td>
+<td>Developed Market Stocks</td>
+<td>EFA</td>
+<td>KODEX 선진국MSCI World</td>
+</tr>
+<tr>
+<td>유럽 주식</td>
+<td>European Stocks</td>
+<td>VGK</td>
+<td>TIGER 유로스탁스 50</td>
+</tr>
+<tr>
+<td>일본 주식</td>
+<td>Japanese Stocks</td>
+<td>EWJ</td>
+<td>KODEX 일본TOPIX100</td>
+</tr>
+<tr>
+<td>한국 주식</td>
+<td></td>
+<td></td>
+<td>KODEX 200</td>
+</tr>
+<tr>
+<td>개발도상국 주식</td>
+<td>Emerging Market Stocks</td>
+<td>EEM</td>
+<td>ARIRANG 신흥국MSCI</td>
+</tr>
+<tr>
+<td>미국 초장기국채</td>
+<td>Extended Duration Treasury Bonds</td>
+<td>EDV</td>
+<td></td>
+</tr>
+<tr>
+<td>미국 장기국채</td>
+<td>Long-term Treasury Bonds</td>
+<td>TLT</td>
+<td>KODEX 미국채울트라30년선물(H)</td>
+</tr>
+<tr>
+<td>미국 중기국채</td>
+<td>Intermediate Treasury Bonds</td>
+<td>IEF</td>
+<td>TIGER 미국채10년선물</td>
+</tr>
+<tr>
+<td>미국 단기국채</td>
+<td>Short-term Treasury Bonds</td>
+<td>SHY</td>
+<td>TIGER 미국단기채권액티브</td>
+</tr>
+<tr>
+<td>미국 초단기국채(현금)</td>
+<td>Treasury Bills</td>
+<td>BIL</td>
+<td>KODEX 미국국채선물</td>
+</tr>
+<tr>
+<td>미국 물가연동채</td>
+<td>Treasury-inflation Protected Securities(TIPS)</td>
+<td>LTPZ</td>
+<td></td>
+</tr>
+<tr>
+<td>미국 회사채</td>
+<td>US Corporate Bonds</td>
+<td>LQD</td>
+<td>ARIRANG 미국장기우량회사채</td>
+</tr>
+<tr>
+<td>미국 하이일드 채권</td>
+<td>US High Yield Bonds</td>
+<td>HYG</td>
+<td></td>
+</tr>
+<tr>
+<td>미국 채권(국채, 지방채, 회사채 등 구분 없는)</td>
+<td>US Aggregate Bonds</td>
+<td>AGG, BND</td>
+<td></td>
+</tr>
+<tr>
+<td>글로벌 국채</td>
+<td>Global Government Bonds</td>
+<td>BWX</td>
+<td></td>
+</tr>
+<tr>
+<td>개발도상국 채권</td>
+<td>Emerging Market Bonds</td>
+<td>EMLC</td>
+<td></td>
+</tr>
+<tr>
+<td>한국 장기채</td>
+<td></td>
+<td></td>
+<td>TIGER 중장기국채</td>
+</tr>
+<tr>
+<td>한국 단기채</td>
+<td></td>
+<td></td>
+<td>KODEX 단기채권</td>
+</tr>
+<tr>
+<td>금</td>
+<td>Gold</td>
+<td>GLD</td>
+<td>TIGER 골드선물(H)</td>
+</tr>
+<tr>
+<td>원자재</td>
+<td>Commodities</td>
+<td>DBC</td>
+<td></td>
+</tr>
+<tr>
+<td>부동산(미국 리츠)</td>
+<td>Real Estate(REITs)</td>
+<td>VNO</td>
+<td>TIGER 미국MSCI리츠(합성 H)</td>
 </tr>
 </tbody>
-</table><h2 id="katex">KaTeX</h2>
-<p>You can render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
-<p>The <em>Gamma function</em> satisfying <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">!</mo><mspace width="1em"></mspace><mi mathvariant="normal">∀</mi><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi></mrow><annotation encoding="application/x-tex">\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">1</span><span class="mclose">)!</span><span class="mspace" style="margin-right: 1em;"></span><span class="mord">∀</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.68889em; vertical-align: 0em;"></span><span class="mord mathbb">N</span></span></span></span></span> is via the Euler integral</p>
-<p><span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mi mathvariant="normal">∞</mi></msubsup><msup><mi>t</mi><mrow><mi>z</mi><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>e</mi><mrow><mo>−</mo><mi>t</mi></mrow></msup><mi>d</mi><mi>t</mi> <mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right: 0.04398em;">z</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 2.32624em; vertical-align: -0.91195em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right: 0.44445em; position: relative; top: -0.001125em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.41429em;"><span class="" style="top: -1.78805em; margin-left: -0.44445em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span><span class="" style="top: -3.8129em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.91195em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.864108em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right: 0.04398em;">z</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.843556em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mathnormal mtight">t</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord">.</span></span></span></span></span></span></p>
+</table><h1 id="복리-효과의-이해">복리 효과의 이해</h1>
+<p>본 강의의 목표는 자산 배분의 모든 것을 마스터하는 것이지만, 처음에는 자산 배분의 기초 이론이 아닌, <strong>주식 투자의 기초 이론</strong>에서 시작하려고 합니다. 그 이유는, <strong>자산 배분 투자는 개별적인 주식 투자의 위험성을 헤지하기 위한 목적에서 시작되고 발전</strong>되었기 때문입니다.</p>
+<p>이런 관점에서, 주식 투자의 기초 이론을 간단하게 리뷰하면, <strong>자산 배분 투자가 왜 필요한지도 더 깊이 알 수 있고, 자산 배분 투자에 대한 기초를 탄탄히 쌓을 수 있게 됩니다.</strong></p>
+<p>이 기초 지식은 자산 배분 투자뿐만 아니라, 주식, 채권, 외환, 부동산, 비트코인 등 <strong>투자의 모든 분야에 공통적으로 적용되는 핵심적인 원리</strong>일 뿐만 아니라, 거시적인 관점에서는 투자를 넘어 <strong>여러분의 인생의 성공에도 적용되는 엄청나게 중요한 원리</strong>이므로 집중해 주시기 바랍니다.</p>
+<p>그럼 시작해볼까요?</p>
+<h2 id="주식-투자에서-성공하는-이유--망하는-이유">주식 투자에서 성공하는 이유 / 망하는 이유</h2>
+<p>여러분은 아마 이렇게 생각하실지 모르겠습니다.</p>
 <blockquote>
-<p>You can find more information about <strong>LaTeX</strong> mathematical expressions <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
+<p>지금부터 열심히 공부할 테니 빨리 주식 투자로 돈 버는 방법 좀 알려주세요~</p>
 </blockquote>
-<h2 id="uml-diagrams">UML diagrams</h2>
-<p>You can render UML diagrams using <a href="https://mermaidjs.github.io/">Mermaid</a>. For example, this will produce a sequence diagram:</p>
-<pre class=" language-mermaid"><svg id="mermaid-svg-1B5jqCgY34Lq4RXe" width="100%" xmlns="http://www.w3.org/2000/svg" height="559" style="max-width: 829px;" viewBox="-50 -10 829 559"><style>#mermaid-svg-1B5jqCgY34Lq4RXe{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#mermaid-svg-1B5jqCgY34Lq4RXe .error-icon{fill:#552222;}#mermaid-svg-1B5jqCgY34Lq4RXe .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-1B5jqCgY34Lq4RXe .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-1B5jqCgY34Lq4RXe .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-1B5jqCgY34Lq4RXe .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-1B5jqCgY34Lq4RXe .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-1B5jqCgY34Lq4RXe .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-1B5jqCgY34Lq4RXe .marker{fill:#666;stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe .marker.cross{stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-1B5jqCgY34Lq4RXe .actor{stroke:hsl(0,0%,83%);fill:#eee;}#mermaid-svg-1B5jqCgY34Lq4RXe text.actor > tspan{fill:#333;stroke:none;}#mermaid-svg-1B5jqCgY34Lq4RXe .actor-line{stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe .messageLine0{stroke-width:1.5;stroke-dasharray:none;stroke:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe .messageLine1{stroke-width:1.5;stroke-dasharray:2,2;stroke:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe #arrowhead path{fill:#333;stroke:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe .sequenceNumber{fill:white;}#mermaid-svg-1B5jqCgY34Lq4RXe #sequencenumber{fill:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe #crosshead path{fill:#333;stroke:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe .messageText{fill:#333;stroke:#333;}#mermaid-svg-1B5jqCgY34Lq4RXe .labelBox{stroke:hsl(0,0%,83%);fill:#eee;}#mermaid-svg-1B5jqCgY34Lq4RXe .labelText,#mermaid-svg-1B5jqCgY34Lq4RXe .labelText > tspan{fill:#333;stroke:none;}#mermaid-svg-1B5jqCgY34Lq4RXe .loopText,#mermaid-svg-1B5jqCgY34Lq4RXe .loopText > tspan{fill:#333;stroke:none;}#mermaid-svg-1B5jqCgY34Lq4RXe .loopLine{stroke-width:2px;stroke-dasharray:2,2;stroke:hsl(0,0%,83%);fill:hsl(0,0%,83%);}#mermaid-svg-1B5jqCgY34Lq4RXe .note{stroke:hsl(60,100%,23.3333333333%);fill:#ffa;}#mermaid-svg-1B5jqCgY34Lq4RXe .noteText,#mermaid-svg-1B5jqCgY34Lq4RXe .noteText > tspan{fill:#333;stroke:none;}#mermaid-svg-1B5jqCgY34Lq4RXe .activation0{fill:#f4f4f4;stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe .activation1{fill:#f4f4f4;stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe .activation2{fill:#f4f4f4;stroke:#666;}#mermaid-svg-1B5jqCgY34Lq4RXe:root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}#mermaid-svg-1B5jqCgY34Lq4RXe sequence{fill:apa;}</style><g></g><g><line id="actor18" x1="75" y1="5" x2="75" y2="548" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g><g><line id="actor19" x1="324" y1="5" x2="324" y2="548" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="249" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="324" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="324" dy="0">Bob</tspan></text></g><g><line id="actor20" x1="554" y1="5" x2="554" y2="548" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="479" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="554" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="554" dy="0">John</tspan></text></g><defs><marker id="arrowhead" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><defs><marker id="filled-head" refX="18" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L14,7 L9,1 Z"></path></marker></defs><defs><marker id="sequencenumber" refX="15" refY="15" markerWidth="60" markerHeight="40" orient="auto"><circle cx="15" cy="15" r="6"></circle></marker></defs><text x="200" y="80" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Hello Bob, how are you?</text><line x1="75" y1="117" x2="324" y2="117" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="fill: none;"></line><text x="439" y="132" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">How about you John?</text><line x1="324" y1="169" x2="554" y2="169" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="200" y="184" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">I am good thanks!</text><line x1="324" y1="221" x2="75" y2="221" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#crosshead)" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="439" y="236" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">I am good thanks!</text><line x1="324" y1="273" x2="554" y2="273" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#crosshead)" style="fill: none;"></line><g><rect x="579" y="283" fill="#EDF2AE" stroke="#666" width="150" height="84" rx="0" ry="0" class="note"></rect><text x="654" y="288" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="654">Bob thinks a long</tspan></text><text x="654" y="304" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="654">long time, so long</tspan></text><text x="654" y="320" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="654">that the text does</tspan></text><text x="654" y="336" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="654">not fit on a row.</tspan></text></g><text x="200" y="382" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Checking with John...</text><line x1="324" y1="415" x2="75" y2="415" class="messageLine1" stroke-width="2" stroke="none" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="315" y="430" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Yes... John, how are you?</text><line x1="75" y1="463" x2="554" y2="463" class="messageLine0" stroke-width="2" stroke="none" style="fill: none;"></line><g><rect x="0" y="483" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="515.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g><g><rect x="249" y="483" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="324" y="515.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="324" dy="0">Bob</tspan></text></g><g><rect x="479" y="483" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="554" y="515.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="554" dy="0">John</tspan></text></g></svg></pre>
-<p>And this will produce a flow chart:</p>
-<pre class=" language-mermaid"><svg id="mermaid-svg-VButPncQbGZVkTHK" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="174.4375" style="max-width: 502.75px;" viewBox="0 0 502.75 174.4375"><style>#mermaid-svg-VButPncQbGZVkTHK{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#mermaid-svg-VButPncQbGZVkTHK .error-icon{fill:#552222;}#mermaid-svg-VButPncQbGZVkTHK .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-VButPncQbGZVkTHK .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-VButPncQbGZVkTHK .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-VButPncQbGZVkTHK .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-VButPncQbGZVkTHK .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-VButPncQbGZVkTHK .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-VButPncQbGZVkTHK .marker{fill:#666;stroke:#666;}#mermaid-svg-VButPncQbGZVkTHK .marker.cross{stroke:#666;}#mermaid-svg-VButPncQbGZVkTHK svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-VButPncQbGZVkTHK .label{font-family:"trebuchet ms",verdana,arial,sans-serif;color:#000000;}#mermaid-svg-VButPncQbGZVkTHK .cluster-label text{fill:#333;}#mermaid-svg-VButPncQbGZVkTHK .cluster-label span{color:#333;}#mermaid-svg-VButPncQbGZVkTHK .label text,#mermaid-svg-VButPncQbGZVkTHK span{fill:#000000;color:#000000;}#mermaid-svg-VButPncQbGZVkTHK .node rect,#mermaid-svg-VButPncQbGZVkTHK .node circle,#mermaid-svg-VButPncQbGZVkTHK .node ellipse,#mermaid-svg-VButPncQbGZVkTHK .node polygon,#mermaid-svg-VButPncQbGZVkTHK .node path{fill:#eee;stroke:#999;stroke-width:1px;}#mermaid-svg-VButPncQbGZVkTHK .node .label{text-align:center;}#mermaid-svg-VButPncQbGZVkTHK .node.clickable{cursor:pointer;}#mermaid-svg-VButPncQbGZVkTHK .arrowheadPath{fill:#333333;}#mermaid-svg-VButPncQbGZVkTHK .edgePath .path{stroke:#666;stroke-width:1.5px;}#mermaid-svg-VButPncQbGZVkTHK .flowchart-link{stroke:#666;fill:none;}#mermaid-svg-VButPncQbGZVkTHK .edgeLabel{background-color:white;text-align:center;}#mermaid-svg-VButPncQbGZVkTHK .edgeLabel rect{opacity:0.5;background-color:white;fill:white;}#mermaid-svg-VButPncQbGZVkTHK .cluster rect{fill:hsl(210,66.6666666667%,95%);stroke:#26a;stroke-width:1px;}#mermaid-svg-VButPncQbGZVkTHK .cluster text{fill:#333;}#mermaid-svg-VButPncQbGZVkTHK .cluster span{color:#333;}#mermaid-svg-VButPncQbGZVkTHK div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;background:hsl(-160,0%,93.3333333333%);border:1px solid #26a;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-svg-VButPncQbGZVkTHK:root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}#mermaid-svg-VButPncQbGZVkTHK flowchart{fill:apa;}</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath LS-A LE-B" id="L-A-B" style="opacity: 1;"><path class="path" d="M109.66244612068965,67.609375L170.0546875,38.859375L246.125,38.859375" marker-end="url(https://stackedit.io/app#arrowhead25)" style="fill:none"></path><defs><marker id="arrowhead25" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-A LE-C" id="L-A-C" style="opacity: 1;"><path class="path" d="M109.66244612068965,114.328125L170.0546875,143.078125L226.921875,143.078125" marker-end="url(https://stackedit.io/app#arrowhead26)" style="fill:none"></path><defs><marker id="arrowhead26" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-B LE-D" id="L-B-D" style="opacity: 1;"><path class="path" d="M307.84375,38.859375L352.046875,38.859375L400.1027516807447,68.9128733192553" marker-end="url(https://stackedit.io/app#arrowhead27)" style="fill:none"></path><defs><marker id="arrowhead27" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-C LE-D" id="L-C-D" style="opacity: 1;"><path class="path" d="M327.046875,143.078125L352.046875,143.078125L400.1027516807447,114.0246266807447" marker-end="url(https://stackedit.io/app#arrowhead28)" style="fill:none"></path><defs><marker id="arrowhead28" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="translate(170.0546875,38.859375)" style="opacity: 1;"><g transform="translate(-31.8671875,-13.359375)" class="label"><rect rx="0" ry="0" width="63.734375" height="26.71875"></rect><foreignObject width="63.734375" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-A-B" class="edgeLabel L-LS-A' L-LE-B">Link text</span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-A-C" class="edgeLabel L-LS-A' L-LE-C"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-B-D" class="edgeLabel L-LS-B' L-LE-D"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-C-D" class="edgeLabel L-LS-C' L-LE-D"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="flowchart-A-104" transform="translate(60.59375,90.96875)" style="opacity: 1;"><rect rx="0" ry="0" x="-52.59375" y="-23.359375" width="105.1875" height="46.71875" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42.59375,-13.359375)"><foreignObject width="85.1875" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Square Rect</div></foreignObject></g></g></g><g class="node default" id="flowchart-B-105" transform="translate(276.984375,38.859375)" style="opacity: 1;"><circle x="-30.859375" y="-23.359375" r="30.859375" class="label-container"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-20.859375,-13.359375)"><foreignObject width="41.71875" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Circle</div></foreignObject></g></g></g><g class="node default" id="flowchart-C-107" transform="translate(276.984375,143.078125)" style="opacity: 1;"><rect rx="5" ry="5" x="-50.0625" y="-23.359375" width="100.125" height="46.71875" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.0625,-13.359375)"><foreignObject width="80.125" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Round Rect</div></foreignObject></g></g></g><g class="node default" id="flowchart-D-109" transform="translate(435.8984375,90.96875)" style="opacity: 1;"><polygon points="58.8515625,0 117.703125,-58.8515625 58.8515625,-117.703125 0,-58.8515625" transform="translate(-58.8515625,58.8515625)" class="label-container"></polygon><g class="label" transform="translate(0,0)"><g transform="translate(-32.03125,-13.359375)"><foreignObject width="64.0625" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Rhombus</div></foreignObject></g></g></g></g></g></g></svg></pre>
+<p>그런데 제가 그것보다 우선적으로 말씀드리고 싶은 것은 <strong>투자에서 왜 망하는지부터 확실히 알아야 한다</strong>는 것입니다. 왜냐하면, 여러분도 이미 잘 아시는 것처럼, <strong>주식으로 성공하는 사람보다는 망하는 사람이 절대적으로 더 많기 때문</strong>입니다.</p>
+<p>통계적으로 <strong>95%의 주식 투자자들은 장기적으로 손실을 보고 3~4%의 투자자는 현상 유지 수준이며, 1% 정도만이 주식으로 돈을 번다</strong>고 알려져 있습니다.</p>
+<p>이런 관점에서, <strong>주식 투자에 성공하기 위해서 가장 중요한 것은 큰 수익을 내는 것이 아니라 손실을 최소화해야 한다</strong>는 점을 알 수 있습니다. 실제로 개인투자자의 주식투자 성과를 분석한 연구에 따르면 연평균 수익률이 시장평균 수익률에 비해 크게 낮은 것으로 나타났습니다.</p>
+<p>처음 이 내용을 접하면 얼핏 생각하기에 굉장히 재미없고 지루할지도 모르겠지만, 사실은 <strong>이렇게 재미없는 내용을 사람들이 전혀 모르거나 관심조차 없기 때문에 95% 이상의 투자자들이 망한다</strong>는 사실을 기억하고 정신 차리고 집중해 주시기 바랍니다.</p>
+<h2 id="주가는-복리로-움직인다">주가는 복리로 움직인다</h2>
+<p>어떤 급등주가 어느 날 50% 상승했고, 그다음 날에는 50% 하락했다고 가정하겠습니다(예시이므로, 상하한가 등락폭은 무시합니다). 50% 상승했다가 50% 하락하면 결과적으로 몇 %의 수익이 났을까요?</p>
+<p>혹시 여러분은</p>
+<blockquote>
+<p>+50% - 50% = 0%, 본전이네</p>
+</blockquote>
+<p>라고 생각하셨나요?</p>
+<p>정답을 알려드리면, <strong>25% 손실</strong>입니다. 왜냐하면, <strong>주식은 복리로 움직이기 때문</strong>입니다. 즉 제대로 계산을 하면, <strong>(1+0.5) X (1-0.5) = 0.75</strong>가 되기 때문이지요. 1-0.75 = 0.25, 즉 25% 손실입니다. 실제로 한번 계산해 봅시다.</p>
+<p>10,000원짜리 주식을 여러분이 샀습니다. 50% 오르면 15,000원이 되지요? 이 주식이 다음 날 50% 폭락(반토막이지요?)한 상황이 되면 15,000원이 반토막 나니까 7,500원이 되지요. 10,000원짜리가 7,500원으로 됐으니 25% 손실입니다. <strong>주가는 복리로 움직입니다. 단리로 움직이지 않습니다.</strong> 그렇기 때문에 이런 효과가 발생하는 것이지요.</p>
+<p>주가가 10%씩 10일 동안 매일 오르면 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 = 100% 수익이 발생하는 것이 아니라, <strong>(1 + 0.1)^10 = 2.59</strong>, 159%의 수익이 발생합니다[7]. 100% 수익보다 59%가 더 많은 수익이 났지요? 실제 데이터를 기반으로 한 연구 결과에서도 복리 효과로 인해 장기 수익률이 크게 높아지는 것으로 나타났습니다.</p>
+<p>그렇다면 또 다른 질문을 하나 해볼까요? 어떤 주식이 이틀 연속으로 반토막(-50%) 손실이 났다면, 최종적인 수익률은 어떻게 될까요?</p>
+<blockquote>
+<p>-50% - 50% = -100%, 100% 손실이네</p>
+</blockquote>
+<p>라고 생각하셨다면 틀렸습니다. 정답은 <strong>-75% 손실</strong>입니다. 왜냐하면 <strong>(1-0.5) X (1-0.5) = 0.25</strong>, 1-0.25 = 0.75이기 때문이지요. 10,000원짜리 주식이 한 번 반토막 나면 5,000원으로 되고, 이게 한 번 더 반토막 나면 2,500원이 됩니다.</p>
+<p>그래서, <strong>주식이 상장 폐지되어서 완전히 휴지조각이 되지 않는 이상, 원칙적으로 주가가 0원이 되는 일은 있을 수 없습니다.</strong> 이러한 복리적인 속성 때문이지요.</p>
+<h2 id="복리의-특성">복리의 특성</h2>
+<p>이와 같이 <strong>주식은 복리의 속성으로 움직이기 때문에 우리는 주가의 움직임을 이해할 때 단순한 산술적인 수익률의 합으로 계산하는 오류를 범하면 안 됩니다. 곱으로 계산해야 하지요.</strong></p>
+<p>이러한 주가의 복리적인 속성 때문에 발생하는 중요한 속성이 있는데, <strong>그것은 주가가 지속적으로 상승하면 최종적인 주가는 단순한 상승률의 합계보다 훨씬 더 높아진다는 것이고(순식간에 주가가 불어남), 주가가 지속적으로 하락해도 산술적인 하락의 합보다는 손실률이 적어진다</strong>는 것입니다.</p>
+<p>10%씩 10번 상승하면 수익은 100%가 아니라 159%이고, 10%씩 10번 하락하면 손실률이 -100%가 아니라 1-0.9^10 = 0.65, 65% 손실이라는 것이지요. 이러한 주가의 속성은 우리에게 희소식입니다. <strong>올라갈 때는 복리 효과로 훨씬 더 올라가고, 떨어질 때는 덜 떨어지니 얼마나 좋나요?</strong></p>
+<p>그런데 단점도 분명히 있습니다. 그것은 이와 같이 <strong>주가가 상승이나 하락처럼 한쪽 방향으로 움직일 때는 수익률이 유리하게 작용하지만, 앞서 50% 상승했다가 50% 하락하는 경우와 같이 오르락내리락하면 수익률은 불리하게 작용</strong>한다는 것이지요. 수익률이 0%가 아니라 25% 손실인 것처럼요.</p>
+<p>수학적으로 이를 <strong>기하평균 효과</strong>라고 합니다. <strong>기하평균은 변동성이 커지면 작아집니다</strong>. 즉, <strong>자산의 수익과 손실 간의 편차가 크게 지속적으로 발생하면 자산의 수익률은 급격히 감소</strong>한다는 의미입니다. 실제 연구 결과에서도 펀드의 변동성이 클수록 장기 성과가 낮아지는 것으로 나타났습니다.</p>
+<h2 id="결론-및-요약-1">결론 및 요약</h2>
+<p>이번 시간에서는 <strong>주가 움직임의 기본적인 속성인 복리 효과</strong>에 대해 살펴보았습니다. 요약하면 다음과 같습니다.</p>
+<ul>
+<li><strong>주가의 움직임은 단리가 아닌 복리로 움직인다</strong></li>
+<li><strong>가격의 움직임은 산술적인 합이 아닌, 수익률의 곱에 의해 발생한다</strong>.</li>
+<li><strong>복리 효과는 수익률의 방향이 한쪽(지속적 수익 또는 지속적 손실)일 때 투자자에게 유리하게 작용한다.</strong> (단리보다 수익은 높고, 손실은 더 적음)</li>
+<li><strong>복리 효과를 잘 이용하면 투자에서 큰 수익을 얻을 수 있고, 손실을 제어할 수 있다</strong>.</li>
+</ul>
+<p><strong>복리 효과는 투자의 핵심 원리</strong>이기 때문에 반드시 내용을 숙지하시길 권해드립니다. 다음 강의에서는 복리 효과 때문에 발생하는 손익 비대칭과 변동성 손실의 원리에 대해 알아보겠습니다.</p>
+<h2 id="손익-비대칭의-원리">손익 비대칭의 원리</h2>
+<p>지난 시간에서 주가의 복리 효과에 대해 살펴보았습니다. 이번 시간에는 복리 효과 때문에 나타나는 아주 중요한 효과인 손익 비대칭의 원리에 대해 살펴보겠습니다. <strong>손익 비대칭의 원리는 주식뿐만 아니라 모든 투자 자산의 리스크 관리의 핵심이 되는 절대 법칙이므로 반드시 잘 숙지해야 합니다.</strong></p>
+<p>이번에도 퀴즈로 시작해보겠습니다. 여러분이 가진 주식이 50% 손실을 보았습니다. 그렇다면, 원금을 회복하려면 몇 % 수익을 올려야 할까요?</p>
+<blockquote>
+<p>50% 손실이니 +50% 이익을 보면 본전이 되겠지?</p>
+</blockquote>
+<p>라고 대답하셨다면 틀렸습니다. 정답은 100%입니다. 왜냐고요? 실제로 계산해보시면 됩니다. 10,000원짜리 주식이 반토막이 되어서 5,000원이 되었을 때, 다시 10,000원으로 오르기 위해서는 5,000원이 올라야 하지요?</p>
+<p>반토막 난 5,000원 상황에서 상승해야 할 5,000원은 5,000원을 기준으로 하면 50%가 아닌, 50%보다 훨씬 큰 100%이기 때문입니다.</p>
+<p>이와 같이, 얼핏 생각하면 -50% 손실이나 50% 이익은 수익이냐 손실이냐만 다를 뿐 같은 크기라고 생각할지 모르나, <strong>사실은 전혀 그렇지 않다는 것입니다.</strong></p>
+<p><strong>-50% 손실이 발생하면, 50% 수익으로 원금 회복을 할 수 있는 것이 아니라, 100% 수익을 올려야만 가능한 것처럼, 손실을 충당하기 위한 수익의 수준은 손실의 수준보다 훨씬 더 커야 함을 의미합니다.</strong></p>
+<p>이러한 효과는 손실의 규모가 커지면 커질수록 훨씬 더 심해집니다. <strong>이를 손익 비대칭의 원리라고 합니다.</strong></p>
+<p><img src="https://i.imgur.com/vsTANQQ.png" alt=""><br>
+<img src="https://i.imgur.com/akreM00.png" alt=""></p>
+<p><strong>주가의 움직임에서 손익 비대칭이 발생하는 이유는, 주가는 단리가 아닌 복리로 움직이기 때문입니다.</strong> 위에서 보시는 바와 같이 10% 손실의 경우 11% 정도로 손실과 비슷한 수준의 수익만 내면 원금이 회복되나, 30% 손실의 경우 43%, 80% 손실의 경우 원금 회복을 위해 400%의 수익이 필요하게 됩니다. <strong>손실의 규모가 커지면, 원금 복구에 필요한 수익률이 기하급수적으로 커진다는 것이죠.</strong></p>
+<p>실제로 S&amp;P 500 지수를 기준으로 1950년부터 2022년까지의 데이터를 분석한 결과, 연간 최대 손실의 평균값은 -13.9%였던 반면, 동 기간 연간 최대 수익의 평균값은 16.2%에 그쳤습니다. 이는 큰 손실을 만회하기 위해서는 더 큰 폭의 수익이 필요함을 보여주는 실증적 근거입니다.</p>
+<p><strong>손익 비대칭성의 원리가 시사하는 바는, 주식 투자에 있어서 큰 수익을 내는 것보다 손실을 최소화하는 것이 훨씬 더 중요하다는 것을 의미합니다.</strong></p>
+<p>이는 비단 주식 투자에만 적용되지 않습니다. 돈을 매개로 하는 모든 투자에 공통적으로 적용됩니다. <strong>모든 가격의 움직임은 복리의 움직임을 따르기 때문입니다.</strong></p>
+<p>이는 손실 따위에는 아무런 관심도 없고 오로지 큰 수익만 내면 투자에 성공할 수 있다는 근거 없는 막연한 자신감을 가진 투자자들이 얼마나 큰 착각을 하고 있고, 왜 반드시 망할 수밖에 없는지를 알려줍니다. 사실 이는 행동 재무학에서 말하는 '과신의 편향(overconfidence bias)'과도 밀접한 관련이 있습니다.</p>
+<h2 id="변동성-손실">변동성 손실</h2>
+<p>또 한 가지 퀴즈를 내보겠습니다.</p>
+<p>3명의 투자자가 있습니다.</p>
+<ul>
+<li>A씨가 보유한 주식은 10% 상승했다 10% 하락했습니다.</li>
+<li>B씨가 보유한 주식은 20% 상승했다 20% 하락했습니다.</li>
+<li>C씨가 보유한 주식은 50% 상승했다 50% 하락했습니다.</li>
+</ul>
+<p>3명의 주식 수익률을 비교하면 어떤 차이가 있을까요?</p>
+<blockquote>
+<p>3명 모두 똑같은 %로 상승하락을 반복했으니 모두 본전일 것이고 수익률은 차이가 없을 것이다.</p>
+</blockquote>
+<p>이제는 복리의 원리를 아시기 때문에 이런 식으로 계산하신 분은 없으시겠죠? 당연히 이 대답은 틀렸습니다.<br>
+10-10=0, 20-20=0, 50-50=0 이런 식으로 계산하면 안 된다고 했지요?</p>
+<p>제대로 계산을 해보면,</p>
+<ul>
+<li>A씨는 1.1 X 0.9 =0.99, 1% 손실</li>
+<li>B씨는 1.2 X 0.8 =0.96, 4% 손실</li>
+<li>C씨는 1.5 X 0.5 =0.75, 25% 손실입니다.</li>
+</ul>
+<p><img src="https://i.imgur.com/1wAMExS.png" alt=""><br>
+<img src="https://i.imgur.com/fPtCNLY.png" alt=""></p>
+<p><strong>똑같은 수준의 수익과 손실이 발생하는 경우라도, 손익의 폭이 작은 경우가 오히려 수익률이 높음을 알 수 있습니다. 일반화하면, 변동성이 큰 것보다는 변동성이 작아야 손실이 적고 수익이 높다는 의미입니다.</strong></p>
+<p>이는 '평균-분산 포트폴리오 이론(mean-variance portfolio theory)'의 핵심 개념 중 하나인 '변동성에 따른 손실(volatility drag)'과도 일맥상통합니다. 변동성이 클수록 수익률이 낮아진다는 것이죠.</p>
+<p>그러면 마지막으로 문제를 하나 더 풀어보겠습니다.</p>
+<ul>
+<li>A씨가 보유한 주식은 30% 수익이 난 이후 20% 손실이 발생했습니다.</li>
+<li>B씨가 보유한 주식은 20% 수익이 난 후 10% 손실이 발생했습니다.</li>
+</ul>
+<p>정답은 B씨입니다. A씨의 수익률은 4%이고 B씨의 수익률은 8%입니다. 왜 그런지는 앞의 예시를 참고해서 직접 계산해보시기 바랍니다. <strong>이 예시 또한 변동성이 큰 것보다는 변동성이 작아야 손실이 적고 수익이 높음을 보여줍니다.</strong></p>
+<h2 id="기하평균의-중요성">기하평균의 중요성</h2>
+<p>여기까지 살펴보셨다면 여러분은 아마 제게 이렇게 질문하실 것으로 생각합니다.</p>
+<blockquote>
+<p>시시콜콜한 중학교 수학 계산을 하긴 했다만, 저게 대체 주식 투자에서 망하지 않는 거랑 대체 무슨 상관이 있는 거냐?<br>
+올라갈 종목 찍는 기술이나 알려줄 것이지 저런 정보가 대체 주식투자에서 성공하는 거랑 대체 무슨 관계냐?</p>
+</blockquote>
+<p>라고 말이지요.</p>
+<p>그런데, 이것은 어마어마한 착각입니다. <strong>왜냐하면, 주식 투자에서 실패하지 않고 성공하기 위해 알아야 할 지식 중에 위에서 설명한 것보다 중요한 것은 단연코 없기 때문입니다.</strong></p>
+<p>그 이유는 바로 앞서 설명드린 주가의 복리적인 속성에 기인한 손익 비대칭과 변동성 손실의 원리를 종합하면, <strong>투자에서 실패하지 않고 성공하기 위해서는 어떻게 큰 수익을 낼 것이냐가 아니라 어떻게 하면 '손실’을 최소화할 것이냐에 집중하는 것이 실제적으로 가장 중요하다는 결론을 얻게 되기 때문이지요.</strong></p>
+<p>사실 이는 워런 버핏이 강조한 투자의 두 가지 규칙과도 일맥상통합니다. 그는 "규칙 1: 절대 손실을 보지 마라, 규칙 2: 규칙 1을 절대 잊지 마라"라고 말했죠.</p>
+<p>그런데, 주식 시장에서 실패하는 95% 이상의 투자자들은 '손실의 최소화’라는 개념은 그저 실력이 부족한 허접한 하수들에게나 해당하는 내용이라고 생각하고 아예 생각조차 하지 않습니다. <strong>손실이 발생하면 어떤 타격을 입고, 그것이 얼마나 심각한 상황을 초래하는지에 대해서는 생각조차 하지 않는다는 것입니다.</strong></p>
+<p>투자에 있어서, 손실을 보는 것은 뭔가 잘못된 것이 결코 아닙니다. 투자에서 나타나는 손실은 지극히 정상적인 현상입니다. <strong>단지 손실을 어떻게 관리하느냐가 투자의 성패를 좌우할 뿐이지요.</strong></p>
+<p>그리고 설령 손실이 좀 발생하면 화끈한 종목에 올인해서 수익을 크게 보면 되지 않나? 그러면 수익이 높아지는 것 아닌가라고 생각하고 여기에 아무런 문제가 없다고 생각합니다. 지금까지는 한 번도 여기에 대해서 진지하게 생각해 보지 않았다가 막상 계산기를 두드려보니, 어떻습니까?</p>
+<blockquote>
+<p>주식 손실 좀 크게 봐도 다음에 벌 때 크게 벌면 되니까 화끈하게 투자해도 될 것이다.</p>
+</blockquote>
+<p>라고 막연하게 생각했는데, 계산기를 두드려보니, 손실 좀 크게 본 거 복구하려면, 손실이 난 거보다 훨씬 더 큰 수익률을 올려야 되고, 더 암울한 건 손실이 크면 클수록 올려야 하는 수익률은 훨씬 더 커진다는 충격적인 사실을 깨달으셨나요?</p>
+<blockquote>
+<p>안전한 우량주에서 찔끔찔끔 수익내는 투자자를 답답하게 생각하면서, 화끈한 종목에 투자하면 손실 좀 크더라도 수익도 클 테니까, 덜 먹고 덜 까먹는 방법보다는 까먹을 때 크게 까먹더라도 벌 때 화끈하게 벌면 수익이 더 크지 않을까?</p>
+</blockquote>
+<p>라고 생각하셨는데 막상 계산해보니 어떻던가요? <strong>30% 수익 20% 손실보다, 20% 수익 10% 손실 종목의 수익률이 오히려 더 높았지요?</strong> 어떻습니까?</p>
+<p>이런 부분에 대해서 진지하게 생각해보지 않았고, 그저 막연하게 이런 '손실’에 대한 개념이 없는 상태에서 투자를 하게 되었다면, 아무리 여러분이 지엽적인 종목이나 기법으로 수익이 났다고 하더라도, 구조적으로 수익보다는 손실 볼 가능성이 큰 투자를 하는 격이어서 <strong>결국은 망할 수밖에 없는 것이지요.</strong></p>
+<p>따라서, 얼핏 생각하기에는 이러한 주가의 속성이 재미없고 영양가 없어 보이지만, <strong>사실은 주식 투자의 성패를 가늠하는 가장 중요한 요소인 것입니다.</strong></p>
+<p>사실 지금 말씀드린 내용은 주식 투자를 예로 들었지만, 앞서 설명드린 원리는 비단 ‘주식’ 투자에만 국한되는 내용이 아니라, <strong>'모든 종류의 투자’에 공통적으로 적용되는 내용입니다.</strong></p>
+<p><strong>수익과 손실의 비대칭성의 수학적인 관계는 부동산이건, 채권이건, 그 투자자산의 종류와 무관하게 동일하게 적용되기 때문에 반드시 명심해야 합니다.</strong> 사실 이는 '현대 포트폴리오 이론(modern portfolio theory)'의 핵심 가정 중 하나이기도 합니다.</p>
+<h2 id="결론-및-요약-2">결론 및 요약</h2>
+<p>결론적으로 여러분이 주식 투자에 있어서 반드시 잊지 말아야 하는 가장 중요한 원리는 다음과 같습니다.</p>
+<ol>
+<li><strong>수익을 높이는 것보다 손실을 최소화하는 것이 훨씬 더 중요하다 (손익 비대칭성의 원리)</strong></li>
+<li><strong>크게 벌고 크게 손실 보는 것보다 적게 수익 내고 적게 손실보는 것이 오히려 수익률이 더 높다 (낮은 변동성 &gt; 고수익)</strong></li>
+<li><strong>수익 극대화가 아닌 손실 최소화에 집중하는 것이 투자에 있어 가장 중요하다.</strong></li>
+</ol>
+<p>어떻습니까? 여러분이 여태까지 막연하게 진실이라고 생각했던 것이 얼마나 잘못되었는지 깨달으셨나요? 주식으로 왜 망하겠습니까? 잘못된 사고 방식을 가지고 있는데 그게 잘못되었는지도 모르고, 그 이유조차 알지 못하니 망할 수밖에 없지요.</p>
+<p>이제 여러분은 이번 시간을 통해서 ‘손실을 줄여라’, ‘변동성을 낮춰라’ 하는 류의 투자 원칙이 그냥 단순한 고리타분한 이론서에나 나오는 얘기가 결코 아니라는 사실을 깨달으셨기를 바랍니다.</p>
+<p><strong>주식 투자에서 손실을 줄이고 변동성을 줄이는 투자 원칙이 중요한 이유는, 이러한 보수적인 투자방법이 실제로는 '가장 강력한 수익’을 추구하는 가장 공격적인 방법이라는 역설적인 진리 때문입니다.</strong></p>
+<p>다시 한 번 강조하지만, <strong>이 원리는 비단 주식 투자가 아닌 모든 종류의 투자에 적용되기 때문에 반드시 명심하시기 바랍니다. 이 원리는 자산 배분 투자의 가장 중요한 핵심 원리이기도 합니다.</strong></p>
+<p><strong>’수익 극대화가 아닌 손실 최소화가 투자에서 가장 중요한 핵심 원칙이다.'</strong></p>
+<h1 id="자산-배분-투자의-핵심-원리---종목-분산">자산 배분 투자의 핵심 원리 - 종목 분산</h1>
+<p>지금까지 우리는, 많은 사람들이 투자를 통해 '수익’을 얻고자 하기에 '수익’에 집중하지만 사실은</p>
+<blockquote>
+<p><strong>수익과 손실은 비대칭이고, 동일한 수준의 손익이라도 변동성이 적은 손익이 실제로는 수학적으로 더 큰 수익을 가져다주기 때문에, 투자의 제1원칙은 수익 극대화가 아닌 손실 최소화이다.</strong></p>
+</blockquote>
+<p>라는 사실을 확인한 바 있습니다. 손실과 변동성을 줄이려는 시도를 하면 결국 자연스레 수익이 나게 되어 있습니다. 그렇다면 이번 지금부터 주식 투자를 할 때 어떤 방법으로 손실을 줄이고 나아가 수익을 극대화할 수 있는지에 대해 살펴보겠습니다.</p>
+<p>결론부터 말씀드리자면, 아래의 6가지 원리가 <strong>손실을 최소화하고 수익을 극대화하는 자산 배분 투자의 핵심 원리</strong>입니다. 지금부터 하나씩 살펴볼 것입니다.</p>
+<ol>
+<li><strong>종목 분산</strong></li>
+<li><strong>자산군 분산</strong> (서로 다른 자산과의 혼합)</li>
+<li><strong>장기적 우상향 자산에 투자</strong></li>
+<li><strong>리밸런싱 효과</strong></li>
+<li><strong>추세 추종</strong> (장세에 따른 주식 비중의 조절)</li>
+<li><strong>변동성 조절</strong></li>
+</ol>
+<p>이번 시간에는 첫 번째 원리인 <strong>종목 분산</strong>에 대해 알아보겠습니다.</p>
+<h2 id="어떤-주식을-고를-것인가">어떤 주식을 고를 것인가?</h2>
+<p>국내 주식 시장에서는 2,000여 개가 넘는 기업이 상장되어 있습니다. 여러분은 주식 투자를 할 때 어떤 기준으로 투자할 종목을 선정하십니까?</p>
+<blockquote>
+<p>기업의 가치? 수급? 모멘텀? 비밀스런 고급 정보?</p>
+</blockquote>
+<p>물론 이 모든 요소가 좋은 주식을 선정하는 데 있어 중요한 기준이 되는 것은 부인할 수 없습니다. 하지만 한 가지 분명한 사실은, 이런 식의 접근 방법은 <strong>상당히 주관적이고 애매모호하다</strong>는 점입니다. 가치가 좋다는 게 대체 어떤 기준입니까? 호재나 재료가 좋다는 게 어떤 기준으로 판단해야 하나요? 유망하다는 것의 기준은 또 어떻습니까?</p>
+<p>사람마다 제각기 모두 다른 기준을 가지고 있습니다. 그리고 더 심각한 문제는, 이런 식의 애매모호하고 주관적인 기준에 의한 투자의 결과 또한 <strong>상당히 불확실하고 애매모호하다</strong>는 점입니다.</p>
+<p>물론 저런 식으로 어떤 주식을 운 좋게 골라서 대박을 칠 수도 있지만, 반대로 예측이 틀려서 완전히 쪽박을 차는 경우도 허다합니다. 주식 시장의 전문가라는 사람도 여러분이나 별반 차이가 없습니다. <strong>어떤 주식이 올라갈지를 맞추는 것은 일종의 미래를 예측하는 영역이기 때문에 전문가도 별수 없습니다.</strong></p>
+<h2 id="손실은-줄이고-수익은-높이는-분산-투자의-마법">손실은 줄이고 수익은 높이는 분산 투자의 마법</h2>
+<p>그렇다면 이제 우리는 어떤 주식이 올라갈지 떨어질지를 전혀 모르는 상태에서 최선의 수익을 추구하는 방법이 무엇일까요?</p>
+<p>결론은,</p>
+<blockquote>
+<p><strong>모든 주식에 골고루 투자하면 된다.</strong></p>
+</blockquote>
+<p>즉, <strong>분산투자</strong>가 답입니다. 이는 현대 투자 이론의 근간을 이루고 있는 노벨 경제학상을 받은 해리 마코위츠의 '<strong>포트폴리오 이론</strong>’에 기반을 두고 있습니다.</p>
+<p><img src="https://i.imgur.com/kD9vxif.png" alt=""></p>
+<p>마코위츠의 포트폴리오 이론의 핵심을 투자 초보자에게 아주 쉽게 풀어서 설명하면 다음과 같습니다.</p>
+<blockquote>
+<p>여러 주식이 있을 때, 사람들은 그중에서 가장 큰 수익을 올릴 수 있는 주식을 알아낼 수 있으면 그보다 더 좋은 일이 없겠지만, <strong>주가를 정확하게 예측하는 것은 불가능하기 때문에, 이 상황에서 최선책은 모든 주식에 골고루 투자하는 것이다.</strong></p>
+</blockquote>
+<p>왜 비겁하게 모든 주식에 골고루 투자해야 할까요? 그 이유는, 이렇게 <strong>골고루 분산 투자를 하면 분산 투자를 하기 전보다 투자의 위험은 더 감소시키면서도 개별 종목들의 평균적인 수익률은 따라잡을 수 있음이 수학적으로 입증</strong>되었기 때문입니다.</p>
+<p>마코위츠는 이 이론을 입증함으로써 노벨 경제학상을 수상했고, 이 이론은 현대 투자 이론의 핵심 중의 핵심으로 자리 잡고 있습니다.</p>
+<p><img src="https://i.imgur.com/IQSffEa.png" alt=""></p>
+<p>그래서 우리가 어떤 개별 주식에 대한 '확실한 정보나 예측’이 부재한 상황에서는 <strong>최대한 많은 주식에 골고루 분산을 함으로써 손실(변동성)은 감소시키면서도 수익은 높일 수 있다</strong>는 것입니다.</p>
+<p>주식투자를 해보면, 많은 사람들은 내가 사는 몇몇 종목들은 다 좋아 보여서 코스피 지수 정도쯤을 이기는 것은 아무 일도 아닐 것이라고 생각하지만, 실제로는 거의 대부분의 경우 내가 몇 종목을 골라서 하는 투자의 평균적인 수익률은 거의 대부분 코스피 지수를 하회하는 것을 체감하실 수 있을 겁니다. 실제로도 <strong>아무리 유명하고 유능한 펀드 매니저도 시장의 대표 주식 지수를 이기기란 매우 어려운 것으로 알려져 있습니다</strong>.</p>
+<p>그 이유는, 여러분이 주식을 고르는 능력이 부족해서가 아닙니다. <strong>장기적으로 볼 때 여러분이 주가를 예측하는 신통한 능력이 있지 않고서는, 맞을 수도 있고 틀릴 수도 있는 여러분의 감이나 막연한 기대로 몇 종목에 몰빵하는 구조는 다양하게 분산한 투자군(이것을 포트폴리오라고 합니다)의 평균적인 수익률을 초과할 수 없음이 수학적으로 입증된 진실</strong>이기 때문입니다.</p>
+<h2 id="완벽한-분산-투자-수단---etf">완벽한 분산 투자 수단 - ETF</h2>
+<p>따라서, 여러분이 개별 주식에 대한 분석 능력이나 전문적인 지식이 없다고 해도 실망할 필요가 전혀 없습니다. 왜냐하면, <strong>모르면 그냥 분산투자하면 되기 때문</strong>이지요. 실제로도 그렇습니다. 이런 배경에서 출현한 것이 바로 현대 금융 상품의 꽃이라고 최근 급부상하고 있는 <strong>ETF</strong>라는 투자상품입니다.</p>
+<p><strong>ETF</strong>는 <strong>exchange traded fund</strong>의 약자로 '상장 지수 펀드’라고 하고, <strong>특정한 자산의 가격에 수익률이 연동되도록 구성한 투자 상품</strong>입니다. 쉽게 말씀드리자면, ETF는 해당 자산의 가격을 사고파는 주식과 유사한 개념으로 보시면 됩니다.</p>
+<p>금 ETF라면, 금값이 5% 등락하면 금 ETF도 동일하게 5% 등락을 따라가는 주식과 비슷한 개념으로 보시면 되지요. 기준이 되는 투자 자산은 엄청나게 다양합니다. 주식 ETF도 있고, 채권 ETF도 있고, 금, 석유, 콩, 밀 등의 상품 ETF, 외환 ETF 등 숫자로 표시되어 투자되는 모든 자산은 ETF로 출시되어 있습니다.</p>
+<p>그렇다면 우리가 주식 투자를 할 때 골라야 하는 ETF는 무엇일까요? 그것은 바로 <strong>주가 지수 ETF</strong>입니다. 우리가 익히 잘 알고 있는 코스피 지수는 대한민국 주식 시장의 우량한 기업들의 평균적인 주가라고 생각하시면 이해가 편합니다.</p>
+<p>삼성전자나 현대차 같은 몇몇 초대형 우량주뿐만 아니라 상대적으로 덜 알려진 주식까지 모두 편입해서 지수를 산출하는 것입니다. 따라서, 이러한 <strong>코스피 지수(KOSPI index)를 투자 자산으로 삼는 ETF를 1주 사면, 대한민국 코스피에 속하는 수백 개가 넘는 우량한 주식들에 골고루 분산한 투자효과를 기대할 수 있습니다.</strong></p>
+<p>세계 최초의 ETF는 1993년에, 우리나라에서는 그로부터 10여 년이 지난 2002년 최초로 출시되었습니다. 이제는 투자의 전 세계적인 트렌드는 ETF로 재편되고 있습니다.</p>
+<p>왜냐하면, <strong>다양한 투자 자산군을 쉽게 거래할 수가 있는 데다가, 인덱스 ETF와 같이 그 자체가 다양한 자산군을 모두 포함하고 있는 상품도 많이 있기 때문에 포트폴리오 이론에 입각해 리스크는 줄이면서도 안정된 수익률을 추구하기에는 이보다 더 좋은 상품이 없기 때문</strong>입니다.</p>
+<p>그리고, <strong>투자 금액이 적은 개인 투자자들도 ETF 1주만 사도 자금의 압박으로 도저히 살 수 없는 수많은 대형 우량주에 골고루 분산투자한 효과를 얻을 수 있다</strong>는 것도 커다란 장점입니다.</p>
+<h2 id="결론-및-요약-3">결론 및 요약</h2>
+<ul>
+<li><strong>리스크를 줄이면서도 수익률을 극대화하는 주식 투자 방법은 여러 종목에 분산투자하는 것이다.</strong></li>
+<li><strong>분산 투자의 가장 유용한 수단은 지수를 추종하는 ETF에 투자하는 것이다.</strong></li>
+<li><strong>지수형 ETF를 기본으로 주식 투자를 시작하라.</strong></li>
+</ul>
+<p>그럼 다음에는 이런 주식 지수형 ETF를 구체적으로 어떻게 투자해야 하는지에 대해서 알아보도록 하겠습니다.</p>
+<h1 id="자산-배분-투자의-핵심-원리---자산군-분산">자산 배분 투자의 핵심 원리 - 자산군 분산</h1>
+<p>이번 시간에는 지난 시간에 이어, <strong>자산 배분 투자의 2번째 핵심 원리, 자산군 분산의 원칙</strong>에 대해 살펴보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li><strong>자산군 분산 (서로 다른 자산과의 혼합)</strong></li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="주식-종목-분산의-한계">주식 종목 분산의 한계</h2>
+<p>지난 시간에 <strong>여러 주식 종목에 분산을 잘 해놓으면 리스크를 줄이고 수익은 높일 수 있다</strong>고 확인한 바가 있습니다. 단순히 여러 주식 종목에 분산 투자만 잘하면 끝일까요? 그렇지 않습니다.</p>
+<p>분산을 안 한 것보다는 낫지만, 이 방법에는 <strong>심각한 단점</strong>이 하나 있기 때문입니다. 그것은 아무리 여러 종목에 분산을 열심히 해도 <strong>‘시장’ 자체가 급락을 하면 대부분의 주식 종목이 똑같이 하락하는 경향이 강하다</strong>는 것입니다.</p>
+<p>많은 사람은 종합주가지수가 좀 빠져도 내가 정성껏 고른 종목은 오를 거라는 막연한 기대감을 가지고 있지만, 절대 다수의 경우 그 기대감은 무참하게 깨지는 경우가 대부분입니다. 우선 실제 데이터로 확인해볼까요?</p>
+<p><img src="https://i.imgur.com/ozavOA4.png" alt=""></p>
+<p>지금 보시는 그림은 우리나라 주식 시장에서의 <strong>코스피 지수와 개별 종목 간의 상관관계</strong>입니다. 보시는 것처럼 <strong>상승장일 때에는 종목 간의 상관관계가 낮아지고, 지수가 하락할 때에는 종목 간의 상관관계가 높아지는 것</strong>을 확인할 수가 있습니다.</p>
+<p>종목 간의 상관관계라는 것은 <strong>종목의 움직임이 비슷하게 움직이는 정도</strong>를 말합니다. 즉, 상관계수가 1이라 함은 똑같이 움직인다는 것이고, 상관계수가 -1은 반대로 움직인다는 것입니다.</p>
+<p><strong>상승장에서는 종목 간의 움직임의 상관계수가 낮아지고, 하락장에서는 종목 간의 상관계수가 높아진다는 것은 장이 좋을 때에는 오르는 소수의 몇 종목만 오르지만, 장이 빠질 땐 대부분의 종목이 다 같이 하락하는 경향이 아주 강해진다는 의미</strong>입니다.</p>
+<p>이는 2000년부터 2009년까지 미국 시장 데이터를 분석한 한 연구에서도 확인됩니다. 이 연구에 따르면, <strong>S&amp;P500 지수의 월간 수익률이 -10% 이하일 때 개별 주식 간 상관계수의 중간값은 0.47로, 전체 기간 중간값인 0.27보다 크게 높아지는 것으로 나타났습니다.</strong> 즉, 시장이 급락할 때는 개별 주식들이 함께 하락하는 경향이 강해진다는 것이죠.</p>
+<p>2008년 금융위기, 2020년의 코로나 사태를 생각해봅시다. 금융위기가 극에 달했던 시점은 삼성전자 같은 초대형 우량주조차 거의 하한가 가깝게 빠졌고, 2020년 3월 코로나 위기 때도 불과 한 달도 안 되는 시점에 거래소의 대부분의 종목들이 -30% 이상의 하락을 보였습니다.</p>
+<p>비단 이 정도의 시장 폭락뿐만 아니라, 지수가 조금만 조정을 받더라도 이런 현상은 너무나 쉽게 체감할 수 있습니다. 주식에 직접 투자를 해 보신 분들이라면 경험적으로 뼈저리게 동의하실 것입니다.</p>
+<h2 id="자산군-분산의-필요성">자산군 분산의 필요성</h2>
+<p>이러한 이유로, <strong>시장이 하락하는 시기에는 대부분의 종목들이 똑같이 하락을 하기 때문에 여러 종목에 열심히 분산해도 리스크를 줄이지 못하는 문제점은 해결되지 않습니다.</strong> 그렇다면, <strong>주식 시장이 하락할 때에도 나의 투자 자산의 손실을 줄이려면 어떻게 해야 할까요?</strong></p>
+<p>그 방법은 주식 종목에만 분산을 하는 것이 아니라, <strong>주식과 반대로 혹은 주식의 움직임과 무관하게 움직이는 자산에도 분산투자를 하는 것</strong>입니다. 그런 자산이 있다면, 주식이 하락할 때 이 자산은 상승하므로, 손실을 상쇄시키기 때문입니다.</p>
+<p>우리가 투자할 수 있는 자산은 주식만 있는 것이 아닙니다. <strong>채권, 상품(금, 은, 원유, 농산물 등), 현금, 외환 등 매우 다양</strong>합니다. 이러한, 주식, 채권, 상품, 현금, 외환 같은 커다란 카테고리를 <strong>자산군</strong>이라고 하고 이러한 다양한 자산군에 나누어 투자하는 방식을 <strong>자산군 분산</strong> 이라고 합니다.</p>
+<p>10여 년 전만 하더라도 이런 자산은 일반인이 접근하기 어려운 선물이나 옵션 등의 파생상품으로만 투자가 가능했지만, 지금은 <strong>ETF의 출현으로 이런 모든 장벽이 사라졌습니다.</strong> 이제는 ETF를 이용하여 개인 투자자도 단 돈 몇만 원만 있어도, <strong>모든 종류의 자산군에 분산투자가 가능한 시대가 된 것</strong>입니다.</p>
+<p><strong>자산군 분산의 핵심 원리는 움직임이 서로 반대이거나 무관한 자산들에 분산투자를 하면 리스크를 줄이고 수익을 높일 수 있다는 것</strong>입니다. 유식한 말로는 <strong>상관계수가 낮은 자산들로 분산투자 포트폴리오를 구성</strong>하라는 것입니다.</p>
+<p>이는 마치 <strong>아이스크림과 뜨거운 커피를 같이 팔면 날씨가 덥건 춥건 날씨와 무관하게 안정적인 수익을 올릴 수 있는 것과 마찬가지</strong>입니다. 그렇다면, 이와 같이 주식과 반대로 움직이거나 혹은 주식과 무관하게 움직이는 대표적인 자산은 무엇일까요? 답은 <strong>채권과 현금</strong>입니다. 앞서 소개한 상품이나 외환, 금 같은 자산군도 주식과 낮은 상관성을 기대할 수 있지만, 채권과 현금만큼 이상적이지는 않습니다.</p>
+<p>실제로, 1926년부터 2019년까지 약 90년간의 데이터를 분석한 한 연구에 따르면, <strong>미국 주식(S&amp;P500)과 미국 장기 국채의 상관계수는 0.08에 불과했습니다.</strong> 즉, 주식과 채권은 거의 무관하게 움직인다는 것이죠. 이는 주식과 채권을 함께 포트폴리오에 편입시키면 분산 투자의 효과가 극대화될 수 있음을 시사합니다.</p>
+<p><strong>채권은 쉽게 말해서 빚문서입니다.</strong> 내가 너한테 얼마를 빌려줄 테니 특정한 시간이 경과하면 원금에 미리 정한 이자를 쳐서 갚으라는 차용 증서입니다. <strong>주식은 대표적인 위험자산인 반면 채권은 대표적인 안전자산입니다.</strong></p>
+<p>주식시장과 채권의 움직임은 대체로 약한 음의 상관관계가 있습니다. 장이 좋아서 활황장이면 적은 확정 이자를 주는 채권에 투자할 이유가 없고 오르는 주식에 투자하면 더 큰 수익을 기대할 수 있기 때문에 채권 가격은 상대적으로 하락하고 주가는 상승합니다.</p>
+<p>반면, 주가가 떨어져서 장이 불안해지는 상황이면, 주식 투자했다가 괜히 손실을 볼 수 있기 때문에 적은 확정 이자라도 챙기자는 생각으로 채권 수요가 몰려 채권의 가격은 상승합니다.</p>
+<p>또 한 가지 고무적인 사실은, <strong>항상 그런 것은 아니지만, 일반적으로 주식과 채권의 상관계수는 주식 시장이 나쁘거나 하락장일수록 낮아진다는 것</strong>입니다.</p>
+<p>즉, <strong>기본적으로 주식과 채권의 움직임은 단기적으로는 반대이지만, 장이 좋을 때는 같이 오르고, 장이 나쁠 때에는 반대로 움직이는 성향이 더 강해져서 효과적으로 리스크를 줄여준다는 것</strong>이죠.</p>
+<p>실제로 글로벌 금융위기가 발생했던 2008년에는 글로벌 주식시장(MSCI ACWI 지수 기준)이 -42%의 수익률을 기록한 반면, 글로벌 채권시장(Bloomberg Barclays Global Aggregate 지수 기준)은 오히려 +4.8%의 수익률을 기록했습니다. 이는 금융위기와 같은 극단적인 상황에서 주식과 채권 간의 낮은 상관관계가 포트폴리오의 하락을 제한하는 데 효과적이었음을 보여줍니다.</p>
+<p>따라서, 개념적으로 <strong>주식(당연히 KODEX 200과 같은 지수 ETF겠죠?)과 채권 ETF에 반반으로 나누어 투자를 하면 개념적으로 장의 방향성과 무관하게 리스크를 줄일 수 있는 것</strong>이지요.</p>
+<h2 id="자산군-분산에서-현금의-중요성">자산군 분산에서 현금의 중요성</h2>
+<p>여러분은 혹시 <strong>현금이 무슨 투자 자산이냐</strong>라고 의문을 제기하실지 모르겠습니다. 물론, 현금 자체는 수익을 창출해내는 자산은 아니지만, <strong>다른 투자 자산과 혼합했을 때 다른 위험 자산의 손실을 줄여주기 때문에 대단히 중요한 투자자산</strong>입니다. 왜냐하면, <strong>손실을 줄이는 것이 수익을 추구하는 것보다 훨씬 중요</strong>하기 때문입니다.</p>
+<p>손실을 줄이는 것은 상대적으로 수익을 냈다는 것을 의미합니다. <strong>현금은 매우 낮은 금리가 적용되고 변동이 거의 없기 때문에, 주식이나 채권뿐만 아니라, 거의 모든 자산과의 상관성이 매우 낮기 때문에 대단히 중요한 분산 투자 자산</strong>입니다.</p>
+<p>1928년부터 2019년까지 현금(3개월 미국 국채)과 주식(S&amp;P500)의 상관계수는 -0.01로 사실상 무관한 것으로 나타났습니다. 따라서 <strong>포트폴리오에 현금을 일정 부분 편입시키는 것은 포트폴리오의 변동성을 효과적으로 낮출 수 있는 전략</strong>이 될 수 있습니다.</p>
+<h2 id="결론-및-요약-4">결론 및 요약</h2>
+<ul>
+<li><strong>가장 이상적인 주식 투자 방법은 여러 주식목에 분산투자하는 것이지만, 시장이 하락하는 시기에는 무용지물이다.</strong></li>
+<li><strong>시장의 하락에도 손실을 줄이기위해서는 주식이 아닌 다른 자산군에도 분산투자해야 한다.</strong></li>
+<li><strong>자산군 분산 투자의 핵심은 주식과 움직임이 반대이거나 상관성이 낮은 자산에 분산하는 것으로, 주식과 분산하기 좋은 이상적인 자산에는 채권이나 현금이 있다.</strong></li>
+</ul>
+<p>이상으로 자산군 분산의 중요성에 대해 알아보았습니다. 다음 시간에는 자산 배분 투자의 또 다른 핵심 원리인 '장기 투자’에 대해 자세히 살펴보도록 하겠습니다.</p>
+<h1 id="자산-배분-투자의-핵심-원리---장기적-우상향-자산에-투자">자산 배분 투자의 핵심 원리 - 장기적 우상향 자산에 투자</h1>
+<p>지난 시간에는 <strong>주식 시장에만 투자해서는 시장의 위험을 해결할 수 없기 때문에, 주식과 반대로 움직이거나 상관성이 낮은 채권이나 현금 같은 자산군에도 분산 투자해야 함</strong>을 확인했습니다.</p>
+<p>이번 시간에는 자산 배분 투자의 3번째 핵심 원리, <strong>장기적 우상향 자산에 투자</strong>에 대해 살펴보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li><strong>장기적 우상향 자산에 투자</strong></li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<p>그런데, 여러분은 혹시 이런 의문을 가지실지도 모르겠습니다.</p>
+<blockquote>
+<p>움직임이 서로 반대 방향인 자산군에 절반씩 분산 투자하면 결국 한쪽에서는 수익이 나지만, 다른 쪽에서는 손실을 보는 것이므로, 리스크는 줄어들어 손실은 안 볼지 몰라도, 결국 수익도 못 보는 거 아닌가요?</p>
+</blockquote>
+<blockquote>
+<p>주식에서 +20%, 채권에서 -20% 손실 보면 그냥 손익은 0 잖아요?</p>
+</blockquote>
+<p>이번 시간에는 과연 이 의문이 타당한 것인지 확인해보겠습니다.</p>
+<p><img src="https://i.imgur.com/CuXCQDY.png" alt=""></p>
+<p>아마 여러분은 위의 그림처럼 생각하고 계실 겁니다. 한 자산이 오를 땐 다른 자산은 떨어져서 절반씩 분산투자했다면 결국 손익은 평균적으로 0이네요.</p>
+<p>우리나라 코스피 선물 지수와 10년 만기 국채 선물 지수를 이용한 실제 데이터로 확인해보겠습니다. HTS에서 조회되는 10년 만기 국고채의 움직임을 아래 그림에서 확인해봅시다. 약 1년이 조금 넘는 기간의 데이터입니다.</p>
+<p><img src="https://i.imgur.com/Tl2eFcW.png" alt=""></p>
+<p>역시 설명드렸던 대로 전체적인 움직임의 방향성이 반대인 것을 확인할 수 있죠? 얼핏 이 그림만 보면 분산투자 해봐야 수익을 내지 못한다고 착각할 수 있습니다.</p>
+<h2 id="장기적인-우상향의-의미">장기적인 우상향의 의미</h2>
+<p>하지만 사실은 그렇지 않습니다. 그 이유는 여러분이 한 가지 사실을 간과하고 있기 때문인데요, 그것은 <strong>이 두 자산 모두 '장기적’으로는 우상향한다</strong>는 것입니다. 바로 위에서 살펴본 주식과 국고채의 움직임은 장기적인 움직임이 아닌 최근 1년 남짓의 ‘단기적인’ 움직임이었습니다.</p>
+<p><strong>투자 자산은 단기적인 관점에서는 우상향하지 않고 얼마든지 횡보하거나 손실을 볼 수도 있지만, '장기적’인 관점에서는 수익이 발생한다</strong>는 의미입니다. 왜 그럴까요?</p>
+<p><strong>주식</strong>이라는 자산은 경제가 성장하고 기업이 성장함에 따라 새로운 부가가치를 창출하게 되고, 이러한 이윤을 배당이라는 형태로 투자자에게 돌려주게 됩니다. 또한, 기업 활동에 필요한 여러 재화들은 결국 장기적으로 인플레이션이 반영되어 있습니다.</p>
+<p>따라서, 경제가 성장한다면 자본시장에서 이러한 요인들이 주가에 반영되므로 <strong>'장기적’으로는 주가는 올라 우상향하게 되어 있습니다</strong>.</p>
+<p><strong>채권</strong>은 발행하는 단체(기업, 정부 등)에서 원금과 이자 지급을 '보장’한 문서입니다. 국채는 한 국가의 정부에서 지급을 보증했기 때문에 정부가 망하지 않는 이상 이자를 지급하지 않을 가능성은 0%입니다. 확정된 이자 수익이 있으므로 시간이 경과하면 <strong>장기적으로는 채권 가격도 상승하게 됩니다</strong>.</p>
+<p>따라서, 주식이나 채권 같은 자산군은 <strong>자본주의가 망하지 않는 이상 '장기적’인 관점에서는 가격이 오를 수밖에 없는 논리적인 구조</strong>가 있는 자산군입니다.</p>
+<p>그래서, 비록 단기적으로는 주식과 채권 모두 상승은커녕 지속적으로 하락, 심지어는 폭락하는 구간도 얼마든지 존재하지만, <strong>'장기적’인 관점에서는 가격이 오르는 속성을 가지고 있습니다</strong>.</p>
+<p>여기서 말하는 '장기적’이라는 기간은 최소 <strong>5년 ~ 10년 이상의 거시적인 주기</strong>를 말합니다. 시장에는 커다란 사이클이 존재하기 때문입니다. 따라서, 고작 며칠 또는 몇 달 혹은 1-2년의 기간만 똑 떼어놓고 살펴봤을 때 일시적으로 안 올랐다고 상승 안 하네라고 판단하면 안 된다는 것이지요. 시장의 사이클에서 몇 달 혹은 몇 년 동안 시장이 하락하거나 횡보하는 경우는 대단히 흔합니다.</p>
+<h2 id="장기적으로-우상향하는-자산에-분산투자">장기적으로 우상향하는 자산에 분산투자</h2>
+<p>그렇다면 종합해서, <strong>단기적으로는 움직임이 반대이지만, 장기적으로는 모두 우상향하는 자산에 분산 투자</strong>한다는 것의 개념을 알아보기로 합시다. 실제적인 주식과 채권의 '장기적’인 움직임을 현실적으로 도식화하면 아래 그림과 같습니다.</p>
+<p><img src="https://i.imgur.com/dLaGVMF.png" alt=""></p>
+<p>보시는 바와 같이 단기적인 관점에는 자산의 움직임이 반대이므로 수익과 손실이 서로 상계되는 것 같아 보이지만, <strong>이 두 자산 모두 장기적으로는 우상향하는 속성을 가집니다</strong>.</p>
+<p>아래 그림은 미국의 S&amp;P500 지수(주식)과 20년 만기 국고채(채권)의 움직임입니다. 2004년부터 2020년까지 16년이라는 '장기적’인 움직임입니다.</p>
+<p>보시는 바와 같이, <strong>주식과 채권의 기본적인 방향성은 반대이지만, 두 자산 모두 '장기적’으로는 우상향하는 것을 볼 수 있고, 주식과 채권에 1:1로 분산 투자한 포트폴리오는 시장 상황과 무관하게 안정적으로 상승하는 것</strong>을 볼 수 있습니다.</p>
+<p><img src="https://i.imgur.com/HXdzicD.png" alt=""></p>
+<p>따라서, 포트폴리오 전체적인 평균으로 보면 <strong>장기적으로 양의 수익이 누적되는 효과</strong>가 나타나게 됩니다.</p>
+<p><strong>단기적인 관점에서의 시장의 급변이 있어도 서로 다른 방향으로 완충하기 때문에 손실의 가능성은 최소화하면서도, 장기적으로는 두 자산의 평균적인 수익은 얻는 것</strong>이지요.</p>
+<p>바로 이것이 <strong>상관계수가 낮은 자산 간의 분산투자의 위력</strong>입니다. 상관성이 낮은 자산 간의 분산 투자의 또 다른 장점은 <strong>'장기적’으로는 손실보다는 수익이 날 가능성이 크다</strong>는 것입니다. 왜일까요?</p>
+<p>그 이유는, <strong>오르는 데에는 한계가 없지만, 떨어지는 데에는 한계가 있기 때문</strong>입니다.<br>
+실제 데이터로 확인해보겠습니다.</p>
+<p>서로 반대 방향으로 움직이는 자산을 동시에 보유했다고 가정합시다. A라는 자산이 오를 때 B는 떨어지고 B가 오를 때 A는 떨어진다고 가정하겠습니다. 오르는 자산은 100%가 오를 수가 있고 200%도 오를 수 있으며, 2000%가 오를 수도 있죠?</p>
+<p>하지만, A라는 자산이 아무리 2000%가 오른다고 하더라도, B라는 자산은 절대로 -2000%로 떨어질 수가 없습니다. 아무리 떨어져도 -100% 손실 이상은 절대로 날 수가 없습니다. 투자자금을 다 날렸다는 것은 100% 손실을 의미하기 때문이지요. 빚을 내서 투자하지 않는 이상 -100%보다 큰 손실은 불가능합니다.</p>
+<p>따라서, A라는 자산이 10% 오를 때, B에서는 -20%의 손실이 나서 포트폴리오에서 손실이 나는 경우는 있을지라도, A라는 자산에서 30% 수익이 났는데, B에서 -200%의 손실이 나는 것은 불가능하다는 것이죠. 하지만, A에서 200% 수익이 나고, B에서 -30% 손실이 나는 것은 가능합니다.</p>
+<p>전자의 경우처럼 일시적으로 하락하는 자산의 폭이 상대적으로 커서 일시적인 포트폴리오의 손실이 발생하는 것은 흔히 발생할 수 있지만, 바로 밑에서 설명드린 것처럼 손실이 난 자산의 폭이 무한대로 커질 수는 없습니다.</p>
+<p>따라서, <strong>일시적으로 포트폴리오의 손실이 나는 경우도 많이 겪지만, 근본적으로 수학적으로 올라가는 자산의 수익은 무한대이지만, 반대방향으로 움직이는 손실이 나는 자산의 손실폭은 제한되어 있기 때문에 '장기적’으로 보면 수익곡선은 우상향하게 되어 있습니다.</strong> 바로 여기서 A와 B의 관계가 바로 주식과 채권의 관계입니다. 대단히 이상적인 투자 조합이라고 할 수 있습니다.</p>
+<p>이런 관점에서, <strong>의미 있는 분산투자의 조합은, '장기적으로는 상승하지만, 단기적으로는 움직임이 서로 반대이고 상관계수가 낮은 종목군’들로 구성하는 것</strong>이라고 할 수 있습니다.</p>
+<h2 id="최악의-분산-투자란">최악의 분산 투자란?</h2>
+<p>최악의 경우는 어떤 것일까요? 이상적인 분산 투자의 원칙과 정반대로 생각하시면 됩니다. <strong>장기적으로도 하락하는데, 단기적으로 상관관계까지 높은 경우</strong>입니다.</p>
+<p><img src="https://i.imgur.com/TQluzLV.png" alt=""></p>
+<p>그런 바보 같은 투자를 하는 사람이 다 있나라고 혹시 생각하셨을지 모르겠지만, 사실 <strong>거의 절대 다수의 개미 투자자들이 이런 방법으로 투자</strong>를 하고 있습니다.</p>
+<p>대표적인 케이스는, 주식 시장이 계속 하락하고 있는 장에서, <strong>자산군을 분산하지 않고 100% 주식에만 투자를 하는 경우</strong>입니다. 절대 다수의 개인 투자자들의 매매 패턴이 이렇습니다.</p>
+<p>여러분은 혹시 이렇게 생각하실지 모르겠습니다.</p>
+<blockquote>
+<p>현재주가가 하락하더라도 주식은 장기적으로는 상승하는 속성이 있으니, 이 상황은 단기적으로 하락하고, 단기적으로 상관계수가 높은 종목에 투자하는 것이 아니냐?</p>
+</blockquote>
+<p>라고 반문하실지 모르겠지만, 아닙니다. 대부분의 투자자들에게 이 상황은 <strong>장기적으로도 하락하고, 단기적으로도 상관계수가 높은 종목에 투자하는 상황</strong>입니다. 왜냐하면, <strong>대다수의 개미들은 자신들이 장기 투자를 한다고 주장하지만, 실제로는 대부분이 며칠에서 한두 달 정도의 단기로 투자를 하기 때문</strong>입니다.</p>
+<p>실제로 몇 달 혹은 몇 년까지 종목을 보유하는 개인 투자자들 대부분은, 원래는 짧게 수익을 내고 빠지려고 했는데, <strong>주가가 원하는 대로 상승하지 않아 물린 상태로 비자발적 장기투자자가 된 사람들이 대부분</strong>이기 때문입니다.</p>
+<p>따라서, <strong>6개월, 1년, 2년간 지속적으로 장이 하락하는 상황은, 이런 투자자들에게 있어 '장기’에 해당하고, 하락장에서는 주식 종목 간 상관계수가 높아지기 때문에, 단기적으로도 상관성이 높은 종목에 투자하는 상황</strong>인 것입니다.</p>
+<p>따라서, <strong>막연하게 하락장에서 주식 종목만 보유하고 있는 것은, 분산 투자의 철칙에 정면으로 반하는 매매 패턴이므로, 손실이 커질 수밖에 없는 구조</strong>입니다.</p>
+<p>하락장이 끝없이 지속되는데, 내가 가진 종목들이 모두 하락하니 어떻게 수익이 나겠습니까?</p>
+<h2 id="결론-및-요약-5">결론 및 요약</h2>
+<ul>
+<li><strong>분산투자의 핵심은, 단기적으로는 상관성이 낮지만(기본적인 방향성이 반대), 장기적으로는 우상향하는 자산군에 분산투자하는 것이다.</strong></li>
+<li><strong>단기적으로 상관성이 낮지만, 장기적으로 우상향하는 자산에 분산투자하면 단기적으로 손실은 최소화하면서도 장기적으로는 안정적인 수익을 기대할 수 있다.</strong></li>
+<li><strong>주식과 채권은 서로 상관성이 낮으면서도 장기적으로 우상향하는 자산이므로 이상적인 자산 배분의 조합이다.</strong></li>
+</ul>
+<h1 id="자산-배분-투자의-핵심-원리---리밸런싱-효과">자산 배분 투자의 핵심 원리 - 리밸런싱 효과</h1>
+<p>이번 시간에는 자산 배분 투자의 4번째 핵심 원리, 리밸런싱 효과에 대해 살펴보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<p>시작하기에 앞서 제시했던 이상적인 분산 투자의 모델을 다시 한번 복습해 봅시다.</p>
+<blockquote>
+<p>장기적으로 우상향하지만, 상관성이 낮은 자산군에 분산투자하라</p>
+</blockquote>
+<p><img src="https://i.imgur.com/enROowM.png" alt=""></p>
+<p>단기적으로는 움직임이 반대라서 두 자산의 가격 리스크를 상쇄하지만, 장기적인 수익으로 인해 평균적인 수익 곡선은 우상향합니다.</p>
+<h2 id="포트폴리오-리밸런싱이란">포트폴리오 리밸런싱이란?</h2>
+<p>그런데, 여기서 한 가지 잔기술을 부리면 마법과 같이 리스크는 줄이면서도 수익률은 더 향상시킬 수 있습니다. <strong>그것은 일정 주기로 이 두 자산의 비율을 조정하는 것입니다.</strong> 이것을 포트폴리오 리밸런싱이라고 합니다.</p>
+<p>실제로 리밸런싱의 효과에 대한 많은 연구 결과가 있습니다. 예를 들어, 1926년부터 2019년까지 미국 시장 데이터를 분석한 한 연구에 따르면, <strong>60% 주식과 40% 채권으로 구성된 포트폴리오에서 1년 주기로 리밸런싱을 실시했을 때 연평균 수익률이 8.38%로, 리밸런싱을 하지 않은 경우(7.78%)보다 높게 나타났습니다.</strong></p>
+<h2 id="포트폴리오-리밸런싱의-방법">포트폴리오 리밸런싱의 방법</h2>
+<p>그렇다면, 포트폴리오 리밸런싱은 어떻게 해야 할까요? 사실 포트폴리오 리밸런싱 방법은 종목 간의 변동성을 고려하는 방법, 추세의 강도에 따라 조절하는 방법 등 아주 다양합니다.</p>
+<p>하지만, 일반적으로 포트폴리오 리밸런싱이라고 하면, 자산의 비중을 처음 투자를 시작했던 비중 그대로 조절하는 방법을 의미합니다. 일반적으로, 분산투자를 할 때는 각 자산의 비중을 동일하게 분산하므로, 가장 널리 쓰이는 리밸런싱 방법은 1달 단위로 각 종목의 비중을 동일하게 맞추는 방법입니다. 이를 <strong>동일 비중 포트폴리오 리밸런싱</strong>이라고 합니다.</p>
+<p>그러면 아래의 예를 통해 동일 비중 포트폴리오 리밸런싱을 직접 실습해보겠습니다.</p>
+<p>먼저, 여러분이 투자를 100만 원으로 시작했는데, 이후 2개월 동안 다음과 주식과 채권의 가격 변화가 다음과 같았습니다.</p>
+<ul>
+<li>투자 시작 : 주식 50만 원 / 채권 50만 원</li>
+<li>1개월 후 : 주식 70만 원 / 채권 30만 원 (주식은 20만 원 상승, 채권은 20만 원 하락)</li>
+<li>2개월 후 : 주식 50만 원 / 채권 50만 원</li>
+</ul>
+<p>처음 매입 후 아무것도 안 하고 단순히 보유만 했을 경우 수익률은 0%가 되겠죠? 초기 투자 금액도 100만 원이고, 2달이 지난 시점의 평가액도 100만 원이니까요.</p>
+<p>그런데 투자 후 1개월이 지난 시점, 즉 주가가 70만 원으로 오르고 채권은 30만 원으로 떨어졌을 때, 주식과 채권의 비중을 다시 1:1로 맞추었다면 어떻게 될까요?</p>
+<p>1개월 시점에서는 주식은 70만 원, 채권은 30만 원이 되었습니다. 총평가액은 100만 원 그대로이므로 비중을 1:1로 맞추려면 주식과 채권에 각각 50만 원이 배분되어야 합니다.</p>
+<p>그런데 주식은 70만 원이므로, 20만 원을 빼면 되고, 채권은 30만 원이므로 20만 원을 추가해야 합니다. 즉, 주식에서 20만 원을 부분 매도하여 이 돈으로 채권 20만 원어치를 매수하면 동일 비중 포트폴리오 리밸런싱을 수행한 것입니다.</p>
+<p>이러한 리밸런싱 전략의 효과는 실제 데이터에서도 확인할 수 있습니다. 앞서 언급한 연구에서는 리밸런싱 횟수에 따른 효과도 분석했는데, 월간 리밸런싱 시 연평균 수익률이 8.64%로 가장 높게 나타났습니다. 이는 리밸런싱 주기가 짧을수록 변동성에 빠르게 대응할 수 있기 때문으로 풀이됩니다.</p>
+<h2 id="포트폴리오-리밸런싱의-효과---추가-수익-발생">포트폴리오 리밸런싱의 효과 - 추가 수익 발생</h2>
+<p>그런데, 그다음 달에는 어떻게 되었습니까? 주식은 70만 원에서 50만 원으로 약 -28% 가량 하락을 했고, 채권은 30만 원에서 50만 원으로 66% 상승을 했군요.</p>
+<p>이때, 직전 달에 주식에서는 20만 원을 인출해서 채권을 50만 원으로 만든 상황이므로, 다음 달 주식은 -28% 하락하여 주식 비중은 50만 원 X 0.72 = 36만 원이지만, 채권은 20만 원이 추가되어 다시 50만 원이 된 상황에서 66%가 올랐으니 50 X 1.66 = 83만 원이 되죠.</p>
+<p>따라서, 포트폴리오의 총 평가액은 36(주식) + 83(채권) = 119만 원이 됩니다.</p>
+<p>결국 가만히 보유했다면 주식과 채권의 가격은 원상복구되어 수익이 발생하지 않는데, 이렇게 비중을 똑같이 맞춰주는 작업을 해주면 원금 100만 원이 36 + 83 = 119만 원으로 19% 수익이 추가적으로 발생하게 됩니다. 신기하죠? <strong>가격은 그대로인데 추가적인 수익</strong>이 발생했습니다.</p>
+<p><strong>동일 비중 포트폴리오 리밸런싱을 통해 수익이 나는 이유는, 고평가된 자산을 일부 매도(차익 실현)하여 저평가된 자산에 추가불입(저점 추불)하는 이유 때문입니다. 일종의 고점 매도와 저점 매수 효과가 발생</strong>하게 되는 것이지요.</p>
+<p>이를 학술적으로 설명하면, 리밸런싱은 변동성이 높은 자산에서 변동성이 낮은 자산으로 자금을 이동시키는 효과가 있어 전체 포트폴리오의 변동성을 감소시키는 역할을 합니다. 또한 장기적으로는 상대적으로 저평가된 자산에 투자 비중을 높이고, 상대적으로 고평가된 자산의 비중은 줄임으로써 평균 회귀(mean reversion) 현상을 활용하는 효과도 있습니다.</p>
+<p><img src="https://i.imgur.com/mAZySuX.png" alt=""></p>
+<p><strong>&lt;단순 buy and holding&gt;</strong></p>
+<p><img src="https://i.imgur.com/KFW9230.png" alt=""></p>
+<p><strong>&lt;주기적으로 리밸런싱 한 경우&gt;</strong></p>
+<p>위에서 보는 것처럼 리밸런싱을 해주는 경우 이러한 효과 때문에 단순히 보유하고 방치한 것보다 장기적으로 추가적인 수익이 발생합니다.</p>
+<h2 id="포트폴리오-리밸런싱에-대한-대가들의-의견">포트폴리오 리밸런싱에 대한 대가들의 의견</h2>
+<p>MIT에서 21세의 나이에 수학박사 학위를 따고 현대 디지털 컴퓨터와 회로 이론을 정립한 클로드 섀넌은, <strong>주식 시장에서 방향성의 예측은 불가능하다고 주장</strong>하였습니다.</p>
+<p><img src="https://i.imgur.com/uIzbRHf.png" alt=""></p>
+<p>따라서, 상승할 확률과 하락할 확률은 동일하게 50%라고 가정한 상황에서 할 수 있는 최고의 방법은 '주식과 현금’을 1:1로 나누어 주기적으로 리밸런싱하는 것이라고 하였습니다.</p>
+<p>즉, <strong>투자 자산은 복리로 움직이므로 복리 효과를 최대로 하기 위해서는 산술평균이 아닌 기하평균을 최대로 하는 비율이 최적의 비율인데, 상승과 하락의 방향성은 예측이 불가능하므로, 상승 확률을 50%로 가정하였습니다. 이때, 수학적으로 기하평균이 최대가 되는 자산의 배분비를 1:1로 소개</strong>하였습니다. 섀넌의 이론은 이후 켈리의 법칙의 모태가 되었습니다.</p>
+<p>이러한 섀넌의 이론은 최근의 연구 결과들과도 일맥상통합니다. 한 연구에 따르면 50% 주식, 50% 채권으로 구성된 포트폴리오가 리스크 대비 가장 우수한 성과를 보였다고 합니다.</p>
+<p>증권 분석의 전설적인 대가 벤저민 그레이엄 또한 이러한 이론에 입각하여 투자자가 할 수 있는 최고의 방법은 주식과 채권을 1:1로 분산하여 보유하는 것이라고 하였으며 이를 formula plan이라고 명명한 바 있습니다.</p>
+<p><img src="https://i.imgur.com/34qVpsr.png" alt=""></p>
+<p>즉, 장기적으로 우상향하지만 단기적으로는 움직임이 반대인 종목에 분산투자하면 리스크는 줄인 상황에서 안정적인 수익을 얻을 수 있는데, 여기에 추가적으로 리밸런싱의 과정까지 더해주면 더 추가적인 수익을 노릴 수 있다는 것이지요.</p>
+<p>그레이엄의 제자이자 현대 최고의 투자자로 평가받는 워런 버핏 역시 "장기적으로 투자자의 포트폴리오에서 주식과 채권의 비율은 각각 50%를 초과해서는 안 된다"고 조언한 바 있습니다.</p>
+<p>리밸런싱의 효과는 언제 극대화되겠습니까? <strong>자산 간의 움직임의 방향성이 변화가 심한 횡보가 지속될 때 효과가 극대화되겠죠?</strong></p>
+<p>만일 주식이 10년 내내 계속 오르기만 하고 채권은 계속 떨어지기만 한다면, 이럴 때는 매월 리밸런싱을 하는 것보다 리밸런싱을 안 하고 보유하는 것이 크겠죠. 즉, 동일 비중 리밸런싱의 효과는 추세장보다는 횡보장에서 효과가 큽니다.</p>
+<p>실제로 최근의 한 연구 결과에 따르면, 1984년부터 2014년까지 S&amp;P 500 지수와 미국 장기 국채에 대해 60:40 비율로 투자하고 매년 리밸런싱을 했을 때, 강세장에서는 리밸런싱의 효과가 크지 않았지만 약세장이나 횡보장에서는 연간 0.4%에서 0.7%p의 추가 수익이 있었다고 합니다.</p>
+<p>이는 시장이 효율적이지 않고 평균 회귀 현상이 나타날 때 리밸런싱의 효과가 극대화됨을 시사합니다.</p>
+<p>일반적으로 시장은 2/3가 비추세 내지는 횡보장이기 때문에 장기적인 관점에서 보면 이런 리밸런싱을 한 것이 안 한 것에 비해 더 큰 수익과 적은 리스크를 보여주는 경우가 많이 있습니다.</p>
+<h2 id="결론-및-요약-6">결론 및 요약</h2>
+<ul>
+<li>
+<p><strong>리밸런싱은 주기적으로 자산군 간의 비율을 조정하는 과정이다.</strong></p>
+</li>
+<li>
+<p><strong>가장 기본적인 리밸런싱은 동일 비중 리밸런싱으로, 동일 비중 리밸런싱을 하면 부분적으로 저점 매수, 고점 매도의 효과가 발생한다.</strong></p>
+</li>
+<li>
+<p><strong>상관성이 낮은 자산군을 대상으로 동일 비중 리밸런싱을 주기적으로 실시하면 단순히 분산한 것보다 추가적인 수익이 더 발생하는 장점이 있다.</strong></p>
+</li>
+</ul>
+<p>이상으로 자산 배분의 핵심 원리 중 하나인 리밸런싱 효과에 대해 알아보았습니다. 리밸런싱은 분산투자와 함께 활용했을 때 그 효과가 극대화되는 강력한 투자 기법입니다. 앞서 배운 분산투자와 리밸런싱을 잘 활용한다면 여러분도 충분히 시장을 이길 수 있는 투자자가 될 수 있을 것입니다.</p>
+<h1 id="자산-배분-투자의-핵심-원리---추세-추종-1">자산 배분 투자의 핵심 원리 - 추세 추종 (1)</h1>
+<p>이번 시간에는 자산 배분 투자의 5번째 핵심 원리, 추세 추종에 대해 살펴보겠습니다.</p>
+<p>지금까지 살펴본 4가지 원리는 손실을 줄이거나, 약간의 수익을 늘리는 효과가 있었지만, 추세 추종 전략은 타이트하게 손실을 줄이고, 매우 공격적으로 수익을 늘리는 강력한 방법입니다. 추세 추종은 동적 자산 배분 전략의 핵심이 되는 원리이기 때문에 잘 숙지하시기 바랍니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="추세-추종이란">추세 추종이란?</h2>
+<p>추세란 가격의 움직임이 지속되는 현상을 말합니다. 즉, 가격이 현재 상승하고 있다면 앞으로도 상승하고, 현재 하락 중이라면 당분간 계속 하락하는 현상을 말합니다. 일종의 관성 같은 성질이라고도 볼 수 있습니다. 모든 가격의 움직임에는 추세의 속성이 존재합니다.</p>
+<p>추세 추종은 이런 성질에 바탕을 두고, 추세의 방향에 따라 매매하는 방법을 의미합니다. 가격의 방향성이 지속된다고 가정하고 해당 움직임의 방향으로 진입하여 투자하는 방식입니다.</p>
+<p>즉, <strong>가격이 특정 기준점보다 높으면 상승 추세로 간주하고 매수하고, 가격이 특정 기준점보다 낮으면 하락 추세로 간주하여 매도하는 방법이 바로 추세 추종</strong>입니다. 추세 추종 매매의 대표적인 방법으로 신고가 매매 기법을 들 수 있습니다. 어떤 주식이나 종목이 신고가를 달성하면, 매우 강력한 상승신호가 발생했다는 증거이기 때문에 이때 진입하여 시세를 누리는 방법입니다.</p>
+<h2 id="추세-추종의-원리">추세 추종의 원리</h2>
+<p>얼핏 생각하면, 이 방법은 굉장히 비상식적인 것처럼 느껴집니다. 수익을 내기 위해서는 '쌀 때 매수해서 비쌀 때 팔아야 하는데, 추세 추종에서는 상승할 때 (비쌀 때) 매수해서 하락할 때 (쌀 때) 매도하라고 하기 때문입니다.</p>
+<p>하지만, 이것은 큰 오해인데요, 그 이유는 <strong>강력한 상승 혹은 하락 추세가 형성된 경우, 그 움직임이 그 방향으로 가속화되는 경우가 많이 있기 때문</strong>입니다.</p>
+<p>어떤 종목이 많이 오른 경우, 절대적인 가격은 과거의 가격에 비해 비싼 것이 맞습니다. 하지만, 상승추세가 이어질 경우, 현재의 가격이 아무리 높더라도 이후에 더 오르기 때문에 현재 가격은 미래의 가격에 비해서는 상대적으로 싼 지점이 되는 것입니다.</p>
+<p>예를 들어, 1달 전에 1만 원인 상품이 있었는데, 오늘 2만 원으로 올랐습니다. 여러분은 이 상품을 사겠습니까?</p>
+<blockquote>
+<p>1달 전보다 1만 원이나 올랐으니 비싸서 안 사<br>
+벌써 올라버렸으니 비싸졌잖아 비싸게 살 수는 없어<br>
+살려면 어제 샀어야지</p>
+</blockquote>
+<p>절대적인 관점에서는 비싼 것이 맞습니다. 하지만, 이것을 진정으로 비싸다고 할 수 있나요? 비싸고 안 비싸고는 이후의 가격 움직임이 결정합니다. 당장 내일부터 가격이 천정부지로 오른다고 하면, 여러분은 분명히 싸게 산 것입니다. 반면 5,000원으로 떨어져서 싸게 샀다고 하더라도 다음날 1,000원으로 떨어진다면, 여러분은 결론적으로 비싸게 산 것이지요.</p>
+<p>투자에 있어서 가격이 싸고 비싸고는, 절대적인 수치가 결정하는 것이 아닙니다. 이후의 가격의 움직임의 방향성이 결정합니다.</p>
+<p>마찬가지 원리로 <strong>현재 가격이 1달 전에 비해 -50% 이하로 폭락했어서 절대적인 관점에서는 1달 전보다 훨씬 가격이 싸진 것이 맞지만, 이후에 이 하락 추세가 가속화될 경우에는 1달 뒤에는 현재가보다 -20% 이상 추가로 하락한다고 가정하면, 1달 전 가격은 상대적으로는 ‘비싼’ 지점</strong>이 되는 것이지요.</p>
+<p>추세는 한번 형성되면 지속되는 속성이 있습니다. 그래서, 구조적으로 <strong>추세 추종 매매를 하게 되면 어떤 종목의 상승 추세에 제한을 두지 않기 때문에 수익은 무한으로 열어 두고 손실은 제한하는 구조가 되기 때문에 손익비가 큰 매매 구조가 확립</strong>됩니다.</p>
+<h2 id="추세-추종-매매-전략의-설정">추세 추종 매매 전략의 설정</h2>
+<p>그렇다면, 여러분은 아마 이런 질문을 하실 수가 있을 겁니다.</p>
+<blockquote>
+<p>추세 추종이 항상 먹히는 것은 아니지 않느냐? 많이 오르면 다시 떨어지고, 많이 떨어지면 다시 반등하는 반전현상도 얼마든지 관찰되지 않느냐? 저점에서 매수하여 고점에 매도하는 방법이 더 좋은 것 아닌가?</p>
+</blockquote>
+<blockquote>
+<p>내가 추세 추종의 방향으로 진입했는데, 운이 없게도 가격의 움직임이 반전된다면 꼼짝없이 고점에 사서 저점에 매도하는 식으로 손실을 볼 수밖에 없는데 이게 소위 말하는 추격 매수랑 다를 게 뭐냐?</p>
+</blockquote>
+<blockquote>
+<p>그렇다면 가격이 언제 추세의 방향으로 움직일지, 아니면 반전의 방향으로 움직일지 예측하거나 추세 추종 매매의 단점을 극복할 수 있는 방법이 있는가?</p>
+</blockquote>
+<p>매우 중요한 질문이고, 이 질문에 대한 합리적인 답을 알아야 추세 추종 매매를 제대로 이해할 수 있게 됩니다. 추세 추종 매매의 기법은 기본적으로 추세의 방향을 따라는 방식이기 때문에 가격이 상승할 때 매수하고, 하락할 때 매도하는 방법입니다. 이런 관점에서 추세 추종 매매는 다음과 같은 형태의 매매방식을 가지고 있습니다.</p>
+<ul>
+<li>신고가 매수 / 신저가 매도</li>
+<li>현재 가격이 이동 평균선보다 높으면 매수 / 낮으면 매도</li>
+<li>현재 주가가 과거값보다 높을 때 매수 / 과거값보다 낮을 때 매도</li>
+</ul>
+<p>특정 방법이 절대적으로 우월한 것은 없습니다. 방법상의 차이만 있을 뿐입니다. 중요한 것은, 추세 추종 매매는 모두 오를 때 매수하고, 떨어질 때 매도한다는 원리를 공통적으로 가지고 있다는 것입니다.</p>
+<p>위와 같은 의문을 해결하기 위해 실제로 추세 추종 매매 전략을 만들고 그 결과를 확인해보겠습니다.</p>
+<h2 id="추세-추종-매매-전략-백테스트">추세 추종 매매 전략 백테스트</h2>
+<p>그렇다면 실제로 추세 추종 매매 신호가 어떻게 나오고 수익은 어떻게 발생하는지 테스트를 통해 확인해보겠습니다. 여기서는 가장 단순한 추세 추종 전략인 모멘텀 전략을 테스트해 보겠습니다.</p>
+<h3 id="추세-추종-전략-3개월-모멘텀-추세-전략">추세 추종 전략 (3개월 모멘텀 추세 전략)</h3>
+<p>가격이 오를 때 사서, 떨어질 때 파는 전략입니다.</p>
+<ul>
+<li>매매 대상 : 미국 주식 (S&amp;P500 지수), 한국 주식 (KOSPI)</li>
+<li>매수 : 월말 종가 &gt; 3개월 전 종가</li>
+<li>매도 : 월말 종가 &lt; 3개월 전 종가</li>
+</ul>
+<p>매월 말 지수에 투자하되, 3개월 전보다 높으면 매수(보유)하고, 3개월 전보다 낮으면 매도하는 방법입니다.</p>
+<h3 id="역추세-전략-3개월-모멘텀-역추세-전략">역추세 전략 (3개월 모멘텀 역추세 전략)</h3>
+<p>역추세 전략과도 비교해보기 위해, 매수와 매도 전략의 조건을 바꾼 역추세 전략도 확인해보겠습니다.<br>
+가격이 떨어질 때 사서, 오를 때 파는 전략입니다.</p>
+<ul>
+<li>매매 대상 : 미국 주식 (S&amp;P500 지수), 한국 주식 (KOSPI)</li>
+<li>매수 : 월말 종가 &lt; 3개월 전 종가</li>
+<li>매도 : 월말 종가 &gt; 3개월 전 종가</li>
+</ul>
+<p><img src="https://i.imgur.com/hzEywYX.png" alt=""></p>
+<p><img src="https://i.imgur.com/TOac0Dp.png" alt=""></p>
+<p>결과는 위와 같습니다. <strong>미국과 우리나라 시장 모두 추세 추종 매매의 수익이, 역추세와는 비교할 수 없이 높고 역추세적인 매매 방식은 지수보다 훨씬 못한 수익을 내며 빌빌대는 것을 확인</strong>할 수 있습니다. 막연하게 떨어질 때 (쌀 때) 사서, 오를 때 (비쌀 때) 팔면 수익이 발생하고, 오를 때 (비쌀 때) 사서, 떨어질 때 (쌀 때) 팔면 당연히 손실만 볼 것 같았는데 결과는 정반대임을 알 수가 있습니다.</p>
+<h2 id="추세-추종-전략이-강력한-수익을-주는-이유">추세 추종 전략이 강력한 수익을 주는 이유</h2>
+<p>이런 현상이 발생하는 원인은 추세의 속성 때문입니다. 백테스트 구간을 살펴보면, 물론 추세가 반전되는 구간도 여러 군데 존재합니다. 특별히 우리나라 코스피 시장의 경우 최근 1년 정도는 코로나 사태 이후 역대급인 추세적 상승 구간이 나타났지만, 그 이전에는 박스피라는 오명을 쓸 정도로 10여 년 동안 지지부진한 횡보 흐름을 보였지요.</p>
+<p>이런 횡보 구간에서는 추세 추종 전략이 고점 매수, 저점 매도로 지속적으로 손실을 보는 구간이고, 반면에 역추세적으로 떨어질 때 사서 비쌀 때 파는 전략은 상대적으로 수익이 발생하는 구간이었습니다.</p>
+<p>그렇다면, <strong>시장에는 이렇게 추세적인 구간도 분명히 존재하고, 추세 매매에 불리하고 역추세적인 매매에 유리한 횡보 구간도 같이 존재하는데, 왜 장기적인 수익에는 저렇게 극명한 차이가 발생했을까요</strong>? 그 이유는 추세의 속성 때문에 그렇습니다.</p>
+<p>시장에는 추세가 나타날 때도 있고 나타나지 않을 때도 있습니다. 통계적으로는 시장의 2/3는 오히려 비추세적인 횡보장으로 알려져 있습니다.하지만, 추세가 한번 형성되면 그 방향으로 가격의 움직임이 지속되는 속성이 강하기 때문에, 가격이 추세의 방향대로 크게 움직이는 경우가 발생합니다.</p>
+<p>따라서, 추세의 방향으로 진입을 하면, 진입 당시에는 비싸게 사는 것 같지만 이후에 추세의 흐름이 지속되면 매수 이후에 상승의 움직임이 지속적으로 발생하기 때문에, 한번 추세를 제대로 타면 큰 수익이 발생합니다. 또한, 하락으로 전환하면 빠르게 빠져나오기 때문에, 손실을 줄일 수 있다는 것도 장점입니다.</p>
+<p>주식 시장에는 횡보의 움직임도 분명히 존재하지만, 횡보장의 움직임은 제한되어 있습니다. 하지만, 이런 일시적인 횡보 구간이 지나면, 시장은 반드시 매우 강력한 추세장 (상승장 또는 하락장)이 펼쳐지는데, 이때의 움직임이 아주 크게 나타납니다. 기나긴 상승장 혹은 기나긴 하락장이지요. 그렇기 때문에, 추세 추종을 하면 상승장에는 추세에 편승하여 큰 수익을 낼 수 있고, 하락장 때는 일찍 빠져나와 손실을 최소화할 수 있는 것입니다.</p>
+<p>하지만 추세를 거스르는 매매를 하게 되면, 횡보장에서 일시적으로 수익을 낼 수는 있지만, 상승 추세가 시작되는 초입에서 너무 일찍 빠져나오고, <strong>기나긴 하락장에서는 하락 추세가 반전될 때까지 계속 투자하는 구조이므로 엄청나게 큰 손실을 계속 입게 되는 것이죠. 추세 추종은 승률은 낮지만 손익비가 큰 매매구조</strong>를 가집니다. 비유하자면, 타율은 좀 떨어지지만 한번 치면 장타나 홈런을 날리는 야구 선수에 비유할 수 있겠습니다.</p>
+<h2 id="추세-추종의-강점과-역추세의-위험성">추세 추종의 강점과 역추세의 위험성</h2>
+<p>이 정도면 충분히 빠졌으니 여기가 바닥이겠지? 라고 생각하고 쌀 때 진입했다가 이후에 끝없이 빠져서 손실을 본 경험이 있으시죠? 시장의 추세를 절대로 거스르면 안 됩니다. 추세에 반하는 매매 기법(단순히 가격이 떨어지니까 매수, 가격이 올랐으니까 매도)을 따르게 되면 일부 횡보 구간에서는 제한된 수익을 취할 수 있습니다.</p>
+<p>하지만, <strong>끝없이 폭락하는 하락장에서는 큰 폭의 손실을 보고, 끝없이 오르는 엄청난 상승장에서는 제한된 수익만 취하고 빠져나오기 때문에 장기적으로 절대로 자산을 크게 불릴 수 없습니다. 즉, 추세에 반하는 매매는 수익은 제한되어 있고, 손실은 무제한이라고 할 수 있습니다. 하락 추세도 무한대로 진행</strong>될 수 있기 때문입니다.</p>
+<p><img src="https://i.imgur.com/g4U17EN.png" alt=""></p>
+<p>위 그림은 2020년 코로나 위기 구간에서 코스피 지수를 대상으로 앞서 살펴본 3개월 모멘텀 전략의 신호를 나타낸 것입니다(붉은색 화살표 매수, 파란색 화살표 매도). 추세 추종 매매에서는 가격이 3개월 전보다 높으면 매수하고 3개월 전보다 낮으면 빠져나오기 때문에, 비교적 상승 초입에 진입하고, 폭락의 초기 구간에서 빠져나온 것을 확인할 수 있습니다. 따라서, 추세 추종으로 접근했다면, 코로나 쇼크 이후 반등 구간에서 1년간 큰 수익을 낸 것을 확인할 수 있습니다.</p>
+<p>하지만, <strong>역추세로 진입한 경우(파란색 화살표 매수, 붉은색 화살표 매도)에는 반대로 가격이 3개월 전보다 낮으면 오히려 진입을 하기 때문에 폭락장의 초기 구간에 진입한 격</strong>이 되는 거죠. 위 사진에서 파란색에서 매수하고, 빨간색에서 매도했다고 생각해보십시오. 코로나 급락장 초기에 엄청난 폭락 구간에 매수가 들어갔고, 3개월 후에 찔끔 반등했을 때 매도하는 구조입니다. 이후의 엄청난 상승 구간은 전혀 누리지 못했지요.</p>
+<p>반면, 1년이 넘는 엄청난 반등 구간이 끝난 후 꼭지가 꺾이는 초입에 매수가 들어가는 구조를 보이시지요? 보기만 해도 등골이 서늘해지지 않나요?</p>
+<p><strong>역추세로 진입하면, 매수 당시에는 주가가 하락한 상태에서 진입하기 때문에, 싸게 잘 산 것 같은 느낌이 듭니다. 여기가 바닥일 것 같은 생각도 들고, 그래서 내가 매수한 이후에 V자로 반등이 나올 것 같은 기대도 하지요. 하지만, 역추세 매매에서 빠져나오려면 현재 가격이 3개월 전 가격보다 높아져야 하는데, 시장이 그렇게 만만하지가 않습니다.</strong></p>
+<p>역추세로 진입했는데, 반등 없이 몇 개월 심지어는 몇 년 동안 끝없이 빠지는 경우도 흔한데, 따라서 역추세 매매에서는 하락구간의 손실을 속수무책으로 감내해야 합니다. 그게 몇 개월일지, 몇 년이 될지는 아무도 알 수가 없습니다. 가격이 오르는 것에도 한계가 없지만 하락하는 것에도 한계가 없기 때문에, 역추세 매매에서 손실은 끝없이 발생할 수 있습니다. 그래서 추세에 역행하는 방법으로 진입하면 횡보장에서 찔끔찔끔 벌다가 몇 년에 한 번 꼭 찾아오는 폭락장에서 폭락을 고스란히 다 맞게 됩니다.</p>
+<p><strong>추세 추종 매매는 횡보장이 지속되면 지속적으로 손실을 보긴 합니다. 이것은 추세 추종 매매의 본질적인 약점이라고 할 수 있습니다. 하지만, 횡보장에서의 손실은 제한적입니다. 대신, 추세장에 진입했을 때의 수익은 그 추세가 진행되는 한 무한대로 열려 있을 뿐만 아니라, 하락 추세에서는 일찍 빠져나오기 때문에 손실은 제한되고 수익은 무제한으로 열린 구조</strong>를 가집니다.</p>
+<p>따라서, 장기적인 관점에서는 주기적으로 나타나는 횡보구간에서 손실을 볼 수밖에 없지만, 이 구간이 지나고 상승 추세장이 펼쳐지면 그간의 자잘한 손실을 다 만회하고 수익이 급등하는 구조를 보이게 됩니다. 위에서 살펴본 수익곡선처럼 말이죠.</p>
+<h2 id="장기-투자를-추세-추종으로-해야-하는-이유">장기 투자를 추세 추종으로 해야 하는 이유</h2>
+<p>바로 이런 이유 때문에 <strong>장기적인 매매 원칙은 시장의 추세를 거스르는 방식이 아닌 시장의 추세를 추종하는 방식으로 이루어져야 합니다.</strong> 추세 추종의 가장 큰 장점은 상승장에서의 수익을 누리고 폭락장에서의 손실을 잘 방어한다는 겁니다. 뿐만 아니라, 나중에 살펴보겠지만, 추세 추종의 본질적인 단점인 횡보장에서의 손실도 다양한 방법으로 보강할 수 있습니다.</p>
+<p>추세를 반하는 매매는 최저점을 잡아서 고점에 매도하고 싶은 투자자들의 욕심과 본성에 충실해서 심리적으로는 편한 방법이지만, 실전에서는 상승장에서는 수익을 찔끔 먹고, 폭락장에서는 엄청난 손실을 보는 매우 위험한 매매 방식입니다.</p>
+<p>지금까지 살펴본 내용을 종합하면 어떻게 될까요? 상관성이 낮은, 장기적으로 우상향하는 자산군에 분산 투자하되, 각 자산의 추세의 방향에 따라 베팅을 하면 성과가 더 좋아질 것이라고 추측할 수 있겠죠? 이 내용을 이해하셨다면, 여러분은 이제 자산 배분 전략의 핵심 원리를 거의 95%를 이해하셨다고 볼 수 있겠습니다.</p>
+<h2 id="결론-및-요약-7">결론 및 요약</h2>
+<ul>
+<li>모든 가격의 움직임에는 추세가 존재하며, 추세의 방향대로 투자하는 것이 추세 추종 매매이다.</li>
+<li>추세 추종 매매는 상승장에서 강력한 수익을 취하고, 하락장에서의 손실을 제한할 수 있는 강력한 장점이 있다.</li>
+<li>역추세적인 접근 방법은 심리적으로는 편하지만, 실제 투자에서는 엄청난 손실을 안겨주기 때문에 절대적으로 피해야 한다.</li>
+</ul>
+<p>추세 추종의 핵심 원리는 동적 자산 배분에서 가장 중요한 부분이기 때문에 좀 더 깊이 공부할 필요가 있습니다. 다음 시간에는 추세 추종 매매의 이론적 근거와 다양한 추세 추종 매매의 기법에 대해 살펴보겠습니다.</p>
+<h1 id="자산-배분-투자의-핵심-원리---추세-추종-2">자산 배분 투자의 핵심 원리 - 추세 추종 (2)</h1>
+<p>지난 시간에는 자산 배분 투자의 5번째 핵심 원리, 추세 추종의 대략적인 개념을 살펴보았습니다.</p>
+<p>이번 시간에는 각론으로 들어가서 구체적인 추세 추종의 방법에 대해 살펴보겠습니다. 여기서는 자산 배분 전략에서 매우 중요하고 대표적인 추세 추종 전략인 모멘텀 전략의 이론적 배경과 근거를 알아보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="추세-판단의-핵심-지표---월간-모멘텀">추세 판단의 핵심 지표 - 월간 모멘텀</h2>
+<p>추세 추종 전략은 신고/신저가, 이동 평균선, RSI, 스토캐스틱 등 다양한 기술적 지표를 이용해서 얼마든지 자유롭게 만들 수 있습니다.</p>
+<ul>
+<li>신고가 매수 / 신저가 매도</li>
+<li>현재 가격이 이동 평균선보다 높으면 매수 / 낮으면 매도</li>
+<li>현재 주가가 과거값보다 높을 때 매수 / 과거값보다 낮을 때 매도</li>
+</ul>
+<p>하지만, 자산 배분 전략 같은 장기 투자 전략에서는 기본적으로 리밸런싱하는 주기가 시계열이 분이나 일 단위가 아닌 월 단위이기 때문에 저렇게 정교한 전략을 만드는 것이 의미가 없습니다. 뿐만 아니라, 아무리 복잡하고 정교하게 전략을 짜더라도 가장 단순한 전략에 비해 성과도 거의 차이가 없습니다.</p>
+<p>이런 관점에서, 자산 배분 투자 전략에서 흔히 이용되고 가장 많이 연구된 지표는 바로 <strong>‘모멘텀’</strong> 이라는 지표입니다. <strong>모멘텀의 원래의 정의는, 현재 가격에서 특정 기간 전의 가격을 뺀 값입니다.</strong> 자산 배분 전략은 월단위로 리밸런싱하므로 월간 모멘텀을 주로 이용합니다.</p>
+<p>예를 들어, 현재 코스피 지수가 2500인데, 3개월 전 코스피 지수가 2300이었다면, 현재 코스피 지수 3개월 모멘텀 = 2500 – 2300 = 200으로 계산됩니다. 당연한 얘기지만, 모멘텀이 0보다 크면, 현재 가격은 과거에 비해 높으므로 상승 추세, 0보다 작으면 과거보다 낮으므로 하락 추세에 있다고 볼 수 있습니다.</p>
+<p>하지만, 모멘텀을 원래의 정의로만 사용할 경우, 다른 종목과 비교하기가 어려워진다는 단점이 있습니다. 예를 들어, 현재 주가가 100만원인 종목에서 1만원의 모멘텀이 발생한 것과 10만원인 종목에서 1만원의 모멘텀이 발생한 것은 엄청난 차이가 있기 때문입니다.</p>
+<p>100만원에서 1만원은 1%이지만, 10만원에서 1만원은 10%의 의미를 가지기 때문입니다. 따라서, <strong>단순히 모멘텀의 값 자체만을 놓고 계산하면 종목간의 상승률을 표준화할 수 없다는 단점</strong>이 발생합니다.</p>
+<p>이런 관점에서, <strong>모멘텀을 가격 상승률의 관점에서 접근하여 n개월 전 가격대비 현재 가격의 상승률이나 비율로 계산</strong>하기도 합니다. 상승률이나 비율은 여러 종목 중 어떤 종목이 가장 강하게 상승했는지 판정하는 상대 모멘텀 전략에서 이용하고, <strong>실제 자산 배분 전략에서는 상승률의 관점에서 접근한 모멘텀</strong>을 주로 이용합니다.</p>
+<p>정리하면, 모멘텀이라는 값은 다음과 같은 3가지 방식으로 계산될 수 있는데, 본질적으로는 현재 가격이 과거의 가격보다 클 때 상승, 작을 때 하락으로 정의한다는 측면에서는 다 같은 개념입니다. 다만 그 기준점이 0이냐 1이냐의 차이일 뿐이죠.</p>
+<p>따라서, 모멘텀은 다음과 같이 표현될 수 있습니다.</p>
+<ul>
+<li>n개월 모멘텀 (가격 차이) = 현재가격 - n개월 전 가격 (0 이상 : 상승, 0 이하 : 하락)</li>
+<li>n개월 모멘텀 (수익률) = n개월 상승률 (%) = (현재 가격 / n개월 전 가격 - 1) X 100 (0% 이상 : 상승, 0% 이하 : 하락)</li>
+<li>n개월 모멘텀 (비율) = 현재가격 / n개월 전 가격 (1 이상 : 상승, 1 이하 : 하락)</li>
+</ul>
+<p>일반적으로는 두 번째 방법인 <strong>수익률을 기반으로 한 모멘텀을 가장 많이 씁니다</strong>. 그 이유는, n개월 대비 수익률을 %로 표준화하기 때문에 상대 모멘텀을 측정할 때 이용할 수도 있고, 0%를 기준으로 절대 모멘텀에도 이용할 수 있기 때문입니다.</p>
+<p>따라서, 지금부터 이용할 모멘텀들은 모두 두 번째 기준, n개월 수익률을 이용한 모멘텀으로 알아두시면 되겠습니다.</p>
+<h2 id="모멘텀-전략의-종류---상대-모멘텀--절대-모멘텀">모멘텀 전략의 종류 - 상대 모멘텀 / 절대 모멘텀</h2>
+<p>월간 모멘텀 전략은, 가장 대표적인 장기 추세 추종 전략으로, 월간 모멘텀이 큰 자산에 투자하는 방법을 말합니다. 월간 모멘텀 전략은 크게 상대 모멘텀과 절대 모멘텀 전략으로 구분할 수 있는데, <strong>상대 모멘텀 전략은 투자 종목이 여러 개가 있을 때, 최근의 모멘텀(가격 상승률)이 큰 상위 종목에 분산 투자하는 방법</strong>입니다.</p>
+<p><strong>절대 모멘텀 전략은 개별 종목에 적용되는 전략으로, 보유한 종목의 n개월 모멘텀이 0보다 크면 매수하고, 0보다 작을 때 매도하고 현금을 보유하는 전략입니다.</strong> n개월 모멘텀이 0보다 크다는 것은 상승 추세, 0보다 작다는 것은 하락 추세를 의미하므로, <strong>절대 모멘텀 전략은 상승추세 구간에만 투자하고, 하락 추세 구간에서는 투자를 중단하고 현금을 보유하는 전략입니다.</strong></p>
+<p>즉, 현재 가격이 n개월 전 가격보다 높으면 매수하고, 낮으면 매도하고 현금을 보유하는 방법입니다. 이전 글에서 설명한 전략이 바로 3개월 모멘텀 전략(절대 모멘텀)입니다.</p>
+<p>비유를 하자면, 고등학교 100m 달리기 선수를 뽑을 때, 전교생 중 기록이 상위 5위에 해당하는 학생을 대표로 뽑겠다는 전략이 상대 모멘텀 전략이라면, 100m 기록이 12초 미만인 학생을 뽑겠다는 전략이 절대 모멘텀 전략입니다. 상대 모멘텀은 상대평가, 절대 모멘텀은 절대평가와도 같은 의미입니다.</p>
+<p>모멘텀 전략은 가장 단순하지만 로버스트한 추세 추종 전략의 하나로, 수많은 투자 논문에서 그 효용성이 학술적으로 입증되었습니다. 그렇다면, 모멘텀 전략의 이론적 근거에 대해 하나씩 살펴볼까요?</p>
+<h2 id="모멘텀-전략의-이론적-배경">모멘텀 전략의 이론적 배경</h2>
+<p><img src="https://i.imgur.com/TsbeD5O.png" alt=""></p>
+<p>1993년 제가디쉬(Jegadeesh)와 티트만(Titman)은 모멘텀 전략에 대한 최초의 실증적인 연구인 '<a href="https://www.jstor.org/stable/2328882">이익 종목을 사고, 손실 종목을 파는 전략의 수익률: 주식 시장 효율성에 대한 영향</a>’이라는 논문을 발표했습니다. 논문의 내용은 1965년에서 1989년의 미국 시장의 주식 데이터를 이용하여 미국 주식시장에서 최근 3개월~12개월 간의 모멘텀(상승률)이 가장 높은 종목들(최근 3~12개월간 가장 많이 상승한 종목들)의 평균적인 수익률은 모멘텀이 가장 낮은 종목들의 평균적인 수익률을 1년 동안 지속해서 초과했다는 사실을 발표했습니다.</p>
+<p>쉽게 말하자면, 주식 시장의 여러 종목 중 쭉쭉 올라가는 종목들 위주로 보유한 경우와 쭉쭉 떨어지는 종목들 위주로 구성한 포트폴리오의 이후의 평균적인 수익률을 비교해보았더니, 상승 추세에 있는 종목들의 수익률이 하락 추세에 있는 수익률을 현저하게 초과했다는 내용이었습니다.</p>
+<p>이 논문이 경제학계에 미친 영향은 충격적이었습니다. 왜냐하면, 이전까지는 <strong>‘효율적 시장 가설’</strong>, 장기적으로 시장의 평균적인 수익을 초과할 수 있는 방법은 없다는 학설이 대세였기 때문이었습니다. 하지만, 이런 모멘텀 효과 내지는 추세 효과에 대한 실증적인 연구는 기존의 바위와 같은 학설을 뒤흔들기에 충분했습니다.</p>
+<p>제가디쉬와 티트만의 기념비적인 모멘텀/추세 효과에 대한 논문이 처음 발표된 이후, 이와 유사한 종류의 모멘텀이나 추세 효과에 대한 논문은 그야말로 홍수처럼 쏟아졌고, 모멘텀/추세 효과에 대한 이론적, 행태 재무학적, 실증적 증거들은 무수히 쏟아져 나왔고 현재는 가장 중요한 포트폴리오 투자 방법의 하나로 자리잡게 되었습니다.</p>
+<p>제가디쉬와 티트만의 최초의 모멘텀 전략은, 주식 시장을 대상으로 적용한 것이었지만, 이후의 수많은 연구를 통해 이러한 모멘텀/추세 효과는 비단 주식 시장에만 국한된 것이 아니라, 외환, 선물, 채권, 부동산, 상품 등 모든 투자 자산 내에서, 심지어는 투자 자산 간에서도 나타나는 것으로 확인되었습니다[. 그리고 이런 모멘텀 효과는 일반적으로 6~12개월 간의 모멘텀 기간에서 가장 뚜렷이 나타나지만, 3~12개월의 어느 기간에서도 일관되게 나타난다는 사실도 밝혀졌습니다.</p>
+<p>뿐만 아니라, 이러한 상대적인 모멘텀 뿐만 아니라, <strong>절대 모멘텀 (모멘텀 값이 0보다 작은 하락 추세에서는 투자하지 않음) 전략도 의미있는 리스크 관리와 수익률 제고에 도움이 된다는 사실까지 밝혀짐에 따라 모멘텀 전략의 가치와 유용성은 포트폴리오 투자의 확고한 대세로 자리잡게 되었습니다.</strong></p>
+<p>이처럼 모멘텀 전략의 이론적인 근거는 이미 1990년대에 확립되었지만, <strong>2008년 금융위기가 발생하고 이에 대한 반성과 대안 투자에 대한 고민이 글로벌하게 확산된 시점부터 실제 투자 필드에 확산되기 시작했습니다.</strong> 특별히 2007년 ~ 2012년에 된 Mebane Faber와 Gary Antonacci 와 같은 연구자들이 이에 대한 훌륭한 논문을 발표하면서 자산 배분에 있어서 모멘텀 효과의 이론적 근거와 실증성이 확립되었습니다.</p>
+<p><img src="https://i.imgur.com/ZanDtmU.png" alt=""></p>
+<h2 id="상대-모멘텀-전략의-성과">상대 모멘텀 전략의 성과</h2>
+<p>그렇다면 모멘텀 전략의 실제적인 증거를 하나씩 살펴보겠습니다. 먼저 상대 모멘텀 전략부터 알아보겠습니다. 상대 모멘텀 전략으로 가장 널리 알려진 선구자적인 논문은, 2010년 Mebane Faber가 쓴 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1585517">Relative Strength Strategies for Investing</a>이라는 논문입니다.</p>
+<p>이 논문에서는 미국 주식 시장의 여러 섹터와 다양한 자산군을 대상으로, 최근 상승률이 가장 높은 (상대 모멘텀이 가장 높은) 종목 상위 종목에 투자했을 때의 수익률이 어떻게 나오는지 비교한 논문으로, 최근 상승률이 높은 종목에 선별적으로 투자할 때 수익률이 더 높아진다는 것을 실증적으로 공개한 최초의 논문입니다.</p>
+<p>참고로 여기서 계산한 모멘텀은 n개월 간의 가격의 차이가 아닌 n개월 가격의 상승률로 계산한 것입니다. 왜냐하면, 주식 종목마다 가격이 다르기 때문에 단순히 가격의 차로 계산한 모멘텀은 아무 의미가 없기 때문입니다. 대신 가격의 상승률로 계산하면, 종목의 가격대와 무관하게 어떤 종목이 가장 강하게 올랐는지를 %나 비율로 표준화할 수 있기 때문에, 여러 종목 중 강한 종목을 선별할 때 유용하게 이용할 수 있습니다.</p>
+<p>그러면 지금부터 Faber가 소개한 상대 모멘텀 전략의 결과를 하나씩 살펴봅시다.</p>
+<h3 id="미국-주식-시장-섹터-상대-모멘텀-전략">미국 주식 시장 섹터 상대 모멘텀 전략</h3>
+<ul>
+<li>테스트 기간 : 1928년 ~ 2009년</li>
+<li>투자 대상 : 미국 주식 시장 10개 섹터 (내구재, 소비재, 유틸리티, 에너지, 제조업, 전자 등)</li>
+<li>투자 방법
+<ul>
+<li>매월 10개 섹터의 최근 1개월 모멘텀을 구함 (최근 1개월 수익률)</li>
+<li>모멘텀이 큰 순으로 정렬</li>
+<li>모멘텀이 큰 상위 n개 (n = 1,2,3,… 9)의 섹터에 분산 투자</li>
+<li>매월말 이 과정을 반복하여 종목 교체</li>
+</ul>
+</li>
+</ul>
+<p>쉽게 설명하자면, 10개 섹터 중 이번달에 가장 많이 오른 상위 n개의 종목에 분산 투자하고, 다음달에 다시 랭킹을 매겨 수익률이 좋은 상위 종목에 투자하는 것을 반복하는 방법입니다.</p>
+<p>결과를 살펴보죠.</p>
+<p><img src="https://i.imgur.com/Sd5kgt9.png" alt=""></p>
+<p>TOP1은 매달 모멘텀이 가장 강한 1종목에만 투자했을 때의 수익률이고, TOP2는 모멘텀이 가장 강한 2종목, TOP9는 모멘텀 상위 9종목, EQ-weight는 모멘텀과 무관하게 10종목 모두에 분산투자했을 때의 수익률입니다. 연 평균 수익률(CAGR)은 대체적으로 모멘텀 상위 1~3 종목에 투자할수록 하위 종목까지 포함하는 것보다 높은 것을 보여줍니다.</p>
+<p>그렇다면 1개월 모멘텀 말고, 최근 3개월, 6개월, 9개월, 혹은 12개월 모멘텀으로 랭킹을 매겨 상위 종목 몇개에 투자하면 어떻게 될까요? 결과는 다음과 같습니다.</p>
+<p><img src="https://i.imgur.com/jF3dy8I.png" alt=""></p>
+<p>대체적으로 모멘텀 기간이 길어질수록 연평균 수익률이 높아지는 것을 확인할 수 있습니다. 하지만, 모멘텀 기간이 짧아도 모멘텀 상위의 소수 종목에 분산 투자하면 10개 전체에 분산투자한 것보다 초과 수익이 나타나는 현상은 동일하게 나타납니다. 많은 연구 결과 이러한 모멘텀 효과가 나타나는 기간은 <strong>1~12달의 어디에서도 나타나는 것으로 알려져 있지만, 일반적으로는 6~12개월 사이의 비교적 긴 구간에서 더 뚜렷하게 나타난다고 알려져 있습니다.</strong></p>
+<p>그렇다면, 대체 몇 개월 모멘텀이 최적의 모멘텀이냐는 질문을 할 수가 있는데, 사실 이것은 정답이 없습니다. 시장 상황에 따라, 투자 자산의 움직임에 따라, 또 투자하는 구간에 따라 가변적이기 때문이지요. 따라서, 특정 모멘텀 기간에 얽매였다가 운이 나빠서 실패하는 경우를 방지하기 위해 가장 안전하면서도 합리적으로 시도할 수 있는 방법은, 여러 모멘텀 값에 분산하는 방법입니다. 아래와 같이 1,3,6,9,12개월 간의 평균적인 모멘텀을 이용하는 방법도 훌륭한 시도이고, 1,2,3,4,5,6,7,8,9,10,11,12 개월 모멘텀을 다 평균해도 상관없습니다.</p>
+<p><img src="https://i.imgur.com/SPF83gF.png" alt=""></p>
+<p>1,3,6,9,12개월 평균 모멘텀 상위 종목으로 투자했을 때의 결과도 동일하게 나타남을 아래에서 확인할 수 있습니다. 모멘텀 상위 종목에 투자했을 때의 수익률이 단순히 buy and holding 한 지수에 비해 장기적으로 월등한 초과 수익이 발생함을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/lkTjAVW.png" alt=""></p>
+<h3 id="글로벌-자산군간-상대-모멘텀-전략">글로벌 자산군간 상대 모멘텀 전략</h3>
+<p>지금까지 확인한 부분은 같은 주식 시장 내에서의 섹터군을 대상으로 한 '자산내 상대 모멘텀 전략’이었습니다. 그런데, 이런 상대 모멘텀 효과는 비단 같은 자산내에서만 나타나는 것이 아니라, 서로 다른 자산 간에서도 똑같이 나타납니다. 이런 관점에서 아래와 같은 상대 모멘텀 전략을 테스트 해 볼 수 있습니다.</p>
+<ul>
+<li>테스트 기간 : 1972년 ~ 2009년</li>
+<li>투자 대상 : 미국 S&amp;P500, 글로벌 주식, 미국 10년 만기 국고채 , 금, 부동산</li>
+<li>투자 방법
+<ul>
+<li>매월 5개 자산군의 최근 1,3,6,9,12 개월 평균 모멘텀을 구함 (1,3,6,9,12개월 수익률의 평균)</li>
+<li>평균 모멘텀이 큰 순으로 정렬</li>
+<li>평균 모멘텀이 큰 상위 n개 (n = 1,2,3,… 5)의 자산에 분산 투자</li>
+<li>매월말 이 과정을 반복하여 자산군 교체</li>
+</ul>
+</li>
+</ul>
+<p>우선 백테스트 기간 동안 개별 자산군의 투자 성과와 움직임은 아래와 같습니다.<br>
+<img src="https://i.imgur.com/H4KsVMd.png" alt=""><br>
+<img src="https://i.imgur.com/Ui7aP2k.png" alt=""></p>
+<p>이제 상대 모멘텀 전략의 성과를 살펴보겠습니다.<br>
+<img src="https://i.imgur.com/AUkuE0A.png" alt=""><br>
+<img src="https://i.imgur.com/ArgM2bL.png" alt=""></p>
+<p>모멘텀 상위 1~2 종목에 투자한 상대 모멘텀 전략의 연평균 수익률은 16%대인데, 단순히 5개 자산군에 동일하게 분산 투자한 전략의 수익률은 10%대로, 모멘텀 상위 전략에 투자한 것의 성과가 단순히 전체 자산군에 동일하게 분산투자한 것에 비해 현저히 우월함을 확인할 수 있습니다.</p>
+<h2 id="결론-및-요약-8">결론 및 요약</h2>
+<ul>
+<li>자산 배분 전략에서 널리 이용되는 추세 추종의 지표로 월간 모멘텀을 이용한다.</li>
+<li>모멘텀에는 타 자산대비 추세의 강도를 상대적으로 비교하는 <strong>상대 모멘텀</strong>과, 동일 자산내에서 현재 가격의 움직임이 상승 추세인지 하락 추세인지를 결정하는 <strong>절대 모멘텀</strong>이 있다.</li>
+<li><strong>상대 모멘텀이 강한 종목이나 자산군에 선별적으로 투자하는 것이 전체에 분산 투자하는 것보다 우월함이 통계적으로 입증되었다.</strong></li>
+</ul>
+<h1 id="자산-배분-투자의-핵심-원리---추세-추종-3">자산 배분 투자의 핵심 원리 - 추세 추종 (3)</h1>
+<p>지난 시간에는 자산 배분 투자의 5번째 핵심 원리, 추세 추종 중 모멘텀의 의미와 종류, 그리고 상대 모멘텀에 대해 살펴보았습니다.</p>
+<p>이번 시간에는 상대 모멘텀과 쌍벽을 이루는 절대 모멘텀에 대해 살펴보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="절대-모멘텀">절대 모멘텀</h2>
+<p>지금까지 살펴본 전략은 '상대 모멘텀 전략’이었습니다. 여러 자산군 중에서 모멘텀이 '상대적’으로 어떤 것이 큰가, 즉 어떤 종목이 상대적으로 상승률이 높은가를 기준으로 종목을 고른 전략이었습니다. 지금 살펴볼 모멘텀은 절대 모멘텀 전략입니다.</p>
+<p><strong>절대 모멘텀 전략은 절대 모멘텀이 0보다 크면 (상승 추세) 투자하고, 0보다 작으면(하락 추세) 투자하지 않고 현금으로 대체하는 전략입니다.</strong> 결국 절대 모멘텀 전략은 상승 구간에만 투자하고, 하락 구간에는 투자를 중단하고 쉬겠다는 의미입니다.</p>
+<p>상대 모멘텀 전략은 상대적으로 강한 종목의 비중을 늘림으로써 강력한 수익을 추구하는 전략이라면, 절대 모멘텀 전략은 가격이 절대적으로 하락하는 구간에 진입하면 투자를 중단함으로써, 지속적인 하락장에서의 큰 손실을 타이트하게 줄여주는 전략입니다. 즉, 상대 모멘텀 전략이 공격적인 전략이라면 절대 모멘텀 전략은 방어적인 전략이라고 할 수 있겠습니다.</p>
+<p>절대 모멘텀 전략을 쓰려면 절대 모멘텀의 기간 값을 정해야겠지요? <strong>일반적으로는 6개월이나 12개월 모멘텀을 많이 쓰지만, 특정 모멘텀 값이 절대적으로 우월한 것은 없습니다.</strong> 모멘텀 기간 값을 짧게 잡으면 추세의 변화에 민감하게 빠르게 대응하지만, 잘못된 신호 (휩소) 에 걸리기 쉽고, 모멘텀 기간이 길면 잘못된 신호는 잘 걸러주지만, 신호가 너무 늦어져 저점과 고점을 늦게 잡는 단점이 있다는 차이가 있습니다.</p>
+<p><strong>통상적으로는 6개월이나 12개월 정도의 중, 장기적인 모멘텀 기간값을 많이 이용하고 성과도 좋은 편입니다.</strong> 모멘텀 전략에 대한 많은 연구를 종합해보면, 상대 모멘텀이나 절대 모멘텀 모두 1~12개월 어느 구간에나 다 잘 작동한다고 알려져 있지만, 12개월이 넘어가면 지나치게 과거의 데이터이기 때문에 최근의 추세를 반영하지 못해 오히려 성과가 저해된다고 알려져 있습니다.</p>
+<p>따라서, 절대 모멘텀의 기간 값을 정할 때는 1~12개월 사이의 값을 취하면 되겠습니다.</p>
+<h2 id="절대-모멘텀-전략의-이론적-근거">절대 모멘텀 전략의 이론적 근거</h2>
+<p>절대 모멘텀 전략은 Gary Antonacci가 2014년 발표한 논문, <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2495252_code1556771.pdf?abstractid=2244633&amp;mirid=1">Absolute Momentum: A Simple Rule-Based Strategy and Universal Trend-Following Overlay</a> 로 널리 알려지게 되었습니다.</p>
+<p><img src="https://i.imgur.com/gxEn8zz.png" alt=""></p>
+<p>그가 제시한 절대 모멘텀 전략은, 어떤 자산의 12개월 모멘텀을 구해서 이것이 0보다 크면(상승추세) 보유, 0보다 작으면(하락 추세) 현금을 보유하는 방식입니다. Antonacci가 12개월 절대 모멘텀 전략을 미국 주식지수, 해외 주식 지수, 국채, 회사채, 정크본드, 부동산, 금에 적용한 결과는 아래와 같습니다.<br>
+<img src="https://i.imgur.com/Yb8NPvQ.png" alt=""><br>
+<img src="https://i.imgur.com/4IHXI3W.png" alt=""><br>
+<img src="https://i.imgur.com/m4MGA4Y.png" alt=""><br>
+<img src="https://i.imgur.com/DcIv0a8.png" alt=""></p>
+<p>녹색 선은 그냥 Buy and hoding이고 파란색 선은 절대 모멘텀에 따라 투자할 때와 쉴 때를 구분한 전략입니다. 보시는 것처럼, <strong>자산의 12개월 절대 모멘텀이 마이너스로 하락 추세인 경우에는 빠져나오기 때문에, 하락장에서의 손실을 방어하면서도 높은 수익을 확보하는 것을 보여줍니다.</strong> 절대 모멘텀이 0인 경우 투자하지 않는 것은 일종의 ‘손절매’ 와 같은 기능을 하기 때문입니다.</p>
+<p><strong>2008년 금융위기나 2020년 코로나 사태와 같은 장기적인 하락장에서는 절대 모멘텀 전략이 투자 전략의 큰 손실을 확실히 차단해주는 구실을 담당하고, 이것이 절대 모멘텀 전략의 가장 강력한 장점입니다.</strong></p>
+<h2 id="평균-모멘텀-스코어-ams--average-momentum-score-전략">평균 모멘텀 스코어 (AMS = Average Momentum Score) 전략</h2>
+<p>다음으로 절대 모멘텀 전략의 일종인 ‘평균 모멘텀 스코어 전략’ 을 살펴보겠습니다. <strong>평균 모멘텀 스코어는 특정 한가지 모멘텀 기간 값으로 모멘텀을 계산하는 방식이 아닌, 여러 기간의 절대 모멘텀 값의 평균낸 수치를 의미합니다.</strong> 이 전략은 제가 기존의 단일 모멘텀 전략의 구조적인 결점을 보완하기 위해 개발한 전략입니다.</p>
+<p>일반적인 절대 모멘텀의 경우, 3개월, 6개월, 12개월과 같은 단일한 기간 값을 기반으로 상승 혹은 하락 추세를 정의합니다. 그래서, 모멘텀이 상승이면 1을 부여하고, 하락이면 0을 부여하여 이 비율에 따라 투자하게 되는 것이지요. 1이라는 비율은 100%를 의미하니까, 상승구간에서는 100% 투자를 하고, 하락 구간에서는 0% 투자를 하게 되므로 현금을 보유하게 되는 구조입니다.</p>
+<p>평균 모멘텀 스코어 전략에서는 특정 한 가지 모멘텀 값의 수치를 이용하는 것이 아니라 여러 기간의 모멘텀 값을 평균하는 방식입니다. 예를 들어, 12개월 평균 모멘텀 스코어는 1개월 ~ 12개월의 개별적인 12개의 절대 모멘텀 값을 평균을 낸 수치입니다. <strong>평균 모멘텀 스코어를 이용하면 이 수치값이 바로 해당 시점의 투자 비중이 됩니다.</strong> 아래의 예에서는 58%가 투자 비중으로 투입되고, 나머지 42%는 현금으로 보유하게 됩니다.</p>
+<p><img src="https://i.imgur.com/67znVms.png" alt=""></p>
+<p>따라서, 극단적인 상승장에서는 AMS가 1이 되고, 극단적인 하락장에서는 0이 됩니다. 상승의 강도가 클수록 AMS는 1에 가까워지고, 하락의 강도가 크면 0에 가까워집니다.</p>
+<p>S&amp;P500과 코스피 지수를 대상으로 단일 값의 절대 모멘텀 전략과 1~12개월 평균 모멘텀 전략의 성과를 비교하면 아래와 같습니다. <strong>테스트하는 구간에 따라 가장 성과가 좋은 모멘텀의 기간 값은 계속 바뀌지만, 평균 모멘텀 스코어를 적용한 전략은 비록 최고의 성과는 아닐지라도 장기간으로 특정한 값의 단일 모멘텀 전략의 성과보다는 우수합니다.</strong></p>
+<p>뿐만 아니라, 장기적인 관점에서도 12개의 개별 모멘텀 전략의 평균적인 성과는 초과하는 모습을 보여줍니다. 즉, 안정적이면서도 꾸준하며, 특정 시장 상황에 휘둘리지 않는 모습을 보여주는 것이지요.</p>
+<p><img src="https://i.imgur.com/twDAXCX.png" alt=""></p>
+<p><img src="https://i.imgur.com/cinKZZO.png" alt=""></p>
+<p>아래 사진은 S&amp;P500, 미국 20년 장기 채권, KOSPI200, 한국 20년 만기 국고채 유니버스를 대상으로 12 개월 평균 모멘텀 스코어를 적용시킨 절대 모멘텀 전략입니다. <strong>서브 프라임, 코로나와 같은 충격적인 시장 상황에도 CAGR 8%, MDD -7%의 안정적인 성과를 보여줍니다.</strong> 주식과 장기 채권이라는 상관성 낮은 포트폴리오 + 12개의 모멘텀 타임 프레임에 분산시켜 리스크를 현저히 낮추었기 때문에 이렇게 안정적인 성과가 가능합니다.<br>
+<img src="https://i.imgur.com/8mDmV8Z.png" alt=""></p>
+<p>그렇다면 왜 통계적으로 가장 좋은 수익률을 보이는 특정한 모멘텀 값을 쓰지 않고 이렇게 12개월의 모멘텀의 평균 낸 값을 이용할까요? 그 이유는 두 가지가 있습니다. <strong>첫번째는 과최적화 방지이고, 두 번째는 분산 투자 효과 때문입니다.</strong></p>
+<h3 id="ams의-장점-1---과최적화-방지"><strong>AMS의 장점 (1) - 과최적화 방지</strong></h3>
+<p>코스피 지수를 대상으로 어떤 수치의 절대 모멘텀 값을 적용했을 때 가장 우수한 성과가 나오는지는 데이터를 돌려보면 금방 알 수 있습니다. 3개월, 6개월, 12개월 등 특정한 값을 알 수 있지요. 하지만, 이런 것은 의미가 없습니다. 왜냐면, 과거의 데이터를 기반으로 결론적으로 짜맞춘 결과이기 때문입니다.</p>
+<p>결과적으로 지나간 데이터를 통해서 어떤 수치가 가장 좋은지를 후행적으로 찾아낸 결과인데, 이런 백테스트 과정이 전혀 의미가 없는 것은 아니지만, 단순히 과거의 통계치에서 가장 우수한 성과가 나왔기 때문에 미래에도 이 값이 가장 우수한 성과를 보일 거라고 생각해서는 결코 안 됩니다. <strong>왜냐하면, 앞으로의 움직임이과거와 똑같으리라는 보장은 전혀 없기 때문</strong>이지요.</p>
+<p><strong>가장 이상적인 모멘텀 값은 백테스트 하는 구간이나 혹은 종목에 따라 계속 다르게 나올 수밖에 없습니다.</strong> 따라서, 과거 데이터상에서 특정한 몇 개월의 수치가 가장 높게 나왔기 때문에 그 값이 최적의 값이라고 생각하는 것은 과최적화의 오류를 범하는 것입니다. 그래서, 과거 데이터에 최적화된 수치를 찾아서 실제 투자에 적용했을 때는 이후에 백테스트 데이터보다 훨씬 못한 결과를 가져오는 경우가 흔합니다.</p>
+<p><strong>미래의 시장의 움직임은 과거의 움직임과 똑같기보다는 다를 가능성이 훨씬 높기 때문입니다.</strong> 하지만, 이렇게 평균 모멘텀 스코어의 개념을 적용해서 모든 기간 값에 골고루 분산투자 할 경우 과최적화의 위험에서 완전히 벗어나게 됩니다.</p>
+<h3 id="ams의-장점-2---분산-투자-효과"><strong>AMS의 장점 (2) - 분산 투자 효과</strong></h3>
+<p>어떤 모멘텀의 기간 값이 가장 좋은지에 대해서는 앞서 잠깐 언급한 바와 같이 1~12개월 어느 모멘텀이든지 다 잘 먹히는 것으로 알려져 있습니다. 단기 구간보다는 6~12개월의 구간이 일반적으로는 좀 더 나은 것으로 알려져 있으나 실제로 통계적인 차이는 미미한 수준인 경우가 대부분입니다.</p>
+<p><strong>이런 관점에서 바라본다면, 과최적화의 문제를 방지하고, 앞으로 실제 투자할 구간에서도 큰 문제없이 모멘텀 전략의 효과를 얻기 위해서는 여러 개의 모멘텀에 분산하여 투자하는 것이 가장 이상적이라고 할 수 있는 것이죠.</strong></p>
+<p><strong>분산 투자의 핵심 원리는 상관성이 낮은 서로 다른 구조에 분산하면 평균적인 수익률은 유지하면서, 손실과 변동성을 줄일 수 있다는 것이었죠?</strong> <strong>모멘텀의 타임 프레임을 분산시키는 것도 바로 이런 효과를 기대할 수가 있는 것입니다.</strong> 절대 모멘텀의 타임 프레임을 분산하여 투자하는 평균 모멘텀 스코어를 이용하면 백테스트 구간이 아닌 실제 투자 구간에서도 성과의 저하가 없이 안정적으로 유지되는 것을 쉽게 확인할 수 있습니다.</p>
+<p>그 이유는 특정한 절대 모멘텀 스코어 값 어느 하나에 절대적으로 좌우되지 않고 12개의 타임 프레임에 분산되어 있기 때문이죠. 시장 상황이 어떻게 바뀐다고 하더라도 적어도 해당 시점에 가장 최적인 타임 프레임은 무조건 한 두개는 걸리게 되어 있기 때문에 어떤 상황에서도 중간은 가는 구조입니다. 어떤 상황에서도 중간은 간다는 게 별게 아닌 것 같지만, 사실은 이게 정말 쉽지 않습니다.</p>
+<p>현재 전통적으로 가장 널리 쓰이는 절대 모멘텀의 기간 값은 보통 6개월이나 12개월입니다. 그런데 <strong>이 기간 값은 노이즈가 적고 장기간 추세적으로 움직이는 미국 S&amp;P500 지수를 대상으로 백테스트 한 연구들이 대부분을 차지하고 있어서 나타난 편견일 가능성이 높습니다.</strong> 6개월이나 12개월 같은 수치가 나쁜 값이라는 의미가 아니고, 백테스트상에서 최적의 성과를 보인 특정 기간값에 절대적인 의미를 부여하면 안된다는 말입니다.</p>
+<p><strong>절대 모멘텀을 판정하는 기간 값이 6 ~ 12개월로 긴 경우 단기적인 노이즈를 쉽게 걸러내고 장기적인 큰 추세를 취하는 데는 도움이 되지만, 추세가 꺾이거나 반전되는 변곡점에서는 신호가 너무 늦게 나오는 단점이 있습니다.</strong> 따라서, 반대로 시장상황에 빠르게 대처하기 위해 짧은 기간값인 3개월 모멘텀을 이용하기도 합니다.</p>
+<p>이렇게 하면 확실히 좀 더 추세 전화를 빠르게 잡아내고 일찍 진입하고 일찍 빠져나올 수 있는 장점이 있지만, 반대로 이것이 단점으로 작용하기도 합니다. 노이즈에 쉽게 걸려서 횡보장에서 의미 없는 손실을 보기 쉽다는 것이죠.</p>
+<p>따라서, 특정 타임 프레임 값에 절대적인 장점이 있는 것이 아닙니다. 긴 값이건 짧은 값이건 특정 타임프레임을 선택하는 것은 전적으로 투자자의 자유지만, 상대적인 장단점이 있고 절대적인 것은 없다는 사실을 잘 알아야 하는 것이죠.</p>
+<h3 id="ams의-장점-3---변곡점에서의-대응에-유리"><strong>AMS의 장점 (3) - 변곡점에서의 대응에 유리</strong></h3>
+<p>절대 모멘텀 전략은 기본적으로 추세 추종 전략이기 때문에, 추세가 전환된 후 어느 정도 해당 방향으로 추세가 확립되어야 진입 신호가 발생합니다. <strong>즉, 추세 추종 전략은 바닥에서 사서 꼭지에 파는 것이 아니라, 무릎에 사서 어깨에 파는 전략입니다</strong> (어차피 바닥과 꼭지, 즉, 저점과 고점을 알 수 있는 방법은 전혀 없습니다).</p>
+<p>그런데, 일반적으로 추세 추종 전략은 잘못된 신호를 걸러내기 위해 상대적으로 긴 기간값을 선호하는 경향이 있습니다. 모멘텀 전략의 경우 6개월이나 12개월 같은 신호를 쓰는 것이지요. 그런데, 이렇게 긴 기간값을 쓰면, 거짓 신호는 잘 걸러내지만, 추세가 전환된 이후 다소 늦게 신호가 뜨기 때문에 진입과 매도 시점이 너무 늦어진다는 단점이 있습니다.</p>
+<p>즉, 지속적으로 하락하다가 이번달에 급등했다면, 심리적으로 이번 달이 저점일 것 같고, 다음달부터 많이 오를 것 같은 느낌이 들 때가 있고, 지속적으로 상승하다가 이번달에 크게 꺾였다면, 이번달이 하락의 전환점이라고 느껴지는 경우도 많지요? 실제로 그렇게 진행되는 경우도 당연히 많고요.</p>
+<p>그런데, 기간값이 긴 모멘텀에만 의존하다보면, 원칙에 의해 이런 바닥과 꼭지에 가까운 신호에는 반응하지 않게 됩니다. 예를 들어, 12개월 모멘텀에 의존한다고 가정합시다. 1년 내내 지속적으로 하락하다가 이번 달에 조금 급등했다면, 매수 신호는 12개월 전 가격보다 높아야 진입이 가능하므로, 아무리 이번 달이 저점 같아도 훨씬 더 가격이 많이 오를 때까지 기다려야 매수 신호가 잡히게 됩니다. 하락으로 전환되는 경우도 마찬가지고요.</p>
+<p>하지만, 1~3개월 같은 짧은 모멘텀 값을 쓴다면, 이런 상황에서 변곡점에서 최대한 가까운 지점에서 민감하게 진입할 수 있습니다. 반면에, 이런 짦은 기간값들은 커다란 추세에서 너무 일찍 빠져나오는 실수를 범하는 단점을 가지고 있지요.</p>
+<p>따라서, <strong>긴 모멘텀 값 하나에 분산하는 것보다 짧은 모멘텀, 중간 모멘텀, 긴 모멘텀 모두에 분산시키면, 장기적인 추세, 중기적인 추세, 단기적인 추세의 변곡점 모두 부분적으로 대응할 수 있기 때문에, 논리적으로나 백테스트로나 훨씬 로버스트하고 안정적인 결과를 보여주는 것입니다.</strong></p>
+<p>이런 관점에서 저는 백테스트 상에서 가장 우수한 성과가 나와서 특정 단일 모멘텀 전략을 쓰는 것 대신, <strong>과최적화의 위험이 없고, 어떤 시장 상황에도 두루 대처할 수 있는 평균 모멘텀 스코어 전략을 절대 모멘텀 전략으로 쓰는 것이 가장 로버스트하고 합리적인 방법으로 생각하고 있으며, 많은 분들께 이 방법을 추천하고 있습니다.</strong></p>
+<h2 id="결론-및-요약-9">결론 및 요약</h2>
+<ul>
+<li><strong>절대 모멘텀 전략은 자산이 상승 추세일 때만 투자하고 하락 구간에서는 투자를 중단하는 전략으로 지속적인 하락에 의한 손실을 차단하는 강력한 장점이 있다.</strong></li>
+<li><strong>절대 모멘텀 전략은 추세 추종 전략으로 다양한 자산군에서 바이 앤 홀드 전략 대비 리스크 대비 수익률을 높이는데 탁월하다.</strong></li>
+<li><strong>모멘텀 기간값을 특정한 단일한 값에 의존하는 일반적인 절대 모멘텀 대신, 12개월 평균 모멘텀 전략을 이용하면 과최적화에 영향받지 않는 로버스트한 절대 모멘텀 효과를 취할 수 있다.</strong></li>
+</ul>
+<h1 id="자산-배분-투자의-핵심-원리---추세-추종-4">자산 배분 투자의 핵심 원리 - 추세 추종 (4)</h1>
+<p>지난 시간에는 자산 배분 투자의 5번째 핵심 원리, 추세 추종에서 절대 모멘텀 전략과 평균 모멘텀 스코어 전략에 대해 살펴보았습니다. 이번 시간에는 상대 모멘텀과 절대 모멘텀을 결합한 듀얼 모멘텀이라는 개념에 대해 알아보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="듀얼-모멘텀">듀얼 모멘텀</h2>
+<p>지금까지 공부한 내용을 잘 숙지하셨다면, 아마 눈치가 빠르신 분은 이렇게 생각하실 겁니다.</p>
+<blockquote>
+<p>상대 모멘텀과 절대 모멘텀을 결합해서 투자하면 어떨까?</p>
+</blockquote>
+<blockquote>
+<p>여러 자산군에서 상대 모멘텀 기준으로 랭킹을 매겨서 상위 몇 종목을 골라 투자하되, 선택된 자산의 모멘텀이 하락 추세이면 그 자산은 현금으로 대치하면 가장 이상적이지 않을까?</p>
+</blockquote>
+<p>맞습니다. 이런 전략을 듀얼 모멘텀 전략이라고 합니다. 즉, <strong>듀얼 모멘텀 전략은 여러 종목 중 최근 n개월 모멘텀이 가장 높은 몇 개의 종목에 선별적으로 투자하되, 선택된 종목 중 절대 모멘텀이 0보다 작아 하락 추세에 있으면 이 종목은 현금으로 대치하여 보유하는 전략</strong>입니다.</p>
+<p>즉, <strong>듀얼 모멘텀 전략으로 투자하면, 가장 상승 탄력이 좋은 종목에 투자하여 큰 수익을 추구하는 상대 모멘텀의 장점을 누리면서도, 절대적으로 하락 추세에 있는 종목은 현금으로 대치하여 하락장에서의 손실을 크게 줄여주는 절대 모멘텀의 장점까지 취하기 때문에 일석이조의 효과</strong>를 기대할 수 있습니다.</p>
+<h2 id="듀얼-모멘텀의-이론적-배경">듀얼 모멘텀의 이론적 배경</h2>
+<p>듀얼 모멘텀 전략은 절대 모멘텀 전략을 처음 소개한 Gary Antonacci가 2012년, <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2881657_code1556771.pdf?abstractid=2042750&amp;mirid=1">Risk Premia Harvesting Through Dual Momentum</a> 논문에서 공개한 전략입니다.</p>
+<p>상대 모멘텀 전략은 상대적으로 강한 종목의 비중을 늘림으로써 강력한 수익을 추구하는 전략이라면, 절대 모멘텀 전략은 가격이 절대적으로 하락하는 구간에 진입하면 투자를 중단함으로써, 지속적인 하락장에서의 큰 손실을 타이트하게 줄여주는 전략임을 확인하였습니다. 즉, <strong>상대 모멘텀 전략이 공격적인 전략이라면 절대 모멘텀 전략은 방어적인 전략</strong>이라고 할 수 있겠습니다.</p>
+<p>듀얼 모멘텀 전략은, 로직은 단순하지만 상대 모멘텀 전략과 절대 모멘텀 전략을 모두 취함으로써, 공격적인 수익 추구와 타이트한 손실 관리를 모두 기대할 수 있는 매우 훌륭한 전략입니다.</p>
+<p>듀얼 모멘텀은 나중에 자세히 살펴볼 동적 자산 배분 전략의 가장 중요한 베이스가 되는 전략으로, <strong>사실상 현재 공개된 거의 대부분의 동적 자산 배분 전략이 이 듀얼 모멘텀에 기반을 두고 있다고 해도 과언이 아닙니다.</strong> 세부적인 매매 규칙은 조금씩 다르지만 기본적인 베이스는 듀얼 모멘텀의 원리라는 점에서 대단히 중요하다고 할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/dYsdJk7.png" alt=""></p>
+<p><img src="https://i.imgur.com/YMqvuYn.png" alt=""></p>
+<p>안토나치는 위의 논문에서 다양한 자산군을 대상으로 듀얼 모멘텀 전략을 시뮬레이션하여 결과를 공개했는데, 테스트한 모든 자산군에서 매우 뚜렷하고 일관된 특성이 나타났습니다. 즉, 듀얼 모멘텀에 기반을 둔 추세 추종 방식이 단순히 동일 비중으로 분산투자한 것보다 최대 손실폭도 현저히 낮으면서도 수익 또한 높았다는 점입니다.</p>
+<p>안토나치가 논문에서 제시한 듀얼 모멘텀 전략은 다음과 같습니다.</p>
+<ul>
+<li>시뮬레이션 기간 : 1974 ~ 2011 년</li>
+<li>듀얼 모멘텀 로직
+<ul>
+<li>매월 말, 동일 자산군에 속한 개별 자산들의 12개월 모멘텀을 산출</li>
+<li>상대 모멘텀이 큰 1개의 자산을 선택
+<ul>
+<li>선택된 자산의 절대 모멘텀 &gt; 0 : 해당 자산에 투자</li>
+<li>선택된 자산의 절대 모멘텀 &lt; 0 : 현금 보유</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>아주 단순한 전략입니다. <strong>특정 자산군에 속하는 두 자산의 12개월 상승률을 비교하여, 상승률이 강한 종목을 선택하되, 상승 추세이면 해당 종목에 투자하고 하락 추세인 경우에는 현금으로 대치</strong>하는 방식입니다.</p>
+<p>이 방식으로 시뮬레이션한 각 자산군의 듀얼 모멘텀 전략의 결과를 확인해보겠습니다.</p>
+<h3 id="주식-듀얼-모멘텀-미국-주식-vs-유럽-선진국-주식">주식 듀얼 모멘텀 (미국 주식 vs 유럽 선진국 주식)</h3>
+<p><strong>MSCI US는 미국 주식 시장, MSCI EAFE+는 북미를 제외한 유럽, 호주, 아시아의 선진국 주식 시장을 반영하는 지수</strong>입니다.</p>
+<p>즉, 전 세계의 주식 시장을 전 세계 기업과 산업의 중심인 미국과 이를 제외한 선진국의 주식 시장으로 양분하여 투자 로직을 구성하였습니다. 듀얼 모멘텀의 성과가 가장 우수한 것을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/XAJremM.png" alt=""><br>
+<img src="https://i.imgur.com/0kTraXC.png" alt=""></p>
+<h3 id="회사채-듀얼-모멘텀-우량-회사채-vs-하이일드채권">회사채 듀얼 모멘텀 (우량 회사채 vs 하이일드채권)</h3>
+<p>회사채 자산군을 신용등급이 A인 우량 회사채와 신용등급이 B등급인 하이일드 채권으로 구분하여 투자하는 방식입니다. 듀얼 모멘텀의 성과가 가장 우수한 것을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/vKaGrfm.png" alt=""><br>
+<img src="https://i.imgur.com/z9EjErX.png" alt=""></p>
+<h3 id="부동산-듀얼-모멘텀-지분형-리츠-vs-모기지-리츠">부동산 듀얼 모멘텀 (지분형 리츠 vs 모기지 리츠)</h3>
+<p>부동산에 투자하는 방법으로 부동산투자신탁(Real Estate Investment Trusts : REITs)이라는 상품이 있습니다. <strong>리츠는 부동산 투자를 전문으로 하는 뮤추얼펀드로서, 다수의 투자자들로부터 자금을 위탁받아 부동산이나 부동산 관련 대출에 투자하고 그 부동산으로부터 발생하는 수익을 투자자들에게 배당하는 회사 또는 투자 신탁을 의미</strong>합니다.</p>
+<p>리츠는 크게 부동산의 소유권이나 지분에 투자하는 지분형 리츠(Equity REITs)와, 부동산 담보대출에 투자하는 모기지 리츠(Mortgage REITs )로 구분할 수 있는데, 여기서는 지분형 리츠와 모기지 리츠로 구분하여 투자 시뮬레이션을 진행하였습니다.</p>
+<p>듀얼 모멘텀의 성과가 가장 우수한 것을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/A373med.png" alt=""><br>
+<img src="https://i.imgur.com/rN7Wnab.png" alt=""></p>
+<h3 id="안전-자산-듀얼-모멘텀-금-vs-장기-미국채">안전 자산 듀얼 모멘텀 (금 vs 장기 미국채)</h3>
+<p>주식 시장이 하락하는 경제 위기 구간에서는 일반적으로 주식과 상관성이 낮고, 안전 자산이라고 여겨지는 금이나 장기 국고채 같은 자산군이 상승하는 경우가 많습니다. 여기서는 경제 위기 상황을 가정하여 금과 장기 국고채(미국채)를 대상으로 시뮬레이션 하였습니다.</p>
+<p>듀얼 모멘텀의 성과가 가장 우수한 것을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/xoWGIQE.png" alt=""><br>
+<img src="https://i.imgur.com/xoWGIQE.png" alt=""></p>
+<h3 id="모멘텀-기간값에-따른-성과-차이-3-6-9-12개월-모멘텀">모멘텀 기간값에 따른 성과 차이 (3, 6, 9, 12개월 모멘텀)</h3>
+<p>모멘텀 산출 기간값이 12개월이 아닌, 3, 6, 9 개월로 했을 때의 성과 차이는 다음과 같습니다.</p>
+<p><img src="https://i.imgur.com/XPyEvZq.png" alt=""></p>
+<p><strong>모멘텀 기간값이 3, 6, 9 개월일 때도 플러스 수익이 난 것을 알 수 있습니다. 물론, 모멘텀 기간값이 12개월일 때의 수익이 가장 높았지만, 여기서 주의해야 하는 것은 과거 데이터상 12개월로 테스트를 했을 때 가장 성과가 좋았다고 미래에도 그렇게 되리라는 보장은 전혀 없다</strong>는 것입니다.</p>
+<p>백테스트상 12개월 기간값이 가장 좋게 나온 이유는 <strong>시뮬레이션 한 구간에서 가격의 움직임이 장기적으로 우상향하며 추세적인 움직임을 보여주는 구간이 많았기 때문</strong>입니다.</p>
+<p>만일 <strong>미래의 가격 움직임이 장기적인 추세성이 아닌 단기적인 추세를 보이는 움직임이 많아질 경우, 12개월처럼 긴 값은 짧은 기간값보다 나쁜 결과</strong>를 가져오게 됩니다.</p>
+<p>따라서, 모멘텀 기간값을 다르게 시뮬레이션 한 결과에서 우리가 명심해야 하는 내용은, <strong>12개월 모멘텀이 가장 좋더라가 아닌, 3, 6, 9 개월 같은 12개월 내의 단기, 중기 기간값 모두 수익을 잘 내준다는 일반적인 사실</strong>입니다.</p>
+<p>이런 관점에서 특정한 한 가지 기간값에 의존하는 것보다 여러 모멘텀 값에 분산하는 것이 더 로버스트하다는 아이디어를 얻어가는 것이 중요합니다.</p>
+<h3 id="종합-듀얼-모멘텀-composite-dual-momentum">종합 듀얼 모멘텀 (Composite dual momentum)</h3>
+<p>방금 살펴본 주식, 회사채, 부동산, 안전자산의 4가지 자산군은 성격이 다른 독립적인 자산군입니다. <strong>성격이 다른 독립적인 자산군이라 함은 서로 상관성이 낮은 자산군이라는 의미</strong>입니다. 우리는 본 강의를 통해 상관성이 서로 낮으면서 장기적으로 우상향하는 자산군에 분산투자하는 것이 포트폴리오 투자 전략의 핵심임을 알고 있죠?</p>
+<p>이런 관점에서, **주식 듀얼 모멘텀, 회사채 듀얼 모멘텀, 부동산 듀얼 모멘텀, 안전자산 듀얼 모멘텀 전략을 하나의 자산군으로 간주하고, 4가지 전략에 동일하게 분산투자하는 전략을 생각해 볼 수 있는데, 이것이 바로 종합 듀얼 모멘텀 전략 (Composite dual momentum)**입니다.</p>
+<p>앞서 소개한 4가지 자산군의 12개월 듀얼 모멘텀 전략에 분산투자한 전략의 결과는 다음과 같습니다. 종합 듀얼 모멘텀 전략이 그 어떤 개별 자산의 투자 성과보다 뛰어난 것을 확인할 수 있습니다.</p>
+<p><img src="https://i.imgur.com/HBC7SxM.png" alt=""><br>
+<img src="https://i.imgur.com/ZR8tnBw.png" alt=""><br>
+<img src="https://i.imgur.com/Ids39dZ.png" alt=""></p>
+<p><strong>종합 듀얼 모멘텀 전략의 성과가 이렇게 우수한 이유는 지금까지 살펴본 자산 배분 투자의 핵심 원리가 모두 집약되어 있기 때문</strong>입니다. 즉, 자산군 내 상대 모멘텀, 자산군 내 절대 모멘텀, 자산군 간 분산 투자라는 3가지 장치가 모두 결합되어 있기 때문에 성과가 안정적으로 날 수밖에 없는 것이지요.</p>
+<p>단순히 백테스팅에서 성과가 좋았기 때문에 전략이 우수한 것이 아니라, 자산 배분 투자의 절대적인 핵심 원리를 모두 충실하게 장착하고 있기 때문에 이렇게 탄탄한 성과가 가능합니다.</p>
+<h2 id="결론-및-요약-10">결론 및 요약</h2>
+<ul>
+<li>듀얼 모멘텀 전략은 상대 모멘텀과 절대 모멘텀을 결합한 추세 추종 전략이다.</li>
+<li>듀얼 모멘텀 전략을 통해 강력한 수익과 타이트한 손실 제한 2가지 효과를 모두 기대할 수 있다.</li>
+<li>듀얼 모멘텀 전략은 다양한 자산군에서 모두 효과적으로 작동하여 단순 분산 투자하는 것에 비해 투자 성과를 향상시킨다.</li>
+</ul>
+<h1 id="자산-배분-투자의-핵심-원리---변동성-조절">자산 배분 투자의 핵심 원리 - 변동성 조절</h1>
+<p>지금까지 고생 정말 많으셨습니다. 지금까지 배운 내용 정도가 사실상 자산 배분 투자의 95% 이상을 차지한다고 볼 수 있고, 이 내용만으로도 현존하는 최고의 자산 배분 전략을 모두 구사할 수 있습니다.</p>
+<p>하지만, 지금부터 살펴볼 변동성 조절이라는 원리까지 이해하신다면, 한층 더 정교하고 깊이 있는 자산 배분 전략을 만들 수 있고, 자산 배분 전략에 대해 훨씬 더 깊게 이해할 수 있습니다.</p>
+<p>그러면 지금부터 자산 배분 투자의 마지막 핵심 원리, 변동성 조절에 대해 알아보겠습니다.</p>
+<ol>
+<li>종목 분산</li>
+<li>자산군 분산 (서로 다른 자산과의 혼합)</li>
+<li>장기적 우상향 자산에 투자</li>
+<li>리밸런싱 효과</li>
+<li>추세 추종 (장세에 따른 주식 비중의 조절)</li>
+<li>변동성 조절</li>
+</ol>
+<h2 id="자산-배분의-문제점---서로-다른-변동성">자산 배분의 문제점 - 서로 다른 변동성</h2>
+<p>자산 배분과 분산 투자의 원리에서 상관성이 낮은 자산군인 주식과 채권에 절반씩 투자하여 정기적으로 리밸런싱하면 시장의 리스크를 효과적으로 헤징하면서도 주식과 채권의 평균적인 수익은 안정적으로 취할 수 있음을 확인한 바 있습니다.</p>
+<p>그런데, 여기 한가지 문제점이 있는데요, 그것은 주식과 채권의 평균적인 등락폭이 서로 다를 뿐만 아니라 평균적인 등락폭도 시시각각 변하는데 이를 반영하지 못한다는 점입니다.</p>
+<p>예를 들면, 주식이 5% 떨어질 때, 채권이 이 손실을 충분히 만회하려면 적어도 5% 정도 올라주어야 하겠지요? 그런데 평균적으로 주식이 5% 움직일 때 채권이 1% 정도 밖에 올라주지 않는다면, 주식과 채권을 1:1로 섞으면 충분히 손실을 방어할 수가 없을 것입니다. 손실을 제대로 방어하기 위해서는 주식 : 채권 = 1:5로 섞어줘야 가능합니다.</p>
+<p>그렇기 때문에 주식의 변동성을 충분히 상쇄시키려면 <strong>변동폭이 큰 장기 채권(10년 만기나 20년 만기 채권)을 주식과 혼합해야 합니다.</strong></p>
+<p>하지만, 이렇게 변동폭이 큰 장기 채권을 섞어줘도 문제가 완전히 해결되는 것은 아닙니다. 왜냐하면, 주식과 채권의 평균적인 변동폭은 비슷하더라도 순간적인 변동성은 실시간으로 변하기 때문이지요.</p>
+<h2 id="변동성-역가중-전략">변동성 역가중 전략</h2>
+<p>그렇기 때문에 좀 더 효과적으로 주식의 변동성을 방어하기 위해서는 주식과 채권의 변동성의 정도를 최근에 맞추어서 조절해야 효과적으로 포트폴리오의 손실을 줄일 수가 있습니다.</p>
+<p>예를 들어, 최근 주식과 채권의 변동성의 정도가 5:1이었다면, 효과적으로 위험을 줄이기 위해서는 1:1로 섞을 것이 아니라, 1:5로 투자해야겠죠? 그러다가 다음달에는 변동성이 3:1 정도로 변했다면, 투자 비율은 다시 1:3으로 재조정해야 할 것입니다.</p>
+<p>이러한 전략을 <strong>변동성 역가중 전략</strong>이라고 합니다. 변동성 역가중 전략의 기본 개념은, 서로 반대 방향으로 움직이는 자산을 분산투자할 때 단순하게 1:1로 동일 비중으로 분산하지 않고, <strong>서로 다른 변동성을 고려하여 두 자산의 변동폭이 동일하도록 배분 비율을 조절해주는 전략</strong>입니다.</p>
+<p>변동성(등락폭)이 큰 종목은 투자 비중을 줄이고, 등락폭이 작은 종목은 투자 비중을 늘리거나 레버리지를 쓰는 방법으로 이것을 달성할 수 있습니다. 이를 위해서는, 각 자산의 변동성을 구한 후, 그 변동성에 반비례하는 방식(변동성의 역수에 비례)으로 비중을 조절하는 것이지요.</p>
+<p>이렇게 주식과 채권의 변동성에 따라 투자 비율을 시시각각 조절해주면 움직임이 반대인 종목들의 변동폭이 동일한 수준으로 맞춰지기 때문에 그냥 1:1로 고정한 것보다 훨씬 더 효과적으로 손실을 줄일 수 있게 됩니다.</p>
+<h2 id="변동성을-구하는-방법">변동성을 구하는 방법</h2>
+<p>그렇다면 이런 종목의 변동성은 어떻게 계산할 수 있을까요? 여러 가지 방법이 있지만 가장 쉽고 널리 쓰이는 방법은 해당 종목의 월간 수익률(1개월 종가대비 이번 달 종가 상승률) 값의 n개월(12개월) 표준 편차로 계산하는 방법입니다. 이것이 그 종목의 변동성이고, 투자 비중은 이 값의 역수로 계산하면 됩니다. 순서대로 정리하면 다음과 같습니다.</p>
+<ol>
+<li>월간 수익률 (%) = (가격 / 1개월 전 가격 - 1) X 100</li>
+<li>주식과 채권의 최근 12개월 월간 수익률 계산</li>
+<li>월간 수익률의 최근 12개월 표준 편차를 계산 = 변동성</li>
+<li>매월 말 새로 갱신한 각 자산군의 변동성의 역수에 비례하여 투자</li>
+</ol>
+<h2 id="변동성-역가중-전략의-성과">변동성 역가중 전략의 성과</h2>
+<p>그렇다면 미국 시장과 국내 시장에 주식과 장기 채권을 대상으로 한 변동성 역가중 포트폴리오를 구성해보면 성과가 어떨까요? 결과는 다음과 같습니다.<br>
+<img src="https://i.imgur.com/jnFo7SL.png" alt=""><br>
+<img src="https://i.imgur.com/64JZbFL.png" alt=""></p>
+<p><img src="https://i.imgur.com/Kdqvgwg.png" alt=""><br>
+<img src="https://i.imgur.com/XiEslGb.png" alt=""></p>
+<p>수익 곡선만 대충 봐도 미국과 우리나라 모두 변동성 역가중 전략의 퍼포먼스가 동일비중보다 수익성과 안정성 모두 우월함을 확인할 수 있습니다 (높은 CAGR과 낮은 MDD). 참고로 미국과 우리나라의 동일비중 및 변동성 역가중 전략의 성과는 다음과 같습니다.</p>
+<p>특별히 주식이 반토막 나는 상황에서 이 변동성 역가중 전략의 손실은 채 -20%도 안되는 것을 확인할 수 있습니다. 시장이 저렇게 폭락하는 상황에서도 이 전략의 수익 곡선은 상당히 선방하며 안정되게 우상향하는 것을 확인할 수 있지요?</p>
+<h2 id="변동성-역가중-전략의-장점과-한계점">변동성 역가중 전략의 장점과 한계점</h2>
+<p>이런 결과가 나타나는 이유는 수익 극대화에 초점을 맞춘 것이 아니라 손실 최소화에 초점을 맞추었기 때문입니다. <strong>상관성이 낮아 움직임이 서로 반대인 자산의 변동폭을 비슷하게 맞췄기 때문에 큰 폭의 손실이 발생하는 것을 구조적으로 방지하기 때문에 안정성이 높아졌습니다.</strong></p>
+<p>기본적으로 이런 변동성 역가중 전략은 자산 간의 상관성이 낮아 서로 움직임이 반대인 자산쌍에서 효과적으로 작동합니다. 그렇기 때문에 주식과 채권이 가장 이상적인 투자 조합이지요.</p>
+<p>하지만, 주식과 채권이 항상 반대로 움직이는 것은 아닙니다. <strong>경우에 따라서는 일시적으로 주식과 채권이 같은 방향으로 움직일 때도 흔히 있습니다.</strong> 이를 테면, 금리를 올려버리면 채권과 주식이 같이 하락해버리는 경우도 있고, 여러가지 경제 변수에 따라 주식과 채권의 상관성이나 변동성이 커지기도 합니다.</p>
+<p>2022년이 대표적인 예입니다. 미국에서 인플레이션을 잡기 위해 FRB에서 지속적으로 금리인상을 단행함에 따라, 주식 뿐만 아니라 채권도 지속적으로 함께 하락하는 구간이 발생했습니다.</p>
+<p>따라서, 이렇게 <strong>자산군간의 상관성이 급증하면서 모두 하락하는 경우에는 변동성 역가중 전략 역시 손실을 피할 수는 없습니다.</strong></p>
+<p>주식과 채권의 움직임이 반대, 즉 상관성이 낮다는 것은, 어디까지나 장기적이고 평균적인 관점에서 이해해야 합니다. 특정 기간에는 얼마든지 상관성이 증가해서 같은 방향으로 움직일 수 있다는 사실을 명심해야 합니다.</p>
+<p>따라서, 이러한 전략을 이용하다가 일시적으로 주식과 채권이 한 방향으로 움직이는 구간이 나온다고 해서 뭔가가 굉장히 잘못된 것 아니냐고 오해하지말아야 합니다.</p>
+<p>하지만, 일시적으로 그런 구간도 있지만, <strong>일반적이고 평균적인 관점에서는 약한 음의 상관성을 보이기 때문에 장기간 이 전략을 유지할 수 있는 충분한 근거</strong>가 되는 것입니다.</p>
+<p>이처럼, 변동성 역가중 전략은 기본적으로 변동성이 서로 다른 자산들에 분산투자할 때 자산군의 수익률이 변동성이 큰 특정 자산에 쏠리는 것을 방지하고 개별 자산들에 균등하게 리스크를 나눠주는 역할을 담당하고, 시장의 리스크를 헤징하는데는 자산군 간의 상관성이 낮을수록 효과적으로 작동한다고 알아두시면 되겠습니다.</p>
+<p>지금까지 기본적인 자산 배분 전략의 핵심 원리를 살펴보았습니다. 다음 파트에서는 지금까지 배운 이론을 바탕으로 다양한 자산 배분 전략을 만들어보겠습니다.</p>
+<h2 id="결론-및-요약-11">결론 및 요약</h2>
+<ul>
+<li><strong>변동성 역가중 전략은 분산투자하는 자산군의 변동성을 동일한 수준으로 맞추어 배분하는 전략이다.</strong></li>
+<li><strong>변동성 역가중 전략은 자산군의 상관성이 낮게 유지되는 조건에서는 포트폴리오의 손실을 매우 안정적으로 줄여준다.</strong></li>
+<li><strong>하지만, 자산군의 상관성이 높아지면서 모두 하락하는 경우에는 손실을 피할 수 없다.</strong></li>
+</ul>
+<h1 id="자산-배분-전략의-종류">자산 배분 전략의 종류</h1>
+<p>지금까지 우리는 자산 배분 투자의 핵심 원리를 모두 살펴보았습니다. 이제부터는 이 원리를 응용한 실전 자산 배분 투자 전략에 대해 본격적으로 살펴보겠습니다.</p>
+<p>자산 배분 전략은 유니버스를 어떻게 구성하느냐, 자산배분의 비중과 리밸런싱 알고리즘을 어떻게 적용하느냐에 따라 얼마든지 다양하게 만들 수 있습니다.</p>
+<p><strong>현재까지 널리 알려진 자산 배분 전략만 하더라도 족히 30개는 넘고, 여러분들도 얼마든지 지금까지 살펴본 자산 배분 투자의 핵심 원리를 이용해서 다양한 전략을 만들 수 있습니다.</strong></p>
+<p>하지만, 자산 배분 전략은 이렇게 다양함에도 불구하고, 모든 자산 배분 전략은 근본적으로 자산 배분 비율이 고정되었느냐, 가변적이느냐에 따라 크게 두 가지 즉, <strong>정적 자산 배분 전략과 동적 자산 배분 전략으로 구분할 수 있습니다.</strong></p>
+<p>정적 자산 배분 전략은 자산군 간의 비율이 고정된 전략이고, 동적 자산 배분 전략은 자산군 간의 비중이 매 리밸런싱 주기(보통 매월)마다 지속적으로 변하는 전략입니다.</p>
+<p>이 두 가지 자산 배분 전략의 특징과 장단점은 매우 상반되기 때문에 각론에 들어가기에 앞서, 정적 자산 배분과 동적 자산 배분의 기본적인 특징과 차이점, 장단점부터 확인해 보겠습니다.</p>
+<h2 id="정적-자산-배분-전략">정적 자산 배분 전략</h2>
+<p>정적 자산 배분 전략은 자산간의 투자 비중이 고정되어 있는 전략입니다. 예를 들자면, 주식 : 채권 = 1 : 1 , 주식 : 채권 : 현금 : 금 = 1 : 1 : 1 : 1 과 같이 일정한 비율을 유지하여 투자하는 방식입니다.</p>
+<p><strong>가장 널리 이용되는 정적 자산 배분 전략은 모든 자산의 비중을 동일하게 배분하는, 동일 비중 포트폴리오입니다.</strong> 이상적으로는 자산군간의 변동성을 일일이 비슷하게 비중으로 맞춰야 하지만, 번거롭고 귀찮기 때문에, 모든 포트폴리오 내의 자산을 1/n 로 균등하게 나누어 투자하는 방법입니다.</p>
+<p>변동성 역가중 방식에 비해 수익 곡선은 약간 거칠기는 하지만, 전체적인 성과는 크게 차이가 없고, 무엇보다 복잡한 계산이 필요 없이 단순하다는 것이 가장 큰 장점입니다.</p>
+<p>정적 자산 배분 전략에서 투자 자산을 어떻게 선정하고 비중을 어떻게 결정해야 하는지에 대해서는 절대적인 정답은 없고, 개인의 투자 성향이 관계되기도 하지만, 기본적으로는 <strong>자산군간의 상관성과 변동성의 지표를 이용하여 결정합니다.</strong></p>
+<p>즉, 이전에 상세히 살펴본 바와 같이 투자 자산들은 서로 간에 상관성이 낮은 조합으로 구성하고, 이 개별 자산들 간의 비중은, 자산의 평균적인 변동성을 고려하여 정하는 것입니다.</p>
+<p>예를 들면, 주식과 채권에 분산투자하는 포트폴리오를 생각해봅시다. 주식과 장기 채권은 상관성이 낮은 이상적인 조합이라고 할 수 있습니다. 그런데, 주식과 채권의 변동성이 2 : 1 이라면 어떻게 해야 할까요? 주식이 10% 떨어질 때 채권은 5% 정도 밖에 오르지 못하기 때문에, 리스크를 이상적으로 제어할 수 없겠지요?</p>
+<p>따라서, 이런 경우는 주식 : 채권 = 1 : 1 이 아닌 1 : 2 와 같은 비중으로 구성함으로써 리스크를 제어할 수 있습니다. 또는, 채권의 변동성이 주식의 변동성과 맞먹는 수준의 만기가 긴 채권을 넣음으로써 해결할 수도 있습니다.</p>
+<p>일반적인 정적 자산 배분 전략의 대원칙은 이렇게 상관성이 낮은 자산군 간의 평균적인 변동폭을 비슷하게 맞춰주는 방식이지만, 개인적인 투자 성향에 따라 리스크를 좀 더 감내하더라도 공격적인 자산인 주식의 비중을 높여 구성하는 방식도 있습니다. 이것은 개인의 성향에 따른 선택의 문제로 보시면 되겠습니다.</p>
+<h2 id="정적-자산-배분-전략의-장점">정적 자산 배분 전략의 장점</h2>
+<p>정적 자산 배분 전략의 장점은 다음과 같습니다.</p>
+<ol>
+<li>복잡한 계산이 필요 없이 단순하여 누구나 쉽게 할 수 있다.</li>
+<li>특정 기술적 지표의 수치에 따라 비중을 최적화하는 방식이 아니기 때문에 과최적화의 위험이 없다.</li>
+<li>횡보장에서 지속적인 리밸런싱 효과에 의해 수익이 누적된다.</li>
+<li>리밸런싱을 자주 하지 않아도 된다 (<strong>정적 자산 배분 전략은 매월 리밸런싱이 불필요하고, 분기나, 반기, 연단위, 혹은 포트폴리오의 비중이 크게 변경되었을 때만 해도 충분합니다.</strong> )</li>
+<li>리밸런싱 횟수가 줄기 때문에, 거래 비용도 절감할 수 있다.</li>
+</ol>
+<h2 id="정적-자산-배분-전략의-단점">정적 자산 배분 전략의 단점</h2>
+<p>하지만, 단점도 있습니다. 정적 자산 배분 전략의 단점은 다음과 같습니다.</p>
+<ol>
+<li>과최적화의 위험이 없다는 것은 장점인 동시에 단점으로 작용한다. <strong>현재 시점의 시장에서 가장 적절한 매매 비중이 어떤 것인지 판단을 아예 하지 않기 때문에, 추가적인 수익을 노릴 수 없다.</strong></li>
+<li><strong>지속적으로 상승, 혹은 하락하는 추세장에 상대적으로 불리하다.</strong></li>
+<li><strong>자산 간의 상관성이 깨지면서 다함께 하락하는 추세적인 하락장에서 큰 손실을 본다.</strong></li>
+</ol>
+<p>정적 자산 배분 전략은 단순하고 로버스트 하기 때문에 많은 사람들이 기본적인 자산 배분 전략으로 많이 이용합니다. 하지만, <strong>정적 자산 배분 전략의 가장 큰 단점은 폭락 구간에서 분산 투자 효과를 보지 못하고 큰 폭의 손실을 볼 수 있다는 점입니다.</strong></p>
+<p>일반적으로, 주식과 채권 같이 상관성이 낮은 자산군으로 구성하면, 하나의 자산이 하락하면 다른 자산군이 손실을 커버하여 리스크를 줄여주지만, <strong>일부 금융 위기 구간에서는 자산 간의 상관성이 급증하여 다 함께 하락하는 경우도 심심치 않게 발생합니다.</strong></p>
+<p>이럴 경우, 아무리 분산을 해도 모두 급락을 하기 때문에 분산효과도 없이 속수무책으로 큰 폭의 손실을 볼 수밖에 없는 것이지요. 바로 이게 정적 자산 배분 전략의 가장 큰 단점이라고 할 수 있습니다.</p>
+<h2 id="동적-자산-배분-전략">동적 자산 배분 전략</h2>
+<p>동적 자산 배분 전략은 정적 자산 배분 전략과 달리 종목 간의 투자 비중을 고정 비율로 유지하지 않고, 지속적으로 조절하는 전략입니다. 일반적으로 동적 자산 배분 전략의 비중을 조절하는 주기는 월단위입니다.</p>
+<p>보통 매월 마지막 거래일을 기준으로 리밸런싱하는 것이 성과면에서 가장 우수하고 적절한 것으로 알려져 있기 때문에[12], 특별한 언급이 없다면 동적 자산 배분 전략은 매월 말 리밸런싱이 발생한다고 생각하시면 되겠습니다.</p>
+<p><strong>동적 자산 배분 전략의 비중을 결정하는 알고리즘은 다양하지만, 가장 대표적인 것은 모멘텀이나 이동 평균선 같은 단순한 추세 추종 기반의 기술적 지표를 이용하는 방법입니다.</strong></p>
+<p><strong>사실상 거의 모든 동적 자산 배분 전략이 모멘텀 기반의 추세 추종 전략에 기반을 두고 있기 때문에, 일반적으로 동적 자산 배분 전략이라고 하면 모멘텀 전략이라고 보아도 무방합니다.</strong></p>
+<p>예를 들어, 6개월 모멘텀이 플러스거나 월말에 6개월 이동평균선 위에 있다면 해당 종목에 투자하고, 그렇지 않으면 그 종목 대신 현금을 보유하는 방식입니다. 100% or 0% 가 아니라 평균적인 모멘텀의 강도에 비례하여 투자하는 평균모멘텀스코어 방식도 대표적인 동적 자산 배분 전략입니다.</p>
+<p><strong>사실상 대부분의 동적 자산 배분 전략은 상대 모멘텀과 절대 모멘텀을 결합시킨 듀얼 모멘텀에 기반을 두고 있다고 해도 과언이 아니기 때문에, 동적 자산 배분 전략은 듀얼 모멘텀 기반의 전략으로 이해하시면 되겠습니다.</strong></p>
+<h2 id="동적-자산-배분-전략의-장점">동적 자산 배분 전략의 장점</h2>
+<p>동적 자산 배분 전략의 장점은 다음과 같습니다.</p>
+<ol>
+<li><strong>자산의 추세에 따라 비중을 조절하기 때문에, 자산의 가격이 상승하는 구간에서 비중을 높이고, 하락하는 구간에서 비중을 줄이기 때문에 리스크 대비 수익률이 탁월하다.</strong></li>
+<li><strong>장기적인 하락장에서 추세 추종 원리에 의해 손실을 제한하기 때문에 포트폴리오 전체의 최대 손실폭 (MDD)이 낮다.</strong></li>
+<li>정적 자산 배분 전략에 비해 수익 곡선이 훨씬 부드럽고 안정적이다.</li>
+</ol>
+<h2 id="동적-자산-배분-전략의-단점">동적 자산 배분 전략의 단점</h2>
+<p>하지만, 단점도 있습니다. 동적 자산 배분 전략의 단점은 다음과 같습니다.</p>
+<ol>
+<li><strong>추세 추종 전략이기 때문에, 지속적인 추세장(상승 혹은 하락)에서는 유리하지만, 횡보하는 시장에는 오히려 불리하다.</strong></li>
+<li><strong>추세 추종 기준을 설정하기 위해 과거 데이터로 백테스트를 하게 되는데 기간값을 결정하는 과정에서 과최적화 위험이 발생할 수 있다.</strong></li>
+<li>매월 리밸런싱을 해야 하기 때문에 회전율이 높아져 세금과 거래비용이 정적 자산 배분 전략보다 높다.<br>
+4.매월 비중을 계산하여 리밸런싱하는 과정이 귀찮다.</li>
+</ol>
+<h2 id="어떤-전략을-선택할-것인가">어떤 전략을 선택할 것인가?</h2>
+<p>결과적으로 투자 전략의 수익성과 안정성만 놓고 본다면 <strong>동적 자산 배분 전략이 정적 자산 배분 전략보다 모든 면에서 우월합니다. 수익은 비슷하거나 오히려 높지만, 손실은 훨씬 낮기 때문입니다.</strong> 일반적인 관점에서 비교하면, <strong>동적 자산 배분 전략의 최대 손실폭은 -10 ~ -20% 내외로, 정적 자산 배분 전략의 최대 손실폭의 절반 정도 수준입니다.</strong></p>
+<p>하지만, 실제로 투자하고 리밸런싱하는 과정이 번거롭고, 자신의 투자 성향에 따라 정적자산배분 전략을 선호하는 투자자들도 많기 때문에, 자신의 투자 성향에 맞는 전략을 선택하는 것이 중요합니다. <strong>물론 두 가지 전략은 서로 상관성이 낮고 상대적으로 유리하고 불리한 국면이 정반대이기 때문에, 두 전략에 분산 투자하는 것도 좋은 방법입니다.</strong></p>
+<h2 id="결론-및-요약-12">결론 및 요약</h2>
+<ul>
+<li><strong>자산 배분 전략은 정적 / 동적 자산 배분의 2가지로 구분할 수 있다.</strong></li>
+<li><strong>정적 자산 배분 전략은 횡보장에 유리, 동적 자산 배분 전략은 추세장에 유리하다.</strong></li>
+<li><strong>2가지 자산 배분 전략의 장단점은 상반되며, 자신의 투자 성향에 맞게 전략을 선택하여 투자하는 것이 좋다.</strong></li>
+</ul>
+<p>이제 자산 배분 전략의 모든 기본 이론을 마쳤습니다. 다음 시간부터는 간단한 자산 배분 전략을 직접 만들고 실제로 시뮬레이션해보겠습니다. 우선 정적 자산 배분 전략부터 만들어보고 다음으로 동적 자산 배분 전략을 공부해보겠습니다.</p>
 
     </div>
   </div>
